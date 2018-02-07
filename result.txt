@@ -1,0 +1,2 @@
+unigram: them dau, tach tu: 0.717
+uni_big3 : bỏ thêm dấu: 0.694
