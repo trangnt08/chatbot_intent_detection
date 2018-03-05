@@ -198,28 +198,9 @@ def accent(req):
     result = result.split(u'\n')[1]
     return result
 
-def load_keywords(filename):
-
-    dict = {'0':0,'1':1,'2':2,'3':3,'4':4,'5':5,'6':6,'7':7,'8':8,'9':9,'10':10,'11':11,'12':12,'14':14,'15':15,'16':16,'17':17,'18':18,'19':19,'20':20,'21':21}
-    array = []
-
-    with open(filename,'r') as f:
-        for line in f:
-            line = line.rstrip('\n')
-
-            label, key, quantity = line.split(" ", 3)
-            try:
-                array[dict[label]].append([key,quantity])
-            except:
-                print(label)
-
-    return array
 def load_data(filename, dict):
     res = []
-    col1 = []; col2 = []; col3 = []; col4 = []
-    dict = {'0': 0, '1': 1, '2': 2, '3': 3, '4': 4, '5': 5, '6': 6, '7': 7, '8': 8, '9': 9, '10': 10, '11': 11,
-            '12': 12, '14': 14, '15': 15, '16': 16, '17': 17, '18': 18, '19': 19, '20': 20, '21': 21}
-    keywords = load_keywords("data/keyword.txt")
+    col1 = []; col2 = []; col3 = []
     with open(filename, 'r') as f,open(dict, "w") as f2:
         for line in f:
             if line !='\n':
@@ -233,17 +214,9 @@ def load_data(filename, dict):
                 question = regex_email(question)
                 question = regex_phone_number(question)
                 question = regex_link(question)
-                array = question.split()
 
                 col1.append(label)
                 col2.append(number)
-                for index in range(len(keywords[dict[label]])):
-
-                    if keywords[dict[label]][index][0] in question:
-
-                        for count in range((int)(keywords[dict[label]][index][1])):
-                            array.append(keywords[dict[label]][index][0])
-                question = ' '.join(array)
                 col3.append(question)
 
         ngram = ngrams_array(col3,2)
@@ -272,7 +245,7 @@ def load_data(filename, dict):
             joblib.dump(train,'model/test3.pkl')
     return train
 
-def training1():
+def training():
     # vectorizer = load_model('model/vectorizer.pkl')
     # print "aa"
     # if vectorizer == None:
@@ -303,7 +276,7 @@ def predict_ex(mes):
     print mes
     uni_big = load_model('model/uni_big3.pkl')
     if uni_big == None:
-        training1()
+        training()
     uni_big = load_model('model/uni_big3.pkl')
     vectorizer = load_model('model/vectorizer3.pkl')
     t0 = time.time()
@@ -329,14 +302,14 @@ def predict_ex(mes):
 
 def test_file():
     uni_big = load_model('model/uni_big3.pkl')
-    if uni_big == None:
-        training1()
+    if uni_big is None:
+        training()
     uni_big = load_model('model/uni_big3.pkl')
     vectorizer = load_model('model/vectorizer3.pkl')
     t0 = time.time()
     # iterate over classifiers
     test = load_model('model/test3.pkl')
-    if test == None:
+    if test is None:
         test = load_data('data/test.txt','dict/dict1')
     test_text = test["question"].values
     X_test = vectorizer.transform(test_text)
