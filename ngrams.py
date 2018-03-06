@@ -236,39 +236,21 @@ def load_data(filename, dict):
                         col2.append(number)
                         col3.append(question)
 
-        ngram = ngrams_array(col3,2)
-        dict_arr = []
-        for x in ngram:
-            p = ngram.get(x)
-            # Neu xuat hien < 1 lan thi ghi vao file f2 de sau nay co the bo di nhung tu it xuat hien
-            if p<1:
-                dict_arr.append(x)
-                f2.write(x+"\n")
-        col4 = []
-        for q in col3:
-            q = review_to_words2(q,dict,2)  # q la 1 cau
-            q1 = [' '.join(x) for x in ngrams(q, 1)]  # q1:mang cac 1-grams
-            q2 = [' '.join(x) for x in ngrams(q, 2)]  # q2: mang cac phan tu 2-grams
-            q3 = [' '.join(x.replace(' ', '_') for x in q2)]
-            y = q1 + q3
-            z = " ".join(y)
-            col4.append(z)
-            # col4.append(q)
-        d = {"label":col1, "question": col4}
+        d = {"label":col1, "question": col3}
         train = pd.DataFrame(d)
         if filename == 'data/question1.txt':
-            joblib.dump(train,'model/train3.pkl')
+            joblib.dump(train,'model/train4.pkl')
         else:
-            joblib.dump(train,'model/test3.pkl')
+            joblib.dump(train,'model/test4.pkl')
     return train
 
 def training():
     # vectorizer = load_model('model/vectorizer.pkl')
     # print "aa"
     # if vectorizer == None:
-    vectorizer = TfidfVectorizer(ngram_range=(1, 1), max_df=0.7, min_df=2, max_features=1000)
-    train = load_model('model/train3.pkl')
-    if train == None:
+    vectorizer = TfidfVectorizer(ngram_range=(1, 2), max_df=0.7, min_df=2, max_features=1000)
+    train = load_model('model/train4.pkl')
+    if train is None:
         train = load_data('data/question1.txt', 'dict/dict1')
     print "---------------------------"
     print "Training"
@@ -281,21 +263,21 @@ def training():
     # print "train_data: \n", confusion_matrix(y_train, y_train,
     #                                              labels=["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11",
     #                                                      "12", "14", "15", "16", "17", "18", "19", "20", "21"])
-    joblib.dump(vectorizer, 'model/vectorizer3.pkl')
+    joblib.dump(vectorizer, 'model/vectorizer4.pkl')
     fit1(X_train, y_train)
 
 def fit1(X_train,y_train):
     uni_big = SVC(kernel='rbf', C=1000)
     uni_big.fit(X_train, y_train)
-    joblib.dump(uni_big, 'model/uni_big3.pkl')
+    joblib.dump(uni_big, 'model/uni_big4.pkl')
 
 def predict_ex(mes):
     print mes
-    uni_big = load_model('model/uni_big3.pkl')
-    if uni_big == None:
+    uni_big = load_model('model/uni_big4.pkl')
+    if uni_big is None:
         training()
-    uni_big = load_model('model/uni_big3.pkl')
-    vectorizer = load_model('model/vectorizer3.pkl')
+    uni_big = load_model('model/uni_big4.pkl')
+    vectorizer = load_model('model/vectorizer4.pkl')
     t0 = time.time()
     # iterate over classifiers
     try:
@@ -318,14 +300,14 @@ def predict_ex(mes):
     return s
 
 def test_file():
-    uni_big = load_model('model/uni_big3.pkl')
+    uni_big = load_model('model/uni_big4.pkl')
     if uni_big is None:
         training()
-    uni_big = load_model('model/uni_big3.pkl')
-    vectorizer = load_model('model/vectorizer3.pkl')
+    uni_big = load_model('model/uni_big4.pkl')
+    vectorizer = load_model('model/vectorizer4.pkl')
     t0 = time.time()
     # iterate over classifiers
-    test = load_model('model/test3.pkl')
+    test = load_model('model/test4.pkl')
     if test is None:
         test = load_data('data/test2.txt','dict/dict1')
     test_text = test["question"].values
