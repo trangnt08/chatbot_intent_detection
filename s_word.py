@@ -71,6 +71,7 @@ def clean_doc(question):
     question = regex_link(question)
 
     question = unicode(question, encoding='utf-8')
+    question = accent(question)
     question = tokenizer.predict(question)  # tu them dau . vao cuoi cau
 
     rm_junk_mark = re.compile(ur'[?,\.\n]')
