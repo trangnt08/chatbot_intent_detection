@@ -288,11 +288,20 @@ def predict_ex(mes):
     test_message = ViTokenizer.tokenize(mes).encode('utf8')
     test_message = clean_str_vn(test_message)
     test_message = list_words(test_message)
+
+    test_message = accent(test_message)
+    test_message = tokenizer.predict(test_message)
+    test_message = regex_email(test_message)
+    test_message = regex_phone_number(test_message)
+    test_message = regex_link(test_message)
+    print test_message
+
     clean_test_reviews = []
     clean_test_reviews.append(test_message)
     d2 = {"message": clean_test_reviews}
     test2 = pd.DataFrame(d2)
-    test_text2 = test2["message"].values.astype('str')
+    # test_text2 = test2["message"].values.astype('str')
+    test_text2 = test2["message"].values
     test_data_features = vectorizer.transform(test_text2)
     test_data_features = test_data_features.toarray()
     # print test_data_features

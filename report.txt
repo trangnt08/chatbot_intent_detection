@@ -1,0 +1,8 @@
+dung ngrams(1,2), them dau, tach tu : 0,694
+uni_bigrams, them dau, tach tu: 0,698
+uni_bigrams, tach tu: 0.684
+27 nhãn, tất cả data: 0,706
+# question1=>3.pkl (chi data cua Trang)
+# sum_ques =>5.pkl (them data loai 1 cua Tung)
+# 6.pkl (tat ca data, da paste them data loai 2 cua Tung vao question2.txt)
+# 7.pkl (can bang du lieu)

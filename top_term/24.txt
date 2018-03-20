@@ -1,0 +1,13 @@
+ad : 2
+xin : 2
+ạ : 1
+chào : 1
+^^ : 1
+ơi : 1
+chào_bạn : 1
+chao : 1
+hoi : 1
+shop : 1
+hì : 1
+bạn : 1
+ : 0

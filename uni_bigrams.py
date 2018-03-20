@@ -29,7 +29,7 @@ def time_diff_str(t1, t2):
     return str(mins) + " mins and " + str(secs) + " seconds"
 
 def load_model(model):
-    print('loading model ...',model)
+    print('loading model ...')
     if os.path.isfile(model):
         return joblib.load(model)
     else:
@@ -91,23 +91,6 @@ def word_clean(array, review):
     words = review.lower().split()
     meaningful_words = [w for w in words if w in array]
     return " ".join(meaningful_words)
-
-def print_words_frequency(train_data_features):
-    # Take a look at the words in the vocabulary
-    vectorizer = load_model('model/vectorizer.pkl')
-    if vectorizer == None:
-        vectorizer = TfidfVectorizer(ngram_range=(1, 1), max_df=0.7, min_df=2, max_features=1000)
-    vocab = vectorizer.get_feature_names()
-    print "Words in vocabulary:", vocab
-
-    # Sum up the counts of each vocabulary word
-    dist = np.sum(train_data_features, axis=0)
-
-    # For each, print the vocabulary word and the number of times it
-    # appears in the training set
-    print "Words frequency..."
-    for tag, count in zip(vocab, dist):
-        print count, tag
 
 def ngrams(input, n):
   input = input.split(' ')
@@ -195,12 +178,9 @@ def accent(req):
         result = unicode(result)
     except:
         result = unicode(result, encoding='utf-8')
-    # print result
-    # result = result.split(u'\n')[1]
+    result = result.split(u'\n')[1]
     return result
 
-# question1=>3.pkl
-# sum_ques =>5.pkl
 def load_data(filename, dict):
     yn_label = []
     col1 = []; col2 = []; col3 = []
@@ -210,26 +190,19 @@ def load_data(filename, dict):
                 label_num, question = line.split("\t")
                 # question = clean_str_vn(question)
                 label, number = label_num.split("||#")
-                n = int(number)
-                # if n%100 == 0:
-                #     print n
                 # question = review_to_words(question,'dict/vietnamese-stopwords-dash.txt')
                 # question = ViTokenizer.tokenize(unicode(question, encoding='utf-8'))
-                question = accent(question)
+                # bo remove accent
+                # question = accent(question)
                 question = tokenizer.predict(question)
                 question = regex_email(question)
                 question = regex_phone_number(question)
                 question = regex_link(question)
-                if(filename == 'data/sum_ques.txt'):
-                    if label=='4' or label=='7' or label=='11' or label=='12' or label=='24' or label=='25' or label=='26' or label=='27':
-                        for i in range(50):
-                            col1.append(label)
-                            col2.append(number)
-                            col3.append(question)
+
                 col1.append(label)
                 col2.append(number)
                 col3.append(question)
-        if filename == 'data/sum_ques.txt':
+        if filename == 'data/question1.txt':
             with open('data/question2.txt','r') as f3:
                 for line in f3:
                     if line != '\n':
@@ -242,13 +215,6 @@ def load_data(filename, dict):
                         question = regex_email(question)
                         question = regex_phone_number(question)
                         question = regex_link(question)
-                        if label == '4' or label == '7' or label == '11' or label == '12' or label == '24' or label == '25' or label == '26' or label == '27':
-                            for i in range(50):
-                                yn_label.append(l1)
-                                col1.append(l2)
-                                col2.append(number)
-                                col3.append(question)
-                                # print question
                         yn_label.append(l1)
                         col1.append(l2)
                         col2.append(number)
@@ -274,10 +240,10 @@ def load_data(filename, dict):
             # col4.append(q)
         d = {"label":col1, "question": col4}
         train = pd.DataFrame(d)
-        if filename == 'data/sum_ques.txt':
-            joblib.dump(train,'model/train.pkl')
+        if filename == 'data/question1.txt':
+            joblib.dump(train,'model/train1.pkl')
         else:
-            joblib.dump(train,'model/test3.pkl')
+            joblib.dump(train,'model/test1.pkl')
     return train
 
 def training():
@@ -285,9 +251,9 @@ def training():
     # print "aa"
     # if vectorizer == None:
     vectorizer = TfidfVectorizer(ngram_range=(1, 1), max_df=0.7, min_df=2, max_features=1000)
-    train = load_model('model/train.pkl')
+    train = load_model('model/train1.pkl')
     if train == None:
-        train = load_data('data/sum_ques.txt', 'dict/dict1')
+        train = load_data('data/question1.txt', 'dict/dict1')
     print "---------------------------"
     print "Training"
     print "---------------------------"
@@ -299,21 +265,21 @@ def training():
     # print "train_data: \n", confusion_matrix(y_train, y_train,
     #                                              labels=["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11",
     #                                                      "12", "14", "15", "16", "17", "18", "19", "20", "21"])
-    joblib.dump(vectorizer, 'model/vectorizer.pkl')
+    joblib.dump(vectorizer, 'model/vectorizer1.pkl')
     fit1(X_train, y_train)
 
 def fit1(X_train,y_train):
     uni_big = SVC(kernel='rbf', C=1000)
     uni_big.fit(X_train, y_train)
-    joblib.dump(uni_big, 'model/uni_big.pkl')
+    joblib.dump(uni_big, 'model/uni_big1.pkl')
 
 def predict_ex(mes):
     print mes
-    uni_big = load_model('model/uni_big.pkl')
+    uni_big = load_model('model/uni_big1.pkl')
     if uni_big == None:
         training()
-    uni_big = load_model('model/uni_big.pkl')
-    vectorizer = load_model('model/vectorizer.pkl')
+    uni_big = load_model('model/uni_big1.pkl')
+    vectorizer = load_model('model/vectorizer1.pkl')
     t0 = time.time()
     # iterate over classifiers
     try:
@@ -336,14 +302,14 @@ def predict_ex(mes):
     return s
 
 def test_file():
-    uni_big = load_model('model/uni_big.pkl')
+    uni_big = load_model('model/uni_big1.pkl')
     if uni_big is None:
         training()
-    uni_big = load_model('model/uni_big.pkl')
-    vectorizer = load_model('model/vectorizer.pkl')
+    uni_big = load_model('model/uni_big1.pkl')
+    vectorizer = load_model('model/vectorizer1.pkl')
     t0 = time.time()
     # iterate over classifiers
-    test = load_model('model/test3.pkl')
+    test = load_model('model/test1.pkl')
     if test is None:
         test = load_data('data/test2.txt','dict/dict1')
     test_text = test["question"].values
@@ -356,24 +322,24 @@ def test_file():
     print " accuracy: %0.3f" % f1_score(y_test, y_pred, average='weighted')
     print "confuse matrix: \n", confusion_matrix(y_test, y_pred,
                                                  labels=["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11",
-                                                         "12", "14", "15", "16", "17", "18", "19", "20", "21","22","23","24","25","26","27"])
+                                                         "12", "14", "15", "16", "17", "18", "19", "20", "21","22","23","24","25","26"])
 
     # print "confuse matrix: \n", confusion_matrix(y_test, y_pred, labels=["0", "1", "2", "3", "4", "5","6","7","8","9","10", "11", "12", "14", "15","16","17","18","19","20","21"])
 
-# def test_mes():
-#     d = {"0": "Giá (sản phẩm, phụ kiện, thay linh kiện,...)", "1": "Cập nhật phần mềm hệ thống (cài phần mềm,...)",
-#          "2": "Tình trạng sp (còn hay hết)", "3": "So sánh 2 sản phẩm",
-#          "4": "Chế độ giao hàng", "5": "Chế độ bảo hành", "6": "Khuyến mãi", "7": "Thanh toán (tại cửa hàng, trả góp)",
-#          "8": "Trả góp",
-#          "9": "Chất lượng", "10": "Thông tin, chức năng", "11": "Báo khi có máy", "12": "Hủy đơn hàng", "14": "Đổi máy",
-#          "15": "Góp ý", "16": "Đánh giá tích cực", "17": "Phụ kiện (loại gì)", "18": "Khác", "19": "Tư vấn",
-#          "20": "Đặt trước máy",
-#          "21": "PMH có trừ trực tiếp vào máy ko"}
-#     mes = ""
-#     while(mes.lower()!="q"):
-#         mes = raw_input("Nhap cau: ")
-#         result = predict_ex(mes)
-#         print d[result]
+def test_mes():
+    d = {"0": "Giá (sản phẩm, phụ kiện, thay linh kiện,...)", "1": "Cập nhật phần mềm hệ thống (cài phần mềm,...)",
+         "2": "Tình trạng sp (còn hay hết)", "3": "So sánh 2 sản phẩm",
+         "4": "Chế độ giao hàng", "5": "Chế độ bảo hành", "6": "Khuyến mãi", "7": "Thanh toán (tại cửa hàng, trả góp)",
+         "8": "Trả góp",
+         "9": "Phản ánh chất lượng", "10": "Thông tin, chức năng", "11": "Báo khi có máy", "12": "Hủy đơn hàng", "14": "Đổi máy",
+         "15": "Góp ý", "16": "Đánh giá tích cực", "17": "Phụ kiện (loại gì)", "18": "Khác", "19": "Tư vấn",
+         "20": "Đặt trước máy",
+         "21": "PMH có trừ trực tiếp vào máy ko"}
+    mes = ""
+    while(mes.lower()!="q"):
+        mes = raw_input("Nhap cau: ")
+        result = predict_ex(mes)
+        print d[result]
 if __name__ == '__main__':
 
     # mes = raw_input("Nhap cau: ")

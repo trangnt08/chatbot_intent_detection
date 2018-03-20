@@ -386,7 +386,7 @@
 1-10||#10386	cho mình hỏi ss a7 2017 có chống nước k ạ
 1-6||#10387	nếu thanh toán bằng thẻ MC2 thì có km gi ko
 1-10||#10388	A72017 có sạc được không dây K.
-0-25||#10389	Minh o nga tu go may . Minh muon mua may galaxy A7 thi mua o dau
+0-27||#10389	Minh o nga tu go may . Minh muon mua may galaxy A7 thi mua o dau
 1-5||#10390	Mình mua dt mới. A7_ 2017. Mua ngày 25/09/2017. Giờ bị hỏng sạc. Vậy dc bảo hành ko .
 1-5||#10391	Cho mình hỏi chút. Khi mua mình dc bảo hành sạc ko
 0-8||#10392	Trả góp sinh viên cần những điều kiện gì ạ
@@ -826,7 +826,7 @@
 0-8||#10826	Ad cho ? Tra 50% thi moi thang tra bao nhieu ạ
 0-8||#10827	Trả góp thì hàng tháng phải trả bao nhiêu và trong bao lâu thì hết nợ ạ?
 1-10||#10828	Cho mình hỏi samsung a7 camera có lồi ko ạ. ..
-0-2||#10829	Cà mau mua hàg ở đâu add
+0-27||#10829	Cà mau mua hàg ở đâu add
 1-8||#10830	QTV cho hoi a7 tra gop 0% ma tra trc 20% dc hk z ?
 1-10||#10831	Điện thoại A7 có chống nước không ạ. Tại có người thân chụp hình dưới hồ bơi thì máy bị out nên đang hoang mang ạ
 0-18||#10832	Vì sao trả góp lại rẻ hơn trả tiền liền hả shop?
@@ -1378,7 +1378,7 @@
 0-2||#11378	ở nha trang ở chổ nào bán màu vàng đồng zị
 1-2||#11379	nha trang còn hàng k..hay trên thành cũng còn k
 0-22||#11380	Chung nao co mau hong vay ak
-1-2||#11381	anh ơi oppo f1plus mà ở đâu mới có màu vàng đồng ko ạ em ở xã tam thôn hiệp huyện cần giờ thành phố hồ chí minh
+1-27||#11381	anh ơi oppo f1plus mà ở đâu mới có màu vàng đồng ko ạ em ở xã tam thôn hiệp huyện cần giờ thành phố hồ chí minh
 1-2||#11382	anh ơi cho em hỏi oppo f1plus có hàng phân phối chính tức khong ạ
 1-8||#11383	mình đang trả góp đt bên FE Credit, và mình có cmnd và hộ khẩu gốc... mình có thể trả góp tiếp đt đc nữa không
 1-2||#11384	oppo f1s plus con hang o huynh tan phat ko sh
@@ -1412,7 +1412,7 @@
 1-2||#11412	cho e hoi lieu ben mjh co kjh doanh galasi s8 k
 1-14||#11413	Ad cho em hỏi em mua oppo f1 plus về nhưng không thích cho lắm em muốn trả lại lấy máy khác đc ko ad em mới mua trong ngày luôn
 0-18||#11414	khi nào bên mình nghỉ tết vậy ạ?
-0-18||#11415	Cưa hàng ở đâu z ạ
+0-27||#11415	Cưa hàng ở đâu z ạ
 1-2||#11416	màu hồng ở sóc trăng còn hàng ko ạ?
 0-8||#11417	trả góp 0d hàng tháng la sao v ạ?
 1-8||#11418	Còn hỗ trợ làm thủ tục mua trả góp ko vậy
@@ -1428,7 +1428,7 @@
 0-18||#11428	May Minh mua o Shop cung gan 8 thang roi
 1-23||#11429	Ben FPT co thau may lai kg?gia thau lai la bao nhieu zay?
 1-2||#11430	Còn màu vàng đồng ko ah
-0-18||#11431	em mua oppo f1plus ở fpt giờ máy của em bị vỡ màn hình thì sữa chữa ở đâu đk ạ
+0-27||#11431	em mua oppo f1plus ở fpt giờ máy của em bị vỡ màn hình thì sữa chữa ở đâu đk ạ
 1-17||#11432	Cửa hàng có bán pin điện thoại Samsung galaxy V không ad
 1-2||#11433	Fpt cao lanh con samsung galaxy A9 pro kg ak
 1-14||#11434	Mua trà góp có đk trả lại k ak?
@@ -1512,7 +1512,7 @@
 1-6||#11512	oppo f1s plus có được tặng ốp lưng thỏ bảy mau k ạ
 1-8||#11513	Máy này trả trc của home credit thì trả trước bao nhiêu ạ. Mình có chứng minh thư và bằng lái xe thì có đăng ký trả góp đc k?
 1-8||#11514	cmnd mình bị hư ảnh nhưng bằng lái xe môtô thì còn tốt vay co mua gop duoc ko
-0-18||#11515	mình ở phường điện ngọc thị xã điện bàn quảng nam thì mua góp ở đâu tiện nhất
+0-27||#11515	mình ở phường điện ngọc thị xã điện bàn quảng nam thì mua góp ở đâu tiện nhất
 0-1||#11516	Mình quay video bình thường nhưng lúc thoát ra mình không nhấn stop mà nhấn luôn nút home nên video của mình trở thành video tua nhanh thời gian, không biết làm sao mình có thể phục hồi video đó trở lại ban đầu hả shop?
 1-8||#11517	mua góp trả trước 50% được không shop
 1-8||#11518	Minh muon mua ma tea truoc 20% Co duoc no?
@@ -1585,7 +1585,7 @@
 1-8||#11585	dang tra gop co dc mua may tra gop ko
 1-8||#11586	Em sinh ngày 27-6-1998 có cmt và sổ hộ khẩu có thể tham gia trả góp k ạ
 0-18||#11587	Nếu ko có ốp lưng thì sao
-0-8||#11588	C0n sony xa1nay minh muon mua tra gop thi mua o dau ban nhi va fai dat truoc bao nhieu tien de su dung may .thu tuc la fai lam nhung gi chu ban
+0-27||#11588	C0n sony xa1nay minh muon mua tra gop thi mua o dau ban nhi
 1-14||#11589	mình mới mua được 4 ngày nhưng cam trước bị lỗi hình ảnh mình muốn đổi lại có được không vậy
 0-17||#11590	Shop cho hoi. Voi Xa1 PLUS thi sac du phòng nao la thich hop, minh dung may loai ma ko nap dc
 1-2||#11591	Shop mình có ốp lưng của xa1 plus ko ạ?
@@ -2398,3 +2398,1752 @@
 0-8||#12398	Toi muon mua dien thoai oppo f5 tra gop k can tra truoc.can phai den cua hang nao va can thu tuc gi.xin cam on
 0-14||#12399	Đt oppo f1s đổi sang f5 bù bao nhiêu ạ
 0-22||#12400	Khi nào f5 mới có màu đỏ ạh, f5 có ốp chưa
+0-9||#23788	Tại sao điện thoại meizu m3s bật WiFi kết nối wifi được 1 chút thì tự động ngắt ngang vậy ( nhà có wifi )
+1-8||#23789	Có hổ trợ trả góp 50%, 6 tháng không ạ?
+1-10||#23790	máy có lên flyme os 6 dc k ạ
+1-6||#23791	đặt online có dc hỗ trợ mua sim lên mạng k ạ
+1-10||#23792	Máy có đèn led thông bao k
+1-5||#23793	M3s bi hu loa thoai con bao hanh. Nhu vay bao hanh duoc k
+0-10||#23794	máy có mấy điểm chạm cảm ứng cùng lúc
+0-18||#23795	Khi mua máy phải úp rom quốc tế,hay có rom quốc tế sẵn rồi
+0-18||#23796	giờ em mất khe chọt sime giờ làm sao ad
+0-9||#23797	Máy nkanh nóng quá ad ạ
+0-14||#23798	E mới mua 9 ngày e trả lại thi dc bai nhieu tiền ak
+1-5||#23799	Tai phone somic có bảo hành 1 đổi 1 ko qtv
+0-18||#23800	Máy em tự cap nhật bản flyme6.7.4.11g beta.giờ em muốn hạ xuống bản 5.1 cũ dc ko ạ. Bày em với a.
+0-9||#23801	Sao máy mình lại xuất hiện sợi chỉ giữa màn hình nhỉ
+1-2||#23802	Fpt shop có màu đen ko
+1-2||#23803	Dạ cho e hỏi là bên mình có meizu M3s màu hồng 3GB/32GB ko ạ? Và giá của nó là bao nhiêu ạ?
+0-9||#23804	Ad ơi cho hoi e mua dt này dk 3 tháng song h sạc dt này nó hỏng sạc k lên pin mà nó giữ yên thi là nó bị gi v
+1-5||#23805	e mua cái này được 6thag nhug cảm biến k còn ăn nữa thì có bảo hành k ạ?
+1-4||#23806	Sp có thể giao đến nhà văn hóa thôn thán phún xã bắc sơn tp móng cái tỉnh quảng ninh không ạ
+0-18||#23807	Chao shop minh cap nhat phien ban flyme 6.7.4.11g beta phien ban cap nhat di chuyen dien thoai nhung minh nhap mat khau khong dung
+1-21||#23808	Ko lấy quà tặng giá có giảm ko ạk
+0-10||#23809	Máy chơi liên quân Mobile thì xài đc mấy tiếng ạ?
+0-10||#23810	Meizu m3s có hỗ trợ cảm biến la bàn số không ạ?
+1-2||#23811	Chào shop, cho em hỏi là bên phường tân an, tp bmt có máy màu đen mặt trước k ạ.
+0-18||#23812	Mình mới mua máy chưa đc một tháng mà dạo này máy thường xuyên tự quay lại. Trong khi đó mình chưa hề đụng vô bất cứ một nút ấn nào cả. Đang coi phim mà cứ bị nhảy ra hoài
+1-4||#23813	Nếu mua có ship tậN nơi k ad
+0-10||#23814	đay la dien thoai cua nuoc nao vay
+1-1||#23815	Meizu m3s mình báo có bản cập nhật flymeos 6 beta có nên cập nhật không ad
+1-14||#23816	đổi trả máy khác có bù tiền ko a
+1-14||#23817	Ad cho mình hỏi là máy mình có được đổi trả trên toàn quốc ko ạ. Vs lại mình muốn đổi trả máy khác dc không ạ. (Máy mình bị 3 điểm chết trên màn hình)
+1-2||#23818	Cho em hỏi máy này có ở shop đà nẵng hay huế ko ạ
+1-10||#23819	VẬY LÀ MÁY NÀY CHỈ VÀO MẠNG ĐƯỢC 1 SIM , CÒN SIM KIA CHỈ CÓ CHỨC NĂNG THOẠI THÔI ĐÚNG KHÔNG VẬY?
+0-3||#23820	Cpu con này vs snapdragon 615 8nhan con nào choi game ngon hon
+1-10||#23821	Máy có hỗ trợ 4g không ad
+0-18||#23822	HÔM NAY MỚI CHEK ĐẾN PHẦN MẠNG, HIỆN TẠI SIM 2 KHÔNG VÀO WED ĐƯỢC DÙ TÍN HIỆU VẪN BÁO ĐẦY ĐỦ TRÊN CỘT SÓNG, SIM 1 THÌ VÀO OK . ANH EM NÀO ĐÃ GẶP TÌNH TRẠNG NÀY VÀ ĐÃ SỬ LÝ ĐƯỢC XIN CHO CÁCH KHẮC PHỤC. THANK NHIỀU.
+0-10||#23823	May nay cua nước ngoài nào zay qtv
+0-3||#23824	meizu m3s và huawei y 6ii xét về khả năng chơi game và camera thì máy nào hơn ạ ?
+0-3||#23825	chip 6737 vs chip 6750 chip nào hơn ạ?
+0-18||#23826	Mình mới mua máy hôm nay về mới phát hiện màn hình có 2 điểm chết. Ad cho mình hỏi là mình có thể đổi trả đối vs TH này ko ạ
+0-1||#23827	cho mình hỏi làm thế nào để tắt thông báo tin tức từ TouchPal
+0-16||#23828	máy dùng ngon pin tốt camera tốt chơi game tốt vừa tầm giá
+0-9||#23829	May mua dc 4 thag xai hoi nog xiu la man hih am do nang
+0-18||#23830	Cho minh coi mau sac du phong tang dc ko?
+1-10||#23831	may nay choi game lien quan muot ko a
+0-16||#23832	Ko biết các bạn dùng thế nào chứ mình thấy máy tốt pin trâu trừ camera hơi yếu thôi.
+0-18||#23833	Cho mk hoi may mk mua lai o fpt.luc k de ý đèn led ve nha moi bjt no bi chay gio sua co mat tien k ạ mk mua dk tam 4thang jui
+1-8||#23834	Trả góp 40% HDS hộ khẩu+CMND được không ạ
+0-0||#23835	máy e bi roi vo mat kinh còn trong thoi gian bao hanh neu thay mat kinh khoang bao nhiu v
+0-18||#23836	May nay room quoc te hay sao co ch play ko voi lai minh dat hang thi bao gio co phu kien op lung co day du ko
+1-2||#23837	Máy màu trắng còn tại fpt nguyễn văn cừ k ạ, và máy bên mình là bản quốc tế hay xách tay
+0-18||#23838	Cho e hỏi hum qua e mua chưa láy giấy bảo hành giờ làm sao ạ E mua ở đường Nguyễn Huệ Tp tuy hoà
+0-18||#23839	cho hỏi là máy này có sẵn rom quốc tế ( có tiếng việt ) hay khi mua là phải cài vào vây, update máy thì có bị mất tiếng việt với CH play ko vậy, tư vấn đầy đủ cho mình nhe
+0-9||#23840	Máy m3s của mình đang dùng ngon thì bị liệt cảm ứng nút home k dùng dấu vân tay đc luôn làm sao bjo qtv
+0-18||#23841	Số sêri: Y15HFBPH32Q85 có phải sãn phẩm cũa fbt shop ko ạ
+1-14||#23842	Mình mới mua sam sung j2 prime được 2 tháng mà ko thích bây giờ đổi lấy con này được ko mà đổi thì mất bao nhiêu . Xin cảm ơn
+0-18||#23843	máy e khi đặt báo thức để cả chuông và rung nhưng nó chỉ có rung ạ.k biết khắc phụ ntn
+0-18||#23844	Máy mình nó cứ có hình cái móc hình số 8 nằm ngang góc trái trên cùng, cạnh đồng hồ, không biết là nó thông báo cái gì vậy mà không làm nó mất đi được. Anh em nào biết thì cho vài lời giải thích nhé. Xin cảm ơn nhiều.
+1-10||#23845	máy có carm biến vân tay 1 chạm k ạ
+1-2||#23846	Co may o 122 124 duong hoang lien coc leu lao cai k ạ
+0-18||#23847	Cho em hoi chiec meizu m3s này chơi gm vltk đc 2 3 nă! Đc ko ạ chơi đc khoảng bao lâu
+1-1||#23848	máy hiện lên bản cập nhật Flyme 6.7.4.11G beta dòng máy Meizu m3s Thế có nên nâng cấp lên phiên bản này ko ad
+0-18||#23849	fpt shop có dán keo màn hình máy này không ạ
+1-17||#23850	fpt shop có dán kính cường lực cho máy này không ạ
+0-18||#23851	cho e hỏi là mấy yêu càu cập nhận phần mềm thì có tự cập nhật được k hay là phải mang ra cửa hàng cập nhật ạ?
+0-1||#23852	cho e hoi la e cap nhat Flyme 6.7.4.11G beta gio k thix nua muon tro ve Flyme ban dau thi phai lam sao
+1-2||#23853	cho mk hỏi là ở chương mỹ hn . hay sơn tây hn còn hàng ko vậy shop
+0-18||#23854	CHAO FPT MINH MOI MUA MAY HOM QUA TAI CUA HANG, MAY TOT NHAN VIEN TAN TINH, XIN QTV KIEM TRA GIUP MAY NAY HO TRO 4G CA 2 SIM HAY CHI 1 SIM THOI. CAM ON SHOP NHIEU
+1-2||#23855	Sản phẩm này ở Fpt shop Cao Bằng còn hàng ko???admin
+1-10||#23856	meizu chơi game liên quân mượt không ạ
+1-2||#23857	Xin hoi hien tai fpt tuyen quang co hang khong vay ? Xin cam on
+1-10||#23858	M3s lên android 6 được chưa shop ơi, nếu như chưa thì khoảng bao lâu nữa mới lên được. thank
+0-18||#23859	Mình ở tp móng cái tỉnh quảng ninh mình đặt online và giao hàng tận nơi có tính phí không ạ và thời gian giao nhanh nhất đến tp móng cái tỉnh quảng ninh là bao nhiêu ngày ạ
+0-18||#23860	meid 86324603226049 May này mua lúc ngày nào z ạ
+0-9||#23861	Tôi mua m3s được khoảng 4 tháng tự dưng có hiện tượng ám đỏ toàn màn hình ko bít tại sao mong ad tư vấn
+0-18||#23862	Mình muốn đặt và giữ máy thì có phải tín phí không ạ. Và có thể hủy đặt khi mình đã đặt không ạ.???
+1-10||#23863	dt nay sai 4g k day.. lap sim 4g vo kiem tra web 4gviettell.vn bao may nay k sai 4g..sau phan cai dat co 4g
+0-18||#23864	Mình ở tp móng cái tỉnh quảng ninh thì mình đặt con này theo ngày và giờ mình muốn nhận có dược không vậy mày máy này đã cài bản rom có tieenga việt và chplay chưa ad
+1-10||#23865	Choi liên quan do hoa maxx dc k
+0-22||#23866	Phiên bản màu trắng bao gì có hàng vậy ad
+1-10||#23867	Ad cho mình hỏi chiếc meizu m3s này có thiết kế mặt kính 2,5D không mong ad sớm phản hồi
+0-3||#23868	Lg K10 vs Meizu M3s thì con nào chiến game tốt hơn z QTV?
+0-18||#23869	Vậy tức là nhờ kĩ thuật viên cài rom
+0-18||#23870	Ad ơi máy này mới mở lên đã có rom tiếng việt rồi hay là phải nhờ kĩ thuật viên cài rom cooc
+0-18||#23871	Ad cho mk hỏi là sạc của meizu m3s này mk đang sạc và bị mưa hắt vào ướt hết củ sạc vậy sạc có bị cháy k ạ?
+0-18||#23872	máy có hỗ trợ tiếng việt k.. quy nhơn còn hàng k
+0-18||#23873	Mua tra tien mat la dc tag sdp ha ad
+1-6||#23874	Mua máy cũ có đk tặng sạc dự phòng k ad
+0-8||#23875	trả góp tháng nhiu z shop
+1-1||#23876	Co nem cap njat plyme os 6 k qtv
+1-1||#23877	ad cho hỏi máy e bị mất ch play rùi ,mà e cài hoài ko dc..giờ đem ra cửa hàng cài lại dc ko ạ..máy còn bảo hành ậ..
+0-18||#23878	QTV cho em hỏi vài câu với ạ 1. Máy này có được bảo hành như chính hãng FPT ko ạ 2. FPT có bán ốp với cường lực máy ko ạ 3. Khuyến mãi sạc dự phòng đến khi nào ạ Em cám ơn
+1-1||#23879	Cho hoi co ban nang cap plyme 6. co nen nang cap k a
+1-1||#23880	Nhà phát hành có bản cập nhật plyme 6. có nên cập nhật k qtv
+0-1||#23881	Qtv chi minh cach thuc cai dat CH play cho meizu m3s minh khoi phuc cai dat goc mat het roi
+0-18||#23882	Đt e m ở fpt shop anh trai e mua ma a đi làm rồi.khi mua hình như k có giấy bảo hành.mà bh nó bị k bấn về đk nữa và khi tắt màn hình thì nó bị sập nguồn
+1-10||#23883	Cho minh hoi m3s co ket noi USB bang cong OTG ko
+0-3||#23884	QTV so sanh giup em Meizu M3s vs Huawei Y6 II di
+0-5||#23885	Đt e mua đk 5 tháng mà bh nó lâu lâu nó sập nguồn và khi e tắt màn hình nó sập luôn.khi e mua thì e mua ở fpt shop ở vinh.đi bảo hành thì cần những gì ạ
+0-0||#23886	E chỉ dán màn hình, ko dán mặt lưng thì bao nhiu ạk ?
+1-10||#23887	May dang la android 5.0.1 vay co duoc len android 6.0 ko a
+0-3||#23888	Cho mình hỏi chip MT6750 với snapdragon 435 thì chip nào mạnh hơn ạ
+1-23||#23889	Chào ad..mình mới mua điện thoại tại fpt shop : Meizu M3s với giá 2,690k nhưng được giảm 300k còn 2,390k ..mua được khoãng 15 ngày. Giờ mình muốn bán lại cho shop được không
+1-1||#23890	Có nên cập nhập lên flyme 6 hk qtv
+0-0||#23891	máy đang con bảo hành mà giờ bị bể màn hình giờ thay ba nhiêu z ?
+1-17||#23892	Có dáng màng hình với ốp lưng meizu m3s không ad
+1-17||#23893	Có bán miếng dán màn hình của điện thoại này k vậy?
+1-17||#23894	Có mieng dan man hinh meizu m3s k vay shop?
+0-6||#23895	khi nào thì m3s này có trương trình khuyến mãi giảm giá nữa ak khi mua meizu m3s vs 2690 có đk tặng j k
+1-1||#23896	Có nên cập nhập lên flyme 6.7.4 hk z qtv và ưu điểm j khi lên flyme 6
+1-8||#23897	Qtv cho tôi hỏi, tôi có mua điện thoại trả góp tại fpt shop nhưng bây giờ tôi bận quá, không có thời gian ra cửa hàng để trả tiền hàng tháng được, vậy tôi có thể nhờ người thân mang chứng minh nhân dân và sổ hộ khẩu của tôi ra cửa hàng để trả góp thay tôi được không
+0-18||#23898	cho minh hoi tai sao khi pin con 20% thi chi dung dc khoang 5 den 10 phut la sap nguon co phai may bi loi hay ko ? lam the nao de khac phuc ? nho AD giai dap dum .Minh cam on!
+0-1||#23899	Bản đò của m3s ở đâu vậy
+0-5||#23900	M3s của em còn bảo hành 4 tháng, phím home k nhận cảm biến vân tay với lại mback lúc được lúc ko nếu đem bảo hành có tính phí k ạ
+0-1||#23901	shop cho hỏi cách khôi phục cài đặt gốc của dt này
+1-2||#23902	Tại thạch thành co máy chưa qtv
+0-18||#23903	QTV đac hàng 22h tới gời sao k ai goi zay. 01688596213.
+0-0||#23904	shop có thay mặt kính máy m3s ko ạ. giá bn ạ
+0-9||#23905	Chào shop. E mới mua con m3s này nhưng khi truy cập chplay thì báo lỗi không truy cập được máy chủ. Cho e hỏi nguyên tại đâu
+0-16||#23906	Chiều nay vừa mua 1 chiếc tại C12 Thanh xuân Bắc. Nhận xét thấy ngon, bổ, rẻ.
+0-1||#23907	Qtv cho minh hoi cach cai dat lai ch play.minh vo bao mat chon tap tin chon vo cai no keu xoa may cai,minh xoa xong khong vo duoc lien quan hay ch play dc.
+0-10||#23908	cho hỏi máy này bật wifi liên tục thì pin xài bao lâu
+1-2||#23909	tiền giang có ko
+1-2||#23910	Cho e hỏi mizu m3s cu ở sóc Trăng có ko.co bạn góp ko
+1-2||#23911	Ở tp hà tĩnh còn hàng nựa ko vây
+1-2||#23912	Đt này có máy cũ giá rẻ không ad
+1-10||#23913	Z m3s choi game nang co muot hk co lag hk z
+0-0||#23914	Z 2gb gia bao nhiu z
+0-3||#23915	Cho e hoi meizu m3s phien ban 2 GB vs 3GB co j khac hk z
+0-18||#23916	Cho hỏi shop có bán sim nano không ạ?
+1-10||#23917	Cho hỏi máy này có đèn báo tin nhắn cuộc gọi ko ạ
+0-18||#23918	cho mình hỏi nếu mình khôi phục cài đặt gốc thì sau khi khôi phục có còn rom TV ko, các dữ liệu của máy có mất ko, và máy sẽ chạy Flyme OS mấy vậy?Mình cảm ơn!
+0-18||#23919	Ac ơi cho e hỏi. Máy e chụp ảnh với quay phím xong k xem được. Nó bị lỗi k hiện thì phai làm sao ạ? Nếu dùng phần mềm khác thì vẫn bt nhung dùng cam của mấy thì lại k được ạ?
+1-10||#23920	Có chơi dc alphas 8 ko
+1-17||#23921	Qtv cho hỏi máy này có dán được mặt lưng k
+1-10||#23922	máy chơi liên quân tốc độ thấp đc k ạ
+0-25||#23923	Minh mua meizu 3s
+1-6||#23924	Nếu ko mua online có đc tặng ji ko và khuyến mãi ji ko shop
+0-18||#23925	E mới mua dt meizu m3s phiên bản của e ko có ch play h e chuyển qua phiên bản có ch play dc ko ạ
+1-2||#23926	Shop còn bán ip5 ko
+1-17||#23927	cho hỏi có ốp lưng nhựa dẻo bản ko ạ
+0-18||#23928	m3s co cam bien vang tay k ad. mua may phai cai dac rom tien vien hả
+0-18||#23929	Cái này ở trên toàn bộ cửa hàng của FPT đều là hàng chính hãng hay là xách tay vậy QTV?
+0-18||#23930	Máy có tiếng việt sẵn không ad. Giao hàng tận nhà là tự tay bóc sell ha shop
+1-10||#23931	Con này chơi game CF Legends tốt ko z ?
+0-18||#23932	Máy e k biết bị gì mà gọi đến k có chuông, đã cài âm lượng max vẫn k có chuông, tin nhắn đến và các âm báo khác vẫn bình thường
+0-0||#23933	Qtv cho minh hoi m3s minh bi nuc kinh chi bi ben ngoai thoi.k biet la di bao hanh khoang bao nhieu vai...
+0-1||#23934	cho mjh hoi mun tao tai khoan flyme os tren meizu m3s pai lm sao zay qtv chi mjh voi
+0-0||#23935	Cho minh hoi fpt co ban mic karaoke bluetooth ko vay. Gia bài nhieu
+0-1||#23936	xin hỏi máy này làm sao để chuyển ứng dụng sang thẻ nhớ ạ
+0-16||#23937	mới sử dụng được 2ngày rất ok ,mong rằng có nhiều sản phẩm tốt như con m3s nay
+0-18||#23938	bác cho em hỏi, bảo hành như sao và với redmi 4a thì về lý thuyết ai hơn? Khi hết bảo hành thì có dễ tìm đồ sửa không ạ?
+0-17||#23939	cho e hỏi MEIZU M3s có những phụ kiện gì?
+1-2||#23940	Cho em hõi ở Vĩnh long còn hàng không vậy
+0-18||#23941	Cho em xin link tải chpay ạ.
+0-10||#23942	Cho e hỏi là hãng meizu sài tốt không ạ có bị giật lag gì với máy m3s k a
+0-18||#23943	Mua trả góp trả trước 70%, vậy góp mỗi tháng 81.461vnd đã bao gồm phí thu hộ chưa ạ
+0-8||#23944	Mình muốn mua trả góp 70% trong 12 tháng, vậy mỗi tháng mình phải trả bao nhiêu (tính cả phí thu hộ) vậy. Và mình có thể nhờ người khác đi nộp giúp được không hay người mua trả góp mới có thể đi nộp tiền ạ
+1-2||#23945	Fpt shop tuyên quang còn hang k qtv
+0-3||#23946	cho mk hỏi tuy meizu m3s vs j2 prime so sánh 2 máy này thì máy nào sài dể bị xuống máy hơn ak
+1-5||#23947	Cho em hỏi Root máy Meizu M3s thì có bị từ chối bảo hành k ạ
+0-10||#23948	M3s chạy FlymeOS mấy vậy shop
+0-10||#23949	pin sai duoc bao lau a
+1-1||#23950	Máy này up lên android 6 dc kg ad
+0-3||#23951	Em muốn hỏi là trong hai sản phẩm meizu m3s và xiaomi mi4 thì mày nào có chip xử lí và camera tốt hơn ạ...
+0-5||#23952	Mình mới mua máy dược 3 tháng nhưng dây xạc theo máy chập chờn lúc xạc được lúc khong . Vậy mình có dược bảo hành gì k ạ ?
+1-23||#23953	shop có mua lại máy cũ ko ạ vs giá bn ạ
+1-2||#23954	Ở tp hà tĩnh hàng vê chua vay shop
+1-6||#23955	Cho hỏi Meizu M3s có khuyến mãi gì nữa không shop?
+1-14||#23956	Cho e hoi e ms mua meizu m3s cách day khoag 5 ngay.h e mún đổi lại lay tiền đc hk ak
+0-18||#23957	Ad có thể cho em sđt của cửa hàng fpt shop SỐ 311/2B TRẦN HƯNG ĐẠO, P. MỸ LONG, TP. LONG XUYÊN, TỈNH AN GIANG để em liên hệ kiểm tra bảo hành đc k ạ
+0-0||#23958	Cho hỏi hiện tại điện thoại mình bị hư cam trước vs vỏ máy. mà giờ mình muốn thây thì ở shop có thể thây hk ạ. Và xin giá cả ra sao ạ
+0-9||#23959	Đt e mới mua đk hơn 4 tháng mà bây giờ vd e vào youtobe xong thoát ra nó vẫn có hình youtobe in hằn trên màn hình mờ mờ á
+0-9||#23960	Máy tắt nguồn để lâu r giờ khởi độg lại sài vẫn ok hay sao có bị lỗi gì k
+0-5||#23961	lúc tôi mua meizu m3s ở fpt thì tôi ko để ý là ko có giấy bảo hành hay gì cả. Giờ tui muốn xem ngày mua với hạn bảo hành thì sao ạ
+1-10||#23962	Meizu m3s dùng cáp nối simore để dùng song song 2 sim + thẻ nhớ được không?
+0-10||#23963	cho mình hỏi máy dùng xem video, chơi game, lướt web dc bao nhiêu giờ vậy?
+0-18||#23964	Có máy nào pin trâu giá dưới 2trieu ko shop
+0-16||#23965	Máy dùng ngon. Pin trâu. Mượt
+1-2||#23966	cho e hỏi máy m3s còn ko ak
+0-9||#23967	Sao nút cảm biến ngày càng dỏn vậy, sạc pin thì cực nóng dù đã tắt máy
+1-10||#23968	Máy có dùng dc 4g of viettel ko ad.cảm mơn bn
+1-17||#23969	Co op lung cho may ko
+1-17||#23970	Shop co mieng dan cuong luc ko
+1-17||#23971	Shop có thay mà hình meizu m3s bị vỡ khôbg
+0-10||#23972	may nay pin choi lien tuc mat bao nhiu gio
+1-17||#23973	Có dán màn hình cho máy ko ạ
+0-18||#23974	Máy này tắt nguồn đã lâu r giờ mở nguồn lên sài lại liệu có bị lỗi gì k.
+0-8||#23975	Thu tuc trả gop của sinh vien 18 tuoi nhu thế nào vậy
+1-14||#23976	Có đổi vỏ từ màu vàng đồng sang màu khác được không ạ? NẾu có thi mất phí bao nhiêu vậy?
+1-10||#23977	co choi dc lien quan ko a
+0-17||#23978	shop ơi cho mình hỏi giờ mình ra dán cường lực cho máy đk ko ạ,? giá sao,,? và có dk bảo hành ko ạ?
+1-10||#23979	Máy có thể sử dụng tiếng Việt k ?
+1-10||#23980	Meizu M3S có lên andro 6.0 được không shop
+1-2||#23981	Tại TP BMT con hang không ạ
+0-18||#23982	cho hỏi khi mua máy bảo hành có kiêm cả nguồn màn vân tay không ạ
+0-18||#23983	Cho hỏi sạc pin qua đêm có sao không z
+0-9||#23984	E mới mua máy đc 2 ngày mà củ sạc của nó cắm vào 1 lúc sau rất lóng ở củ sạc và đầu dây có hiện tượng tê giật cắm vào điện thoại thì làm điện thoại bị đơ vậy shop phải đổi mới củ sạc chứ
+0-17||#23985	Cho hỏi ở shop đan phượng có miếng dán cường lực máy này Ko và giá bn ạ
+0-1||#23986	điện thoại em mới mua hồi tháng 2, ngày qua em cập nhật xong phiên bản mới thì nó bị bàn hình khj đen khj xanh trời, không vào được giao diện, làm thế nào ạ
+1-10||#23987	Cho mình hỏi máy sạc đầy pin có tự động ngắt sạc ko z
+0-18||#23988	ad cho hoi dt cua r cắm tai nghe vào rút ra nó vẫn hiện cái hình tai nghe mà nó k mất chỉ khơi động lại ms mất. nhu v rất bất tiện. máy mà mua dk 2thág
+0-18||#23989	Tại sao mua hàng rồi không thu lại? Nhân viên bán hàng có nói rõ ràng, xài 6 tháng vẫn đổi dc, Tính phí 20% tháng đầu tiên máy không bị lỗi gì tháng 2 là 25%. vậy bạn giải quyết đi nha, ko làm rõ thì tôi làm lớn chuyện tại cửa hàng đấy nha
+0-14||#23990	Máy mình mua đổi trả ngày 3/5/2017 còn bảo hành tới 28/2/2018 thì giờ muốn đổi lại tiền có được ko ạ? nếu được thì còn lại bao nhiêu ạ?
+0-17||#23991	Máy này có miếng dán màn hình chuẩn của máy k ad
+1-17||#23992	Điện thoại này có ốp lưng không vậy?
+0-18||#23993	Mua với giá 2.390tr trong hôm nay, có được trả góp với giá này ko
+0-18||#23994	Ở đâu cũng thấy hết hàng nhỉ.m ở Bắc Ninh đặt ngàybhôm nay có đc giá 2.390 ko ad?
+1-2||#23995	Cà mau con hag k z qtv
+1-2||#23996	Con hang k z
+1-0||#23997	Hôm nay còn mua được giá 2390000 không ad
+1-2||#23998	Ở vị thanh hậu giang còn hàng không ad
+0-18||#23999	Am thanh hat nhat to k
+0-18||#24000	May nay lao lan k
+0-1||#24001	Theo thông tin mình được biết thì M3s đã có bản cập nhập (flyme 6.7.4.11 beta) mình nhờ các bạn KTV FPT Shop kiểm tra và hướng dẫn cập nhập phiên bản nhé. Mình cảm ơn
+1-2||#24002	Ban oi fpt Tien lang hai phong con hang không bạn
+0-16||#24003	Dùng rất tốt , pin trâu , tuy nhiên máy có hơi nóng lên một chút . Nói chung là với tầm này là quá tuyệt với rồi
+0-9||#24004	Khi bật âm lượng cao hết cỡ mà âm thanh rất nhỏ khi đập nhẹ ở phần loa thì lại to thì làm sao để sửa vậy qtv?
+0-9||#24005	Pin máy này sụt quá nhanh quản trị ơi. không mở 3g, wifi gì chỉ nhập danh bạ vào máy thôi mà cứ hơn 1 phút thì giảm 1%.
+1-2||#24006	Meizu m3s ở PhanThiết- Bình Thuận còn hàng không vậy ad ?
+0-1||#24007	Làm thế nào để ghi thông tin trên màn hình khoá dc ạ
+1-2||#24008	ở hà nội còn hàng ko ạ?
+1-8||#24009	Trả trước 0 đ đối với sp này đc k ạ
+1-10||#24010	Cho hỏi máy có cài tiếng việt k
+0-18||#24011	cho mình hoi sao máy sử dụng chỉ ít phút là nóng lên, con khi sạc pin máy cũng nong lên nữa, cho mìn hoi máy như vậy là bị gì vậy
+1-2||#24012	Shop còn hàng 32gb ko ạ. Và hàng 16gb ở thị trấn chũ huyện lục ngạn bắc giang có gàng không ạ
+0-18||#24013	Ngày mai fpt còn làm k hay nghỉ lễ vậy nhỉ ad?
+1-10||#24014	M3s lên android 6 ( flyme os6 ) chưa ạ. Sao có qtv bảo lên được, còn qtv khác bảo chưa lên ?
+0-9||#24015	may cua minh hieu meizu m3s,xai lau nong va bi nhoe man hinh,minh moi mua duoc khoang hai tuan,minh ten ngo hoang khanh so dt 0934152802 ban kiem tra giup minh voi
+0-18||#24016	cho e hoi hom bua e co mua tra gop dt meizu o fpt sop ma may bi loi e co dem ra fpt phan van tri kiem tra g xong chua vay
+1-2||#24017	Hàng còn ở 186 tông đức thắng đà nẵng ko
+1-10||#24018	Máy này xạc rất lâu phải không. C
+1-2||#24019	m3s ở đức trọng lâm đồg còn k ạ
+1-17||#24020	A chị ơi đt này có thay pin đc ko..ạ..??
+1-10||#24021	Máy có hỗ trợ kết nói OTG ko ạ
+0-18||#24022	Lúc chiều nhận hàng, chỉ có cái hộp đựng với máy, hỏi nhân viên giao hàng hóa đơn và thẻ bảo hành đâu? Nhân viên giao hàng trả lời: " Đọc mã IMEI lên bên shop kiểm tra xem còn thời gian bảo hành không? Có phải thế không vì hoang mang quá mua hàng mà không có hóa đơn hay phiếu bảo hành gì hết
+0-10||#24023	Qtv cho hỏi con này 8 nhân 32 hay 64 bit vậy
+1-2||#24024	Trà Vinh Còn hàng không add?
+0-18||#24025	Cho mk hỏi meizu m3s cập nhật lên flyme 6.7.4.11 beta có rom tiếng việt k hay có bị lỗi gì k
+1-20||#24026	Nếu e đặt giữ hàng thì qua 2/5 có đc hg ưu đãi ko A
+0-3||#24027	Qtv tư vấn giúp con này với j2prim con nào hơn
+0-1||#24028	Qtv chi minh cách kết noi man hình may len tivi với ạ
+1-2||#24029	shop cho e hỏi chi nhánh nam định còn m3s xám ko ak
+0-9||#24030	Đt mua xài 1 ngày mà k hiểu s pin từ 15% tụt siêu nhanh.cứ như là đếm giây ngược r tắt nguồn luôn.bị như z e phải làm s ạ?
+1-6||#24031	E ra của hàng mua có được giá khuyến mại k ạ
+0-8||#24032	Trả góp sinh viên Trả trước 20% trong vong 6 tháng Môi tháng bao nhieu vậy
+0-18||#24033	shop cho hỏi m3s có bản ram và rom cao hơn ko :)
+1-2||#24034	Cho mình hỏi Nam Định còn hàng ko ạ
+1-0||#24035	Có phải meizu m3s đang giảm giá còn 2390k phai ko
+0-1||#24036	E mới mua máy nhưng máy k có ch play +youtube +zalo thì phải làm s ạ
+0-10||#24037	Máy có phản chiếu màn hình lên tivi đc ko ạ
+0-0||#24038	Con này giá 2tr590 hay 2tr690 vậy ad ??
+0-18||#24039	Ad kiểm tra dùm e đơn hàq sđt 01633590033,email là vu167hien2112@gmail.com ,tối qua e có đặt 1 cái m3s nói là giao tận nhà hôm nay mà s tới giờ chưa giao nữa ạ? Moq ad kiểm tra và giao sớm giúp e với.e cám ơn ạ :)))
+0-10||#24040	Đt m3s này có kết nối với tivi được không vậy
+1-17||#24041	Fpt shop co dan cuong luc meizu m3s k
+0-10||#24042	máy này xài tiếng việt hay trung quốc vậy
+0-18||#24043	Ad máy của mik bị lỗi CH play r có cách nào khắc phục hay link tải k
+0-18||#24044	Qtv cho minh hoi may minh bi can chia khoa nuc 1duong,shop co thay mat kieng duoc khong?may meizu m3s
+1-2||#24045	sohp Nguyễn an ninh, p di an, còn hàng k vậy.. màu xám
+0-10||#24046	Ko biết pin của máy chạy kéo dài bao lâu z ?
+0-0||#24047	giá meizu m3s bao nhiu vậy... có khuyen mãi j hog vay
+0-14||#24048	Chiếc meizu m3s của mik xài đc gần 5 tháng mik mún đổi oppo a39 thì bù bao nhiêu ạ
+0-19||#24049	Ad có thể tư vấn cho mình được không? MÌnh đang tìm 1 chiếc smartphone chạy ổn định, chạy các ứng dụng, lên web mượt, không giật lác, pin khỏe, máy không bị nóng và sụt pin nhanh. mình dùng chủ yếu camera chính, camera dùng được (chụp các tài liệu sắc nét) Mình không có nhu cầu chơi game (kể cả nặng hay nhẹ). Mình lướt web và nghe nhạc chủ yếu. Mình không biết với tầm giá 3tr thì có máy nào không? Ad có thể cho mình một vài gợi ý. Cảm ơn ad nhiều!
+1-2||#24050	Màu grey ở huyện phú giáo bình dương còn hàng không shop
+1-14||#24051	Điện thoại của m vừa mua được mấy hôm thấy pin để chờ sụt nhah quá có dc đổi mới k đt của tôi chưa lắp sim,
+1-2||#24052	Qtv cho hỏi máy còn nhiều ở khu vực bắc giang không
+1-5||#24053	Màn hình máy e bị hư. Có hỗ trợ thay màn hình k ạb
+0-18||#24054	dòng máy này nếu mà bị hỏng liệu có linh kiện thay không ad
+0-0||#24055	Cho Minh hỏi thêm cái này nhé, giả giảm giá là 2,69 tr hay là 2,39tr Dạy ad? Nếu mình mua trả góp?
+0-0||#24056	Nếu trả góp thì mình được mua với giá nào dạ ad?
+0-6||#24057	con này được khuyến mãi gì vậy shop ? nếu trả góp !
+0-18||#24058	Mới mua đc 2 tuần mấy vào chplay k đc.. Máy báo là.. lỗi truy xuất máy chủ... Vào youtube cũng có vấn đề
+1-10||#24059	May co tinh nsng tu nang cap he dieu hanh ko?
+0-14||#24060	Cho minh hoi minh mua m3s gan dc 1thang vay jo muốn đổi máy khac như the nao ạ
+1-14||#24061	Mua máy mới giá 2.390.000đ có được đổi trả khi không muốn sử dụng nữa không?
+0-1||#24062	Cho minh hoi meizu m3s co cap nhat dc flyme os 6 ko. Minh thay tren mang co huong dan nang cap. Ko biet la nang cap len co truc trac gi ko a.
+0-9||#24063	Cho mình hỏi vì sao mình không thể di chuyển Cảm ứng thông minh trên m3s được vậy?
+0-18||#24064	Tuyen quang con may meizu 3s doi tea k a
+0-9||#24065	Sao máy đang 99%pin để 2tiếng thì sụt 2% là sao
+1-0||#24066	GIÁ ĐẶC BIỆT ĐẾN 02/05: 2.390.000Đ mình mua hôm nay có duoc gia do không shop
+0-0||#24067	Cho e hỏi thay màn hình m3s bao nhiêu ak
+1-2||#24068	May co tai bim son thanh hoa khong a
+1-1||#24069	Nâng cấp lên android 6 được không ạ
+0-3||#24070	M3s va j2 nen chon may nao.
+0-18||#24071	shop giờ muốn trả máy hoặc đồi thì sao ad..e mới mua hôm qua..?
+0-18||#24072	mình mới mua máy hum qua ..mới sài mà sao lại mau hít pin vậy shop..mới thấy báo còn 10% chưa đầy 3p tắt nguồn mất.. ngoài ra lâu lâu vào thấy lỗi phong chữ.. kèm theo máy đôi lúc bật được chế độ tiết kiệm pin đôi luk ko?
+0-3||#24073	May m3s va j2 con nao sai benh hon.
+1-2||#24074	shop tp Hà Tĩnh có hàng ko ad?
+1-2||#24075	Khu cong nghiep tan duc duc hoa long an con hang ko?
+1-10||#24076	con này đánh giá chung thì xài có ok ko
+0-18||#24077	Con này mình được biết còn có cấu hình cao hơn chút là ram 3g - 32gb đúng không shop ơi?Không biết shop mình còn không?
+0-0||#24078	Cho mình hỏi miếng dán màn hình cho meizu m3s có giá la bao nhiêu?
+1-5||#24079	Em mua con này được 4 tháng r và giờ bị rơi vào nước. Em xin hỏi còn được bảo hành ko ạ
+0-18||#24080	Dạ, shop cho e hỏi, hôm bữa e mua cái meizu m3s. Xài cũg ok, nhưg chỉ có ứg dụg zalo khi có tn hay thôg báo thì máy k thôg báo. Chỉ khi mở ứg dụg thì tn hay thôg báo mới đc hiện ra trên nền ứg dụg. Mong bên shop chỉ giúp e. Tks shop ạ
+1-10||#24081	Con này có cảm biến vân tay ko ạ
+1-10||#24082	con nay co tieng viet khong a
+0-1||#24083	Mình khôi phục cài đặt gốc giờ ứng dụng CHPLAY mất rồi. Phải làm sao? Thanks
+1-2||#24084	Phủ lý còn hàng ko ạ
+1-2||#24085	Có màu bạc không shop
+1-2||#24086	ở bắc kạn có hàng không nhỉ?
+0-18||#24087	Dan may qua xau troc tum lum
+0-18||#24088	meizu m3s ở fpt có sẵn tiếng việt k ạ ?
+1-8||#24089	Có trả góp đc ko ạ.
+1-10||#24090	cảm biến vân tay dạng 1 chạm phải không ad
+0-10||#24091	à mà cho e hỏi ram khả dụng của m3s là bnhiu vậy
+0-9||#24092	làm sao để giảm hiện tượng giật lag trên m3s vậy. vào ứng dụng bảo mật thì thấy bộ nhớ máy còn hơn 7gb mà sao ram còn ít quá mấy trăm mb à
+0-3||#24093	Máy này vs j2 prime con nào xài bền hơn , ít nóng hơn . tại mình muốn mua 1 mảy để sử dụng lâu dài, xin tư vấn giúp e???
+0-18||#24094	Mien dan cuon luc meizu m3s m Co the toi sop Nia duoc ko vay
+1-2||#24095	Thành phố Hà Giang có màu gray ko nhỉ?
+0-9||#24096	Cho e hoi, may e cu den 30%pin thi sut pin rat nhanh va sap nguon luon, may e bi ca 10lan vay roi, cho hoi no bi gi vay
+0-9||#24097	cho e hỏi e mới mua máy đc 3 ngày.dùng ok nhưng có cái là cứ đến 20% là máy sụt rất nhanh.vài giây nó sụt xuống 10% và 1s 2s nữa lại xuống 7% và báo sẽ tắt nguồn.k biết dòng máy này bị vậy hay máy e có vấn đề ạ
+0-18||#24098	Giờ e mua ở fpt thì kĩ thuật viên của fpt có hỗ trợ up lên bản rom flyme 6.3 miễn phí cho e đc k ạ?
+0-18||#24099	Ben m Co ban kinh cuing luck cho Meizu m3s ko
+0-18||#24100	Sáq 2/5 e ra fpt mua thì còn đc mua giá đặc biệt k ạ?
+1-17||#24101	Ben m Co op lung may Meizu m3s OK vaay
+0-9||#24102	mình mới mua 1 cái điện thoại meizu m3s tối ngày hôm kia, buồn là sản phẩm không kèm tai nghe, hôm qua sài vân ổn nhưng hôm nay mở nhạc loa ngoài quá nhỏ phải để sát vào tai mới nghe được.
+0-5||#24103	máy mua khuyến mại đc bảo hành bao lâu
+0-18||#24104	Ad ơi CH play của máy mik lỗi r tiền có link nào để tải free hay cách nào khắc phục k
+0-18||#24105	Mua giá khuyến mãi thì đặt hàng mới mua đc ạ?
+0-3||#24106	chip nay Qualcomm Snapdragon 425 4 nhân 64-bit voi MediaTek MT6750 thi cai nao tot hon
+0-18||#24107	Ad ơi cho em hỏi ạ. Nếu trả lại máy cho fpt mà mất quà tặng thì ntn ạ.
+0-18||#24108	Shop có bán ngày CN ko ?
+0-18||#24109	mua gia dac biet 2390k bang cach nao?
+0-18||#24110	tại sao để giá KM là 2399K mà vào đặt hàng lại hiện giá 2699K
+0-18||#24111	m3s giá 2390k hổ trợ mua hàng như thế nào vậy?
+0-18||#24112	Mìh mới bị mất máy có tìm lại đk ko
+1-2||#24113	Màu xám đen còn hàng ko ad ơi !!!
+1-21||#24114	Mình mua máy nhưng không muốn lấy quà km thì có đc trừ tiền Ko ad
+0-18||#24115	Mình o tx-dong xoai_binh phuoc mà san pham lại chi co o tx-binh long_binh phuoc. Vay shop co the chuyen san pham toi tx-dong xoai duoc khong
+0-10||#24116	M3s dùq chip 32 bit hay 64 bit vậy ạ?
+1-14||#24117	Mình mua meizu m3s ở fpt shop dc 2 tháng, sơ ý làm nứt mặt kính cảm ứng nhưng vẫn xài bình thường, xin hỏi fpt shop có hỗ trợ đổi máy khác không?
+1-2||#24118	Baccan con may k zay
+1-6||#24119	Meizu m3s có giảm 700k ko
+0-9||#24120	Máy e mới mua về dùng một lúc máy nóng nên có bị sao k ạ
+0-5||#24121	Ad oi em có mua 1 chiec m3s o day dc 2 thang dien thoai co hien tuong may xai 1 thoi gian bi sọc mot lúc lại mất may nay co dc bao hanh ko
+1-2||#24122	Bắc Giang còn hàng không shop
+1-17||#24123	Có ốp ko ad?
+1-6||#24124	Hinh nhu con nay đang co chương trình giam gia phải không a
+1-2||#24125	Cho hỏi ở sóc trăng còn màu bạc ko ạ
+0-18||#24126	Cho hoi đt này có lên Android 6.0 ko a.nó có ch play dich vụ của Google j ko ạ
+1-10||#24127	Cho hoi vo đuợc lam hoan toan bang kim loại a
+0-1||#24128	e moi mua con meizu m3s lam the nao de cai dat viet co dau vay
+0-18||#24129	Tien ship tren 1km la bao nhieu z
+0-0||#24130	có máy phiên bản ram 3gb và bộ nhớ trong 32 gb ko vay a giá của sản phẩm bao nhiêu vậy
+0-18||#24131	e mới mua máy m3s nhưng k có ch play.có appstore nhưng cái này nhiều app e cần lại k có.h cài thế nào ạ,và e muốn bóc cái giấy phía sau lưng máy có bị mất bảo hành k ạ
+1-2||#24132	Ở quy nhơn còn hàng Meizu m3s không vậy ad
+1-17||#24133	co op lung ko vay ak
+1-8||#24134	QTV cho hỏi mua hàng trả góp cần mang sổ hộ khẩu không
+0-18||#24135	ad ơi ! mình xin ý kiến chút nha. khi fpt thu mua lại máy m3s hàng đổi trả nhờ shop nói vs người dùng là thoát tài khoản flyme đang đăng nhập trên máy nhá. vì khi hk thoát người dùng mới sử dụng họ sẽ reset or up ROM mới là tính lỗi hk tạo tài khoản mới dc. tại đa phần người dùng meizu m3s VN bên hội meizu đều bị và đã stt hỏi ý kiến vấn đề này . đây là ý kiến của e mong shop lưu ý. tks shop ạ
+0-3||#24136	Camera m3s so với oppo a37 thì bên nào nét hơn và chênh lệch nhìu k ạ?
+0-9||#24137	sp ms mua dc hơn 2 tháng mà pị hư đèn màn hình rồi..có tạp màu lẫn lộn..có áp dụng chính sách sửa đèn màn hình cho sp k shop
+0-18||#24138	ad ơi cho mình hỏi đặt hàng online ở chỗ nào vậy
+1-8||#24139	may nay co tra gop 0% k Meizu M3s
+0-9||#24140	Máy khi sạc nóng tới 42° cho mình hỏi có phải lỗi không
+1-2||#24141	Chi nhánh ở quận Bình Tân HCM còn hàng ko ad?
+1-10||#24142	Em nay có thể nâng cấp Android 5.0 hoac 6.0 được không
+1-10||#24143	máy này có nâng cấp lên android M được không ad?
+0-10||#24144	M3s nang cấp os6 6.7.3.3 g beta mà sao vẫn còn android 5.1 vậy shop
+1-17||#24145	chỗ mình có thay mặt kính k hả ad ơi!!
+1-2||#24146	Vũng tàu có hàng ko ad
+1-10||#24147	Meizu m3s có hỗ trợ 4g k vậy ad?
+0-10||#24148	M3s sạc pin đầy mất khoảng mấy tiếng ạ
+1-2||#24149	Ở Bình Thuận còn hàng không vậy anh chị
+1-2||#24150	Ở Nha Trang có hàng không ạ?
+0-18||#24151	May nay co choi hoa qua noi gian 2duoc ko co bi lag may co ho tro den led khi sac ko
+1-14||#24152	Đem máy ra shop e có cần đem theo giấy tờ gi không ạ
+0-18||#24153	S nó hay tu động thoát khỏi chuông trinh qua mau nong may. Pin xuống 7% hông sai tắt hết ung dung chay ngầm thi khoang 5put là Dt tu tắt nguồn luôn .
+1-2||#24154	ở buôn ma thuột còn hàng ko ạ???
+1-2||#24155	cho e hỏi là bên FPT shop còn máy meizu m3s 3G ram k v ạ?
+0-18||#24156	Cho em hỏi em mới mua máy nhưng sao máy không được cài sẵn Play Store của Google vậy?
+0-9||#24157	Mới mua máy này đc 1 tuần thì vào chplay thì máy k vào đc máy báo là.. Lỗi khi truy xuất thông tin từ máy chủ. [RH-01]....là sao vậy
+1-2||#24158	Còn hàng tại tphcm ko ad
+1-2||#24159	ở nha trang có máy cũ ko ?
+0-18||#24160	Mình mới mua meizu m3s ở fpt được gần 2 tháng, sơ ý làm rơi bị vỡ mặt kính, fpt có nhận thay mặt kính ko ạ. Giá thay mặt kính là bao nhiêu?
+1-2||#24161	Vinh long con hang k
+0-22||#24162	Nào có hàng lại vậy shop
+0-10||#24163	sạc bao lâu đầy pin?
+1-10||#24164	Con này chơi liên quân có mượt k shop
+1-2||#24165	Bac ninh con hang ko ạ.Tối có ban tra gop ko a
+1-2||#24166	cân thơ con hàng khôg shop
+0-18||#24167	Ftb lam ho so tra gop nhanh ko ạ.
+1-10||#24168	Meizu m3s có hỗ trợ 4g không ạ
+1-2||#24169	màu trắng còn ko shop
+0-18||#24170	nếu em mua hàng tại fpt khi giao hàng lại mà bị lỗi, em có thể đổi hàng lại không, co mat phi doi hang lai khong
+1-10||#24171	e xem trên mạng thì đt ko có bản rom tiếng việt, meizu m3s ban ở fpt có tiếng việt ko z
+0-1||#24172	kái này chuyển ứng dụng sang thẻ nhớ chỗ nào ad
+1-2||#24173	O tp bac ninh con hang k
+0-8||#24174	M3s tra truoc 30% thi moi thang dong bao nhidu tien ạ
+1-2||#24175	Ở trà vinh còn hàq ko ạ e ở trung tâm trà vinh ấy ạ
+1-2||#24176	Có bản 3G ram không shop
+0-9||#24177	k tai dc zalo
+1-2||#24178	minh muon mua mot cai thi minh ra tai chi nhanh o can tho mua vay co hang ko
+0-1||#24179	Nâng cấp phầm mềm như nào vậy
+0-10||#24180	ủa sao mình coi trên mạng là ram 3GB mà sao shop lại để có 2 GB vậy ???
+1-1||#24181	máy có cần sạc 3 lần 8 tiếng không ạ?
+0-18||#24182	Mua thì fpr hỗ trỡ cài đặt c phay và tiếng việt ko
+1-10||#24183	Cho e hỏi bản rom của meizu m3s bán tại fpt là j vậy ạ? Có phải là flyme 6 k ạ?
+0-5||#24184	Máy có bảo hành toàn quốc k vậy? Ví dụ m mua ở quận cầu giấy có bảo hành được ở huyện ba vì k?
+0-18||#24185	khi mình mua thì sản phẩm có sẵn ch play với tiếng việt không ạ
+1-8||#24186	Con nay trả trước 20% dc ko vậy
+0-18||#24187	shop cho hỏi máy đc up rom tv vs cài ch play khi mình mua k? máy có ốp lưng k ak
+1-6||#24188	Cái này co dc quay số j ko
+0-8||#24189	Con này trả góp trả trước 10% rồi 6 tháng sau mỗi thang trả bao nhiêu vậy
+0-1||#24190	Máy cài vân tay như thế nào ạ
+1-17||#24191	ad co màn hinh thay ko a?
+1-8||#24192	E là sinh viên và đã 20 tuổi vậy có đc mua trả góp 30% thời hạn 12 tháng khi có CMND và bằng lái xe ko AD?
+1-2||#24193	Kb đức trọng lâm đồng còn hàng không ạ.
+0-8||#24194	Sp nay co nhug goi tra gop nao vay
+1-2||#24195	Còn hàng ở khu vực huyện Lục NGạn hoặc tp Bắc Giang ko AD?
+0-18||#24196	ad ơi cho em hỏi em lên flyme os 6.7.4.11g .rồi mọi thứ bình thường hết chỉ có cái tải ứng dung trên ch play bằng 3g không được chỉ tải đc bằng wifi ak. ad chỉ giúp em cách tải ứng dung trên ch play bằng 3g với
+0-3||#24197	Giữa meizu m3s và mobiistar lai yuna thì nên chọn máy nào ạ
+0-8||#24198	Năm nay em 19t .Em là sinh viên em muốn trả góp 6 tháng với con meizu m3s thi trả trước là bao nhiêu vậy
+0-18||#24199	con hang khong anh va cho hoi may co tieng viet khong va neu khong co thi cai tieng viet duoc khong
+0-18||#24200	May nay su dung 2 sim mot luc hay la 1 sim 1 the nho hay 2 sim va the nho luon vay
+0-1||#24201	Ad ơi..kích hoạt đèn nháy khi thông báo tin nhắn ở chỗ nào vậy ạ...
+1-4||#24202	shop miễn phí ship không anh
+1-17||#24203	Điện thoại này có kính cường lực không vậy
+0-3||#24204	mh đag phân vân mezu m3s này vs ssum j5 nên mua sp nào
+0-18||#24205	máy này có gắn được sim cắt không vậy và máy dùng ổn không
+1-14||#24206	Mua trả góp tháng đầu máy bị lỗi có đổi lại máy mới không ad
+0-18||#24207	Phần cảm biến có gia tốc với con quay hồi chuyển là gì vậy
+0-6||#24208	Khi mua meizu m3s có những ưu đãi hay khuyến mãi gì ạ!
+1-10||#24209	con nay ko co tieng viet dung ko
+0-18||#24210	Shop mở cửa dêdn mấy h vậy ạ
+1-2||#24211	Ad cho em hỏi 538 xô viết nghệ tĩnh- ung văn khiêm ,P25, Quận Bình Thạnh còn meizu m3s màu gì ạ !
+1-2||#24212	cho em hỏi meizu m3s (xám) ở Mỹ Tho còn hàng không ?
+0-18||#24213	ad cho hỏi nếu mình đang trả góp 1 cái đt trước chừ mún trả góp thêm cái thứ 2 được ko
+1-2||#24214	Cho em hỏi fpt mỹ tho còn hàng meizu m3s( màu xám ) ko ạ !
+1-2||#24215	ad cho em hỏi Meizu m3s còn hàng ở chi nhánh ở Tại Số 15 Điện Biên (Ngã tư Cao Lanh), Tổ 10, P. Yên Ninh, TP. Yên Bái, Tỉnh Yên Bái. không ạ
+1-2||#24216	ad cho em hỏi Meizu m3s chi nhánh ở thành phố còn hàng không ad
+1-2||#24217	Ở Cần Thơ còn hàng không ad?
+1-2||#24218	Ad ơi...có máy đổi trả ở thủ dầu một bình dương ko ạ?
+0-0||#24219	Nếu máy bị vỡ màn hình do bị rơi rớt thì ở shop FPT có thay ko? và giá bao nhiêu vậy?
+1-2||#24220	Meizu m3s ở Địa chỉ: Số 24/11 KP Long Điềm, P. Long Bình Tân, TP. Biên Hòa, Tỉnh Đồng Nai còn hàng ko?
+1-17||#24221	Máy có op lung k ad
+1-1||#24222	Cho hoi co the thay doi font chu tren meizu m3s dx k a
+1-10||#24223	Cho e hỏi pin con này đc lâu ko vậy và chơi đc liên quân mobi ko ạ
+0-9||#24224	ad cho e hỏi tại sao em vô CH play k đc z ad vô lại thì bị văng ra là sao
+0-14||#24225	mình có đặt online 1 đt meizu m3s màu vàng đồng giờ mình muốn đổi qua màu xám thì làm sao vậy?
+1-2||#24226	Meizu m3s có hàng ở đăklăk khônh
+0-17||#24227	Sim của máy là sim gì vậy? Cho em hỏi :))
+1-17||#24228	Cho hỏi điện thoại meizu m3s có kính cường lực không vậy ad?
+0-17||#24229	Phu kien may gom nhung gj
+1-10||#24230	Sản phẩm có hỗ trợ cập nhật qua OTA không?
+0-9||#24231	Ad ns sản phẩm được trang bị kính cường lực ? vậy sao máy e rớt xún lại bị vỡ màn hình ? trong khi khoản cách rơi khá thấp ? máy không bị va chạm ?
+1-10||#24232	Cảm biến vân tay nằm ở nút home à
+1-10||#24233	Màn hình máy là kính thường hay kính cường lực vậy?
+1-2||#24234	Fpt 6/1A p tam hòa biên hòa đồng bao còn hàngko z
+1-2||#24235	ở chùa thông thị xã Sơn Tây có hàng không shop ơi..
+1-10||#24236	Máy có cảm biến vân tay ko z
+1-2||#24237	Công viên tam hiệp còn hàng ko
+1-10||#24238	Cho hoi meizu m3s chay flyme 6. Dc k
+0-8||#24239	Ad cho mình hỏi chừ mình mua sản phẩm meizu m3s mày bằng hình thức trả góp..... mình trả trước 50% thì hằng tháng mình đóng bao nhiu? Mình có thể trả thêm tiền hằng tháng để rút ngắn thời gian thanh toán dc ko ???
+0-17||#24240	trong hop cua may co gi z
+1-8||#24241	Máy có trả góp ki?
+0-9||#24242	Cho hỏi: Sao máy này tui mới mua đc 6 hôm mà nó có hiện tượng mất sóng đột ngột vậy. Lúc thì 3G căng lúc thì mất hút. Bị 2 hôm rùi
+0-5||#24243	Ad cho hỏi. E mua cái m3s nay ở bảo lộc ngày 19/1 Giờ đt bị lỗi lâu lâu tự khởi động lại với phím home bị đơ cảm biến. Giờ bảo hành sao ạ
+1-2||#24244	bắc ninh còn hàng không ạ
+1-2||#24245	Hi, ở bắc ninh có hàng ko ạ
+1-2||#24246	Ở THÁi bình còn hàng ko vay
+1-17||#24247	Khi mua máy có đc dán màn hình free k akh
+1-10||#24248	Màng hình có làm cường lực hay thường vay shop
+1-10||#24249	máy pin liền hay rời ạk
+1-2||#24250	hiện tại ở fpt shop phố nối hưng yên còn máy không ạ?
+1-10||#24251	Máy có hỗ ttợ thẻ nhớ k ạ?
+1-2||#24252	Cko em hoi số 39.tổ 3.khu phố phước thạnh .bìh dương. Còn máy meizu m3 s .hk
+1-2||#24253	ở nha trang có chưa ạ
+1-10||#24254	mặt kính của máy có phải là kính cường lực k QTV
+1-6||#24255	Còn tặng kèm sạc dự phòng ko ad ? và ở Gia Lai còn màu bạc ko ạ
+0-18||#24256	CHo e hoi fpt tan phuoc khánh tổ 3 .còn cái meizu m3s hk z a.coi
+0-3||#24257	Con này với con sam sung j3 con nào hơn nhỉ ae?
+0-3||#24258	Meizu m3 s với coolpad roar 3 cái nào xài ngon ạ
+0-18||#24259	ĐT em còn bảo hành.. Nhu mình bị lỗi phần mềm có thể sửa được không đèn flash
+0-18||#24260	Cho em hỏi điện thoại meizu m3s . Có 2 đèn màu trắng với màu vàng ...đt mới mua có 3 ngày mở đèn chụp thử. Em thấy 1 màu trắng là Sao.. Bởi lại Không có cập nhật phiên bản. Em đổi lại khác được không.. Mẹ đâu ai muốn thế
+0-18||#24261	Em mua còn nay ở fpt.bjo em muốn kiểm tra tgian còn lại bảo hành.thì làm cách nào ạ.
+1-17||#24262	May meizu m3s co op lưng k ban
+1-2||#24263	Ở Thành phố Vũng tàu còn hàng không ạ
+1-2||#24264	ở Hà Tĩnh còn hàng nữa không shop?
+0-5||#24265	Cho hỏi shop bảo hành fiml dán màn hình và mặt sao điện thoại mấy lần z
+1-17||#24266	Có bán sạc meizu m3s ko ad
+1-10||#24267	Máy có nguyên seal ko shop ?
+0-9||#24268	cho hỏi máy mới mua về đèn flash 2 màu Sao mở Lên chỉ có 1 màu trắng còn màu vàng đâu.. Mày gì mà không có cập nhật phiên bản..mình nghi máy cũ quá.. Nó Sao Sao..
+0-18||#24269	Meizu M3s trên sendo.vn bán để fptshop.com.vn có được bảo hành ở fptshop.com.vn không qtv
+1-2||#24270	M3s còn hàng ở khu vực hoài đức hà nội k ạ
+1-10||#24271	M3s chơi nổi liên quân ko
+1-2||#24272	Phu yen con hang ko
+1-10||#24273	con này chơi liên quân nngon không ad
+1-2||#24274	Meizu m3s còn hàng mới ở An giang ko ạ
+1-2||#24275	cho hỏi ơ tân uyên bình dương có máy đổi trả không ad
+1-2||#24276	cho e hỏi chiếc này ở fpt vĩnh điện, điện bàn, quảng nam còn hàng không ad?
+0-18||#24277	Ad cho mình hỏi, sắp tới mình đi thực tập 1 tháng, mình mua trả góp mà quá 30 ngày mình ko đóng lãi thì thế nào ạ?
+0-9||#24278	Ad ơi. Dt em bị cái gì sọc sọc màu đỏ, mở độ sáng thấp ko thấy. Mở độ sáng cao thấy
+1-2||#24279	Shop có màu xám ở chi nhánh Hưng Yên không ạ?
+1-2||#24280	M3s con mau vang dong o Soc trang ko qtv?
+0-9||#24281	Dạ cho e hỏi máy e đang dùng là mezu 3s e mới mua ở fpt được 3 tháng , giờ dùng 1 tí là màn hình lại xuất hiện những vạch đỏ , càng dùng càng đỏ , nếu k dùng 1 thời gian thì hết , dùng tiếp lại đỏ . Giờ e phải xử lí thế nào ạ
+1-2||#24282	QTV cho hỏi ở Thủ Đức tp HCM còn hàng k ạ khi mua có đc cài tiếng việt và ch play k ạ ?
+0-18||#24283	Sao giờ này chưa có gọi .mình đợi biết khi nào
+0-26||#24284	Em vừa đặt hàng rồi không có ai điện tới .. biết khi nào em nhận được
+0-18||#24285	S điện thoại mình k cập nhật đang mấy ứng dụng nữa vậy qtv.
+0-18||#24286	Tại sao m3s màu vàng và xám lại đắt hơn màu bạc đến 1triệu vậy ad?
+0-18||#24287	đặt hàng rồi .mà không có người chuyển hàng. bi giờ em xuống mua được không 22 giờ fpt shop đống cửa em xuống mua 9 giờ em xuống đó mua được không
+0-18||#24288	em mua hàng mà không có ai đưa tới...mai khoảng 6 giờ em nhận được không.mai em còn đi làm không khoảng 9 giờ 30 em chạy xuống mua..được không ad
+0-10||#24289	may nay cam bien van tay may cham
+0-8||#24290	Thủ tục trả góp 0đ của sinh viên 18 tuoi như thế nào
+1-10||#24291	Meizu m3s có tích hợp chức năng sạc k dây hôg v
+0-8||#24292	Trả gop 2 công ty tai chinh thi trả góp như thế nào
+1-17||#24293	Fpt co op lung m3s k c
+1-10||#24294	Con này pin liền hay rời vậy ad
+0-18||#24295	Mình muốn tra cứu thời hạn bảo hành của máy Meizu m3s mình mua ở fpt shop được ko admin. Meid:86324603225446 Imei1:863246032238185 Imei2:863246032238193
+0-0||#24296	Cho em hỏi máy của em bị hư nút home cứng .nếu hư do người dùng thì thay thì hết bao nhiêu tiền ạ?
+1-2||#24297	M3s có mau hồng, vàng hồng ở tỉnh sóc trăng ko
+1-2||#24298	Cho mình hỏi còn hàng màu bạc ở Dĩ An, Bình Dương ko vậy.
+1-2||#24299	Con này màu vàng còn hàng ở liên chiểu đà nẵng ko shop
+1-2||#24300	cho mình hỏi ở Tuyên Quang còn hàng không nhỉ?
+0-27||#24301	Ttbh của meizu tại Đà nẵng nằm ở đâu vây
+0-9||#24302	Nhân viên nhiệt tình, máy tốt lắm ạ. Cho e hỏi tại sao lại ko tải được youtube và snow vậy ạ?
+1-2||#24303	May co mau den k vay
+0-14||#24304	M mua máy meizu m3s hôm mùng 4/3, giờ muốn trả lại thì còn được bao nhiêu ạ.
+1-8||#24305	Voi trả góp 18 tuổi có sổ hộ khẩu photo dc ko
+1-8||#24306	Một người trả góp 2 sản phẩm đc ko
+0-18||#24307	may bo sim ra sao
+0-18||#24308	Mua đưa trước 2 triệu 3 trăm . Rồi chiều mai đưa Hết được không .
+1-10||#24309	máy có tính năng lọc ánh sáng xanh ko ad
+1-20||#24310	Em đặt dử hàng được không . Em chỉ có 2 triệu 3 chưa đủ mua
+0-0||#24311	Ad cho e hỏi máy meizu m3s vỡ màn còn bảo hành bây giờ đi đổi màn mất bao nhiêu?
+1-2||#24312	còn hàng ở vĩnh yên-vĩnh phúc.không ạ
+0-18||#24313	Ở thôn đắc lộc xã vĩnh phương . Mua hàng chuyển tới không. Tặng SDP không
+0-6||#24314	Khi mua meizu m3s đc tặng kèm những gì ạ
+1-2||#24315	Con menu m3s ở tỉnh Sóc trăng ko a
+1-2||#24316	O kỳ anh hà tĩnh còn hàng kh vậy
+1-2||#24317	Fpt shop thái nguyên còn máy meizu m3s k ad.
+1-2||#24318	Meizu U20 có hàng ở mỹ tho - tiền giang k nhỉ
+0-17||#24319	e chào anh chị tư vấn viên, e có mua máy meizu m3s của fpt, tuy nhiên phụ kiện ko có tai nghe, e có mua rất nhiều loại tai nghe nhưng ko loại nào tương thích với máy. anh chị tư vấn viên biết loại nào có thể tương thích với máy thì chỉ cho e với ạ. e cảm ơn!
+0-8||#24320	Em có thể trả góp 2 máy meizu m3s cùng 1 lúc theo phương thức Trả trước: 807.000đ(30%) Góp mỗi tháng: 340.831đ trong 6 Tháng Giấy tờ: CMND+Hộ khẩu/Bằng lái+Hóa đơn điện/nước Công ty tài chính: HDS. được không ạ, trả trước 50% thì pãi suất sẽ ntn ạ
+1-2||#24321	Con này ơ điện biên con hang không vay
+0-1||#24322	Mình mới khôi phục lại máy, giờ mất ch play rồi. Shop chỉ mình cài lại Ch play với, thanks.
+1-2||#24323	Thị xã Tân Uyên tỉnh Bình Dương còn hàng không ạ
+1-2||#24324	MEIZU M3s có bản 3g/32g không ad với lại có thể nâng lên android 6 không
+0-10||#24325	Máy này đang dùng androi mấy vậy
+0-9||#24326	sao máy m3s của e nó bị sự cố kết nối hoặc mã MMI không hợp lệ không gọi hay nhắn tin được gì luôn
+0-18||#24327	Moj day tang them 100k ha
+1-10||#24328	màn hình của máy có dùng kính cường lực k ạ
+1-2||#24329	Ở khu vực thị xã cai lậy có hàng không vậy
+0-8||#24330	Nêu tra truoc 20% thi moi thay tra pnhjeu
+0-1||#24331	sao mình không đăng ký được tài khoản flyme
+1-2||#24332	máy còn tại huế ko
+0-8||#24333	Meizu m3s em mua trả góp nhưg chỉ kóa giấy CMND với bằng lái xe thì có các gói trả góp nào ạ
+0-9||#24334	Cho mình hỏi là sao mình cài cái ch play trên meizu m3s mà k tải dc ứng dụng vậy
+0-8||#24335	Cách thức trả góp 0d nhu thế nao ak
+0-8||#24336	Meizu m3s Có trả trước 0đ ko qtv
+0-18||#24337	Qtv cho hoi mk thay dc luncher cua he thong dc k?
+0-0||#24338	Máy mk bị vỡ lớp kính bve camera và đèn led k sáng nếu sửa hết bnhiu z shop
+0-14||#24339	Máy mua khoảng 20 ngày, giờ đổi trả lại thì còn tầm bao nhiêu ạ... máy còn rất mới, đầy đủ phụ kiện
+1-2||#24340	O vinh bao hai phong co hang ko qtv
+1-5||#24341	Dt mình bị hư phím cảm ứng, k back về được, còn bh thì được sửa miễn phí chứ ad
+0-0||#24342	já sãm phẩm này là bao nhiu z
+1-8||#24343	Sản phẩm được trả góp lãi xuất 0% k ạ
+1-2||#24344	Dạ cho e hỏi con M3s này tại Bà Rịa có màu xám mặt kính màu đen ko ạ
+1-6||#24345	M3s con tag sac du phog k z ad....
+0-9||#24346	Cho tớ ? Tại sao máy tớ khi vào một số ứng dụng như youtube nó hay tự thoát ra ngoài
+0-18||#24347	Máy mua đc 5 tháng ơ shop đã bảo hành 2 lần , mỗi lần bảo hành 1 tuần, nửa tháng . nay lại hỏng loa thoại, vân tay chả muốn bảo hành nữa vì ko có máy dùng
+1-10||#24348	Cho mình hỏi máy có dc lên androi 6.0 ko
+1-0||#24349	Tăng Giá roi ak ad
+0-1||#24350	giờ chuyển ứng dụng sang the nhớ thì làm sao v ad
+0-9||#24351	máy bị treo logo hiện dòng chữ fastboot mode... là sao ạ.e mới mua máy đc mấy ngày xong!
+1-10||#24352	Máy này có chplay ko shop
+1-2||#24353	Hài Dương còn hàng không shop
+1-2||#24354	Đak lak có máy này k ad
+1-2||#24355	cho em hoi co mau hồng không a
+1-5||#24356	qtv cho e hỏi. e đã gửi máy bảo hành ở shop bên anh (chị), do máy dùng nóng là xuất hiện sọc màn hình. chế độ bảo hành này e sẽ ko phải trả bất kì phí nào chứ
+1-2||#24357	O ha giang con khong
+0-0||#24358	Dạ cho em hỏi thay mặt kính Meizu m3s thì bao nhiêu ạ
+0-18||#24359	Cho em hỏi nếu ở thị trấn không có chi nhánh fpt shop thì có thể mua để cửa hàng chuyển về k vậy
+1-2||#24360	Máy còn ở tp ninh bình hay tĩnh gia thanh hóa không ạ
+0-8||#24361	Trả trước bao nhiêu và góp mỏi tháng bao nhiêu vậy ạ Góp trong vòng bao nhiêu tháng ạ.
+0-18||#24362	shop có nhận sửa chữa phím home không vậy
+1-2||#24363	- Ở thốt nốt có hàng không ạ
+1-2||#24364	O bac lieu con hang hk ạ
+1-2||#24365	Còn hàng ở Nha Trang ko ad?
+0-18||#24366	S thay bình luật dien thoai nay lỗi nhiu qua zậy a
+0-3||#24367	Cho em hỏi giữa máy huawei y6ii vs meizu m3s thì con này nên mua z add
+1-10||#24368	May nay co mo khoa man hinh bang van tay ko
+0-9||#24369	Máy mình mới mua đc 3 tháng, giờ dùng nóng máy 1 chút là màn hình bị bóng nhòe đi và xuất hiện những vạch màu ngang dọc rất khó coi, để nguội thì ko vấn đề gì. Mình muốn đem qua bảo hành thì có mất nhiều time ko Shop?
+0-9||#24370	Máy của mình cứ vào YouTube là ko xem dc là sao
+0-9||#24371	tại sao tải tệp về coi ko được vậy
+1-10||#24372	Sản phẩm nay có lên đc android 5.2 k shop
+1-2||#24373	hai duong con hang k
+1-2||#24374	sản phẩm còn hàng ở hồ tùng mậu k a
+1-2||#24375	còn hàng ở hồ tùng mậu k vậy
+1-10||#24376	Sản phẩm này có lên android 6 được không?
+0-18||#24377	Dạ chobem hỏi muốn sử dụng đèn flash 2 tông màu ở meizu m3s thì ohair làm sao ạ
+1-2||#24378	Ở fpt trạm trôi hoài đức có hàng không em yêu
+1-2||#24379	cho em hoi shop con hang o thanh pho ho chi minh quan 6 không ạ
+1-17||#24380	M3s co ban dan cuong luc ko vay
+0-9||#24381	Màn hình máy hiển thị màu sắc quá nhạt k biết do lỗi k
+0-18||#24382	Cho mk hỏi meizu m3s của mk ms mua dc nửa thág nhưg pjo muốn đổi sag máy khác thì giá trị của máy mk pjo kòn khoảg pao nhiêu.
+0-9||#24383	Máy lướt web bằng Wi-Fi cáp quang cực chậm.
+1-2||#24384	Ở hà tinh con hang ko ad
+1-4||#24385	có ship COD k ạ
+1-4||#24386	Cho e hỏi xíu. E ở bình thuận nhưng e ở đức linh... từ chổ e ra pham thiết thì hơi xa. K biết bn6 cửa hàng mình có ship về tới nhà với máy cũ không
+1-2||#24387	Ở kon tum còn máy không vậy add
+0-18||#24388	Gói trả góp trên wed khi tới cửa hàng có phải đóng thêm phí gì nữa ko a
+0-9||#24389	cho e hỏi: máy e đang dùng tự nhiên sập nguồn ko lên nữa, e muốn gửi đi bảo hành mà shop lài ở xa thì e gửi qua đường bưu điện đk ko ạ?
+0-18||#24390	Điện thoại em hư cảm biến vân tay thì có thay được không ad
+0-1||#24391	Ad chỉ mình cách cài CH clay cho m3s với
+0-18||#24392	khi mua máy ở fpt shop có dk bên minh hỗ trợ nâg cấp lên Android 6 miễn phí ko.
+1-17||#24393	Cho hoi o fpt shop co ban op lung meizu m3s k?
+0-0||#24394	Cho e hỏi e mới mua máy hôm 15 nhưng giờ lỡ tay rơi vỡ màn hình cho e hỏi thay màn hình phải tốn bao nhiêu tiền ạ
+1-8||#24395	mua online tra gop duoc ko a
+1-8||#24396	mua tra gop online cung duoc ha anh oi
+1-10||#24397	chơi liên quân , ỷ thiên có lag ko ạ
+1-17||#24398	Bên quán có dán cường lực cho m3s không thế a
+1-2||#24399	meizu m3s con hang k vay ạ
+0-18||#24400	Mình đặt lúc sáng sao chưa thấy phản hồi gì vậy
+0-18||#24401	Cho minh hoi con gpu mali 860 va adreno 405 chơi game vltk mobi thi con nao ko bi lag a ?
+0-8||#24402	trả góp thì trả trước bao nhiêu ạ. lãi suất ra sau??
+0-23||#24403	Cho em hỏi .. em mua meizu m3s gần 2 tháng rồi. Thỳ fpt thu lại khoản bao nhiêu tiền ạ...
+1-2||#24404	O bao loc co may nay ko a co mua tra gop dc ko
+0-18||#24405	Root máy có mất phí k ạ. Mà điện thoại e vẫn còn trog thời gian bảo hành
+0-9||#24406	Qtv ơi.cho mình hỏi meizu của mình dùng nóng máy nhanh.khi nóng máy thì màn hình có kẻ sọc.và cả màn hình chờ không nóng vẫn hiện tin nhắn mặc dù đã tắt tin nhắn.trường hợp này được bảo hành không qtv
+1-2||#24407	Máy còn ợ tt sao vàng.thọ cuân .thanh hóa k
+0-0||#24408	Mua giá online có giống với giá mua tại cửa hàng không?
+0-2||#24409	Chi nhánh hcm shop nào còn màu vàng v shop
+0-9||#24410	Xin nhờ các bạn xử lý giúp.tôi mua m3s nhưng giờ khi có cuộc gọi đến thì không nghe được.sdt mua hàng 09133984626
+0-12||#24411	Mình muốn hủy đơn hàng thì lm ntn ạ
+0-18||#24412	hình như mình mua máy xong qên hỏi giấy bảo hành, giờ mang ra mới nhớ, không thấy đâu nữa, cũng không thấy nhân viên shop nhắc gì hết :((
+0-10||#24413	Máy màu grey thì mặt trước màu gì vậy qtv?
+1-6||#24414	mua trực tiếp ở cửa hàng fpt có đc bốc thăm ko v
+0-1||#24415	Minh lỡ tay xóa ch play r. Làm sao tại về vậy wtv
+0-1||#24416	Làm sao chuyển được các ứng dụng từ bộ nhớ trong qua thẻ SD
+1-2||#24417	còn máy màu vàg ở lagi bình thuan ko z
+1-10||#24418	máy có thể chiến mượt các game nặg nhu liên quân hay af 8 ko
+0-18||#24419	cho e hỏi dán cường lực cho máy hết bao nhiêu vậy ạ? mua trực tiếp tại cửa hàng có được các ưu đãi trên ko ạ?
+1-10||#24420	a ơi con meizu m3s này có hỗ trợ OTG và HDMI không ạ
+1-2||#24421	Cho mình hỏi con meizu M3s có màu đen ko mà có tại shop xã đàn ko
+0-8||#24422	Cho e hỏi con này có trả góp không nếu có thì phải trả như thế nào với lại e muốn làm hồ sơ onli
+1-2||#24423	Ở Phổ Yên Thái Nguyên còn hàng k ạ
+0-9||#24424	máy mình bị rơi , h có tình trạng sài khi nóng máy thì màn hình có sọc và đổi màu , ngả qua đỏ , vậy bảo hành hay đổi trả được không vậy Fpt ơi ,mình mới mua tầm 2 tuần nhé
+1-2||#24425	Fpt thái bình còn hàng ko ad
+1-17||#24426	Ở đây có thay pin cho meizu m3s k
+0-18||#24427	Ở đây
+1-2||#24428	máy này còn ở pleiku ko shop
+1-10||#24429	Máy có hỗ trợ kết nối HML k ạ
+0-8||#24430	Mình mua meizu m3s trả trước 20% , vậy trong 12 tháng mình phải thả mức tiền thế nào shop ơi
+0-8||#24431	Mình muốn biết thêm về thủ tục trả góp đt Meizu m3s! Mình phải trả trước bao nhiêu dạ?
+1-17||#24432	cho em hỏi máy được trang bị kính cường lực sẵn ko ạ?
+1-17||#24433	Máy có ốp lưng không vậy
+1-2||#24434	sóc trăng có Hàng ko?
+0-1||#24435	FPT shop ơi..cho mình cách tiết kiệp pim của meizu M3S với
+0-8||#24436	Cho minh hoi con meizu m3s tra gop , tra truoc 30% gop 12t moi thang bao nhiu
+0-1||#24437	Cài lại ch play như thế nào vậy fpt
+0-9||#24438	Sau máy khôi phục lại cài đặc gốc không có chplay vậy
+0-0||#24439	Thay màn hình meizu m3s nhju ạk
+1-2||#24440	Ở hà tinh đã có hàng chưa vậy ad
+1-2||#24441	còn hàng tại quy nhơn khong ad
+0-3||#24442	nên mua meizu m3s hay huawei y6 ii
+1-2||#24443	cho em hỏi là Meizu m3s máy đổi trả ở An giang có hàng ko ạ .Hồi sáng em mới xem là còn hàng ko biết hiện tại còn hàng ko nhờ AD kiểm tra giúp em
+0-1||#24444	E muốn hỏi meizu m3s muốn đọc tài liệu pptx thì cài phần mềm gì ạ
+0-1||#24445	Tắt chế độ rung khi nhấn bàn phím chữ ở đâu z qtv
+0-18||#24446	Không mua trả góp có được quay trúng meizu mx 6 không vậy
+0-18||#24447	mua ngày 15/11/2016 giờ pin tuột nhanh có thay được không vậy?
+0-18||#24448	Ad cho hoi la. May e bi loi may chu. Khong vao chphay dcvla sao a. Chi e cach khac phuc
+1-2||#24449	có màu đen ko
+0-10||#24450	Meizu m3s bên shop có bao nhiêu mau vậy ad
+0-18||#24451	26.1.2017
+1-23||#24452	Máy bị bể màn hình vẫn còn bảo hanh, bên cửa hàng có thu lại ko, và nếu có thay giá sẽ là bao nhiêu?
+1-10||#24453	có vân tay k
+0-18||#24454	Nếu hoàn tìn lại đk bao nhiu ạ
+0-0||#24455	Cho e hỏi mặt kính trên màn hình bể ép lại bao nhiêu?
+0-23||#24456	E c cây m3s còn bh 10th nếu hoàn tiền dc nhiu ạ
+0-8||#24457	cho hỏi mức giá trả góp thấp nhất là bao nhiêu vậy?
+0-2||#24458	O bac lieu cho nao con hang v qtv
+1-2||#24459	Ở yên bái còn máy này không ad?
+1-10||#24460	ko biết M3s pin có lâu ko,cấu hình khi vào mạng có nhanh ko
+0-2||#24461	Ở Tân bình shop nào còn hàng meizu M3s màu bạc vậy shop. Mình muốn mua thì đến địa chỉ nào? Mình ở Tân Bình
+1-2||#24462	máy này ở cầu giấy còn ko ạ
+0-8||#24463	Chào FPT em là sinh viên có CMND và bằng lái có thể trả trước 0 đ k ạ
+0-3||#24464	Máy này vs oppo neo9 cái nào chơi game lươt web liên tục máy nào pin trâu hơn.?
+0-8||#24465	một hộ khẩu nhưng khác cmnd mua trả góp 2 sản phẩm được không ad? a ruột của e có tên trog hộ khẩu có mua trả góp 1 sản phẩm. giờ e có được mua trả góp thêm máy này không ạ? ad phản hồi e sớm. cảm ơn!
+0-18||#24466	Tại sao M3S không kết nối được với máy tính để truyền hay chép dữ liệu vậy ?
+0-5||#24467	Máy đổi trả thì chế độ bảo hành bên mình như máy mới ak ad?
+0-2||#24468	Con hang ko shop. Nếu con. Con nhung mau nào day?
+0-8||#24469	Qtv ơi e muốn mua trả góp máy này với công ty tc hd , hồ sơ em cần nhưng gì . Trả trước khoản bao nhiu % ? 10% máy được ko
+0-18||#24470	nếu em đặt giao hàng tận nơi thì có còn nguyên seal k ạ? và có thể trả nếu đã bị mở không?
+0-9||#24471	Shop cho hỏi, máy mình mua chưa được 30 ngày, máy bị lỗi hao pin rất nhanh mặc dù không sử dụng, để từ sáng đến chiều hao 30% pin, máy cũng không lắp sim, không có ứng dụng nào chạy nền, mình có được đổi máy mới không?
+0-8||#24472	E muon mua tra gop .h can gay to j shop ..co duoc tra gop k lai suat k
+0-23||#24473	Máy có vấn đề sụt pin nhanh khi dưới 20%, nhưng không thích đổi máy cùng loại, trả hàng luôn thì hoàn lại tiền bao nhiêu?
+0-10||#24474	mTouch 2.1 trang bị trên Meizu M3s là gì vậy qtv
+1-10||#24475	Máy lên android 6 đc không ạ
+0-9||#24476	A c cho e hỏi dt của e sao mở lên được tam 15p mà sao nóng gian lên. Có phải bị lỗi k vậy
+1-2||#24477	Còn hàng ở khu vực sóc trăng không qtv?
+0-14||#24478	Mình vừa mưa được Hôm qua. Giờ mình muốn đổi máy khác thì mất phí bao nhiêu %vậy a c
+0-9||#24479	mới mua được 10 ngày, ngày đầu về pin tụt thần tốc, còn 10% máy thông báo pin yếu rồi sập ngùopn trong 10s, đcòn tưởnh đó là bình thường vì nó mới. đến tối hôm qua : tắt wifi, tắt hết chế độ chạy ngầm, tắt hết ứnh dụng đang mở và để chế độ tiết kiệm pin, từ 15% lúc 12h30 nhưng đến sánh 6h thì dt đã sập nguồn, vừa mới phát hiện vì mấy ngày trước đều sạc pin ngay khi nó cảnh báo, hoá ra 10% kia chỉ để làm cảnh à, trong khi đó chỉ mở 1 tab website đọc truyện chữ, không hình ảnh, thế mà 3p lại tụt 1% pin!
+1-10||#24480	có bản tiếng việt không shop
+0-18||#24481	Cám ơn shop nhé.
+1-2||#24482	bên mìh có xaoami redmi not3 32g k
+0-19||#24483	Sdt của minh la 0983146440
+1-10||#24484	May nay co cam bien anh sang khong qtv
+0-18||#24485	Máy còn online Ko ạ
+0-8||#24486	Qtv ơi cho em hỏi em có mua máy trả góp của công ty home cerit em gop dc 4 tháng trên 8 thàng rồi giờ em có thể mua trả góp thêm máy này nửa đc ko qtv
+0-23||#24487	Máy em mua ngay 21/01/2017 giờ bán lại được bao nhiêu ạ?
+0-9||#24488	AD CHO E HỎI LÀ E UPDATE LÊN BẢN 6.7.3 BETA SỬ DỤNG ĐƯỢC LÂU LẮM NGON VÀ MƯỢT NHƯNG MÁY DẠO NÀY LẠI HAY CHẬM VÀ BỊ LIỆT 2 PHÍM ÂM LƯỢNG LUÔN B. GIỜ CÒN BỊ TREO MÁY MỞ KHÔNG LÊN NGUỒN, LÚC LẠI TỰ LÊN XONG LẠI TỰ TẮT VẬY CÓ BẢO HÀNH KO Ạ MỚI MUA DC 6 THÁNG HƯ ĐỦ THỨ SẠC NÚT ÂM LƯỢNG VÀ PHÍM CẢM ỨNG :(( CHÁN MEIZU
+0-18||#24489	Các ban cho xin ý kiến nhé. Mình mua máy Meizu m3s ở fpt hậu lộc thanh hoá Khi vao mua thì nhân viên nói là có thể đổi máy trong 30 ngày. Nhưng mình mới chưa được 1ngày thì may đã bị lôi man hình đi đổi thì nhân viên kêu tâm 12. Ngày mới co kết quả. Hỏi mình bỏ hơn 2triệu ma phải đợi thế có đc ko?
+1-2||#24490	Còn hàng o huyện Thoại sơn, an giang ko vay ad
+1-2||#24491	nga 3tri an dong nai con hang k v
+0-18||#24492	Làm sao để test thử bin máy nay di ban
+0-10||#24493	Máy m3s này sạc trong bao lâu thì đầy pin v
+0-9||#24494	Mk mà mua dt dk 1thág mà mấy hôm Nay dùng thấy màn hình xuất hiện vạch vạch nhấp nháy ở màn hình k Pt là bị s v
+1-17||#24495	Ở fpt uông bí- quảng ninh có ốp lưng cho máy này ko QTV
+0-8||#24496	e mun mua may meizu m3s tra gop tru ben fe credit , home thi ntn
+0-10||#24497	Cho em hỏi ARM® Cortex®-A53™ 1.5GHz x4 + ARM® Cortex®-A53™ 1.0GHz x4 là như nào ạ?
+0-18||#24498	ad cho em hỏi điện thoại này bi mất co tìm lạy được ko z
+1-10||#24499	có flyme os 6 chưa vậy qtv
+0-3||#24500	Ad giúp mình so sánh Camera của m3s vs u20 vs ạ
+0-10||#24501	Theo thông tin của FPTShop thì Meizu M3s có hỗ trợ nghe FM mà sao mình tìm trên máy không có vậy ad?
+1-6||#24502	Dien thoai meizu m3s co tang phieu mua hang ko ạ
+1-10||#24503	M3s của minh thông báo cập nhật flyme 6.7.3.3g vay có nên cập nhật k.mà khi cập nhật máy có bị đơ hay lỗi gì k
+1-1||#24504	Cho minh hỏi meizu m3s cua minh thông báo cập nhật flyme 6.7.3.3G thì có nên cập nhật k.mà khi cập nhật máy có đơ hay bị lỗi gì k
+0-18||#24505	Meizu của e mới bị hỏng nút home .giờ đến fpt bảo hành thì e có mất phí gì không ạ?
+0-10||#24506	mann hình cua máy là loại kính nào z.có dk lam cong 2.5D ko .
+1-10||#24507	máy có hộ tro sac nhanh ko vậy
+1-17||#24508	fpt shop có bán ốp lung cho sản phẩm này ko z.
+1-2||#24509	Sản phẩm này còn ở 2 cửa hàng FPT Shop ở Pleiku Gia Lai không ạ?
+0-9||#24510	Máy mình khi gửi tin nhắn đến 1 số trong danh bạ thì nó sẽ ra 1 cuộc hội thoại. nhưng khi cũng số đó nhắn tin lại mình lại ra cuộc hội thoại khác. Mặc dù cùng tên cùng số. Cho hỏi là do lỗi phần mềm hay do cài đặt chỗ nào ạ.
+1-10||#24511	máy có đuoc lên Android 6 ko z qtv
+0-18||#24512	Check hộ e xem mua bao giờ ạ 863246032250404
+0-9||#24513	E vừa mua cái meizu hồi 6/2 vừa qa. E k bk màn hình bị gì mà xài 1 hồi là bị sọc sọc trên màn hình.
+1-2||#24514	Thanh hóa có còn meizu m3s ko nhi
+1-2||#24515	Máy ở 69 quang trung nha trang còn ko QTV
+1-10||#24516	cho mình hỏi máy này khi xài lâu có bị nóng máy k ạ.
+0-9||#24517	Cho em hoi là máy meizu m3s của em . khi em bật chế độ im lặng sau đó bật lại thì ko còn chuông gọi đến nữa, khi tắt nguồn đi xong bật lại mới có chuông . em thử nhiều lần đều bị. Ad cho hỏi là máy của em bị lỗi gì ạ.
+0-10||#24518	Điểm 3d trong antutu là bao nhiêu
+0-9||#24519	meizu của e giờ nút home chỉ thoát ra màn hình chính chứ dấu vân tay với bấm để back thì k đc là sao ạ. Giúp e với
+0-18||#24520	Khôi phuc cài đat gốc có mất ch play ko admin
+0-5||#24521	Máy em đi bảo hành v lúc ra nhận máy em có cần trả phí gì ko qtv
+0-3||#24522	meizu m3s với ss galaxy j2 prime , thì máy nào hơn ạ, e cảm ơn
+0-18||#24523	Em mới mua meizu m3s ở fpt hôm qua á. Có 3G trước với 3G only vậy em sử dụng 3G nào tốt vậy ad. Em sử dụng mạng vinaphone
+0-9||#24524	Nút home của điện thoại bây giờ rất hay tự thoát. Giống như mình ấn nhẹ để báck ứng dụng
+0-9||#24525	Điện tgioại của em sao k lên youtube đc. Rõ ràng bật mạng.
+0-8||#24526	Meizu M3s có hổ trợ mua trả góp lãi 0% không ạ
+1-2||#24527	Còn hàng long xuyên ko bạn
+1-2||#24528	Còn hàng ở Bến Tre không ạ (đặc biệt là màu xanh ngọc ý)
+0-18||#24529	Em muốn đặt 1 ốp lưng cho máy này
+1-2||#24530	Cho e hỏi còn Meizu m3s ở Mỹ Tho Tiền Giang không
+0-18||#24531	khi mua meizu m3s ở fbt shop,có cài rom tiếng việt cho m3s hk ạ
+1-10||#24532	Có hỗ trợ 4G không ạ?
+1-2||#24533	Mau hong co hang chua FTP.?
+0-18||#24534	Fpt oi lm on kiem tra dum thong tinh bao hanh e meziu m3s nt lenh tong dai 6060 thi tn tl may chua kich hoat bao hanh
+0-1||#24535	minh muon cai Ch play thi phai lam sao
+0-10||#24536	mặt kính của m3s làm bằng chất liệu j v ad
+1-10||#24537	Có lên được adroid 6.0 tiếng việt ko admin
+1-10||#24538	con meizu này chơi liên quân ổn k qtv
+0-14||#24539	Mình mua máy mới chính hãng tại fpt shop, giờ muốn đổi máy hãng khác ở fpt thì m3s này còn giá trị bao nhiêu. Lúc mua 2590000 đ. Máy mới mua 3 ngày, ko bị rơi vỡ, nguyên hộp, phụ kiện đầy đủ.
+0-10||#24540	Mình nghe nói meizu m3s của 2016 đã tảng lên 32 GB rồi mà
+0-10||#24541	Điện thoại này sạc bao lâu mới đầy pin với 3020 mAh
+1-2||#24542	fpt tan phong con hang khong
+0-14||#24543	Mua được 2 ngày giờ muốn đổi lại máy hãng khác xài thì giá trị máy m3s này còn lại bao nhiêu?
+0-5||#24544	Máy meizu m3s e bảo hành xong chưa ạ
+1-2||#24545	fpt shop ở vĩnh yên vĩnh phúc còn hàng k ag
+0-18||#24546	Máy mua ở fpt rồi mua lun combo dán màn hình giờ dán lại đc ko ??? Mua đc 1 thánh.
+0-1||#24547	làm sao để chuyển dữ liệu từ thẻ nhớ sag máy z qtv
+0-19||#24548	01685999128
+0-19||#24549	3930108
+0-20||#24550	AD ơi en đặt hàng từ ngày 10 nói 4ngày sẽ tới sau hôm nay vẫn chưa thấy ai điện thoại thông báo là hàng tới vậy ad
+1-10||#24551	có phiên bản 32gb rom /3 g ram không vậy shop ơi
+1-17||#24552	Shop có cường lực cho máy này k ạ
+1-10||#24553	Mình tải trên 10 trò chơi với dung lượng 32GB vậy máy có lắc, nóng máy và mau hết pin không?
+1-10||#24554	Máy có tiếng việt hog
+0-18||#24555	Cho e hỏi hôm bữa e có đặt hàng sản phẩm meizu m3s e định nhận tại cửa hàng nhưng giờ e bận không qua cửa hàng được vậy e mn đổi lại hình thức nhận hàng giao Tân nơi có đc không. Nếu đc thì thanh toán như thế nào có phải thanh toán khi nhận hàng không và có được hưởng những ưu đãi khi mua hàng không.
+1-2||#24556	Ad ơi máy còn ở mỹ tho k
+0-18||#24557	cho e xin file CH PLAY đi ad, e bị mất CHPLAY trên máy meizu m3s rồi
+1-2||#24558	Fptshop thành phố Bắc Kạn còn meizu m3s k vậy qtv
+0-5||#24559	Cho em hỏi máy em bảo hành mấy bao lâu ạ trần thị kim thanh 01213470347
+0-1||#24560	Ad ơi e lỡ xoá ch play làm sao tải về được
+1-10||#24561	Meizu M3S có hỗ trợ 4G không vây QTV?
+1-2||#24562	cho em hỏi meizu m3s còn kinh doanh ở vĩnh long ko ak , là bản 2g ram hay 3g ram
+1-2||#24563	khu vực trà vinh còn hàng k qtv?
+0-18||#24564	Mua online Ship đến tận nhà có tính thêm phí gì không vậy QTV? Với lại nếu cần bảo hành thì mình đến cửa hàng FPT shop nào bảo hành cũng được phải không QTV?
+1-2||#24565	máy con hàng không ad ?
+0-23||#24566	Bây giờ shop có thu hồi lại máy này k? E mua đc khoảng 4 tháng ạ
+0-18||#24567	Máy e dùng đc 1 thời gian thì nút home có hiện tượng tự động trở về như kiểu mình ấn back. Lí do là j vậy ạ
+1-2||#24568	Còn hàng ở FPT Cần Thơ không vậy QTV? Nếu còn thì còn màu gì ạ?
+0-10||#24569	máy này đang chạy hđh flyme os bao nhiêu đấy ạ
+0-18||#24570	meizu m3s có CHplay để tải ứng dụng không shop
+0-5||#24571	Máuy em bảo hành xong chưa ạ 01239499154
+0-1||#24572	Cho e hỏi cách khôi phụ (resets) lại máy meizu m3s ạ
+0-9||#24573	Đt meizu m3s của em khi mở độ sáng màn hình cao thì bị các sọc sọc đỏ ( chưa bị rơi lần nào) và thường xuyên nóng khi dùng thược gian ngắn.cho em hỏi cách khắc phục ...nêu e đem ra fpt thì bảo hành có tốn tiền k ạ (vẫn còn bào hành) .thân
+0-9||#24574	Cho e hỏi máy sạc 100% vô mạng 1 tí báo pin yếu tắt máy là bị gì vậy :(
+0-9||#24575	QTV cho mình hỏi. Giờ nút home máy của mình chạm nhẹ không back được, và vân tay không dùng được, QTV cho hỏi là lỗ gì ạ? Và cách khắc phục ra sao?
+1-6||#24576	mua co khuyen mai j khong
+0-22||#24577	Đơn hàng sđt 01685999128 khi nào mới có ạ
+1-6||#24578	mua máy có khuyến mãi gì không ạ
+1-2||#24579	fpt longthanh đồng nai có hàng ko ad?
+1-2||#24580	ở ninh bình có hàng ko
+1-2||#24581	Ở điện bàn còn hàng không ạ
+1-2||#24582	Fptshop phạm văn đồng còn hàng không ad?
+1-8||#24583	Em là sinh viên.Trả góp không có bằng lái xe nhưng có sổ hộ khẩu photo được không ạ.
+0-18||#24584	Cho hỏi trong tháng đầu trả máy lại mất bao nhiêu %, và những tháng tiếp theo như thế nào? ?. Arigatou!
+1-2||#24585	cho e hỏi bên mình còn sản phẩm meizu m3s màu hồng hay màu bạc không ạ. Và với giá 2590000 có bảo hành 12 tháng không ạ
+0-9||#24586	Mình mua tại FPT, máy để qua đêm hao đến 14% pin, máy có phải bị lỗi không? Có ai bị như vậy không?
+1-8||#24587	sản phẩm này có hổ trợ trả góp ko QTV ?
+1-10||#24588	máy chơi liên quân có ngon k shop
+0-10||#24589	Meizu M3s có tổng RAM (Total RAM): 1643 MB còn RAM khả dụng (Available RAM): 544 MB (33%). Mình vừa mới test bằng CPU-Z, chứ không như Ngô Ngọc Mạnh nói là RAM khả dụng 2 GB
+0-9||#24590	Ad ơi, mình mới mua Meizu M3s, mình kiểm tra bộ nhớ bằng CPU-Z thấy RAM của máy có khoảng hơn 1,6GB thôi, sao không được 2GB như thông tin của fptshop. Thứ hai là đã có thông tin cập nhật hệ điều hành lên 6.0 mà máy mình vần là 5. và báo "đây là phiên bản mới nhất".
+1-10||#24591	May da dc ho tro len 6.0 roi ha qtv
+0-1||#24592	Qtv cho e hỏi máy này làm sao để cài ứng dụng lên thẻ nhớ ạ
+1-2||#24593	đà nẵng còn hàng ko shop
+0-18||#24594	Miinhf sợ tải liên quân về hỏng máy
+0-18||#24595	Ktra giúp ngày mua máy meizu m3s của sđt này 09894461xx giúp nhé.
+0-1||#24596	Shop cho e hỏi, con meizu m3s e lên fly me 6. Bị mất bộ cài đặt google, giờ tải về ko đc, giờ e phải làm sao ạ
+0-18||#24597	Bay giờ minh muốn đổi màu khác được không ạ... co cần bù tiền gì k ạ... e mới mua chua dc 1tuần
+0-0||#24598	thay màn hình máy này bao nhiêu ak
+0-18||#24599	Có ai nâng cấp lên Flyme 6 Public Beta Version-Flyme 6.7.3.3G beta chưa? Cho mình xin ý kiến bản này ổn không QTV?
+1-10||#24600	cho em hỏi luôn là meizu có CHplay hk ạ
+0-18||#24601	cho mình hỏi là còn hàng hk ạ và g]điện thoại có thế tải những game nặng hk ạ
+1-6||#24602	khi mua có đồ khuyến mãi gì không
+0-5||#24603	Anh chị cho em hỏi giờ e muốn đi bảo hành máy meizu m3s nhưng phiếu đơn hàng là tên của bố em. Giờ e đi bảo hành có cần phải tên của người mua đi bảo hành ko ạ? Hay chỉ cần mang máy và phiếu mua hàng ạ? Cảm ơn
+0-10||#24604	Tốc độ CPU là 1.0GHz hay 1.5GHz vậy qtv
+1-2||#24605	còn hàng tại long xuyên không ạ
+0-18||#24606	Điện thoại Meizu M3s sau khi mình khôi phục cài đặt gốc thì không có những ứng dụng của Google (CHPlay,...) và không thể đồng bộ hóa danh bạ từ tài khoản Gmail. Làm sao để khắc phục hả ad?
+1-2||#24607	Còn hang tại phố nối hưng yên ko ad
+1-17||#24608	Tai phone meizu m3s có bán k vậy
+0-10||#24609	Toan bo mat sau duoc lam tu gi vay shop . Co phai 2 dau trên duoi duoc lam tu nhua khong
+0-10||#24610	Meizu M3s hộ trợ lên android 6.0 chưa ạ
+1-2||#24611	Có hàng tại bắc quang hà giang k ạ
+0-9||#24612	Máy Meizu em mới mua xài được 3 tháng mà bị sọc đỏ màn hình là sao
+1-2||#24613	CÒN hàng tại hà tiên không ad
+1-2||#24614	Còn hàng ở bến tre không qtv
+1-2||#24615	ở thị xã thái hòa còn màu đen ko ạ.
+0-3||#24616	Con nay voi huawei y6 2 cai nao hơn ạ
+0-27||#24617	Anh ơi em mua máy này đc 3 tháng bị mất kính camera bh em thay ở đâu vậy anh.
+0-9||#24618	Meizu m3s của tôi mua đc 3 tháng, bình thường ko sao, nhưng mỗi khi sử dụng mội thời gian, máy nóng lên là bị sọc đỏ màn hình là sao?????
+1-2||#24619	Chi nhánh ở trần hưng đạo phường Bình Khánh thành phố long xuyên tỉnh An Giang còn hàng không vậy
+0-18||#24620	Mình sử dụng máy đc 5 tháng thì xảy ra lỗi và đem đi bảo hành, sau 18 ngày bảo hành thì hãng gọi đt nói là k có linh kiện thay thế, hẹn ra fpt shop đổi máy mới nhưng k thấy đề cập đến có phải bù thêm bao nhiêu hay sao cả
+1-6||#24621	Khi mua sp có đc khuyến mãi j ko ad
+0-3||#24622	Con này vs xiaomi mi 4c nên mua con nào ad
+1-2||#24623	Đà nẵng còn màu bạc không ạ
+0-10||#24624	cho mình hỏi viền cạnh màn hình của chiếc meizu m3s này là kim loại hay mạ giả kim loại nhỉ??
+0-18||#24625	Mezu minh mới mua dc 3 tháng nhưng k hỉu sao gọi dt bên kia k nghe dc tiếng. Bên mình có thay mic k .. và mất blau
+1-10||#24626	Máy có cảm biến vân tay không ạ
+1-2||#24627	Còn hàng ở đường núi thành đà nẵng không ạ
+0-9||#24628	Cho hỏi về đt meizu m3s mở được màn hình nhưng màn hình không dùng đc
+1-2||#24629	Tp hà tĩnh còn hàng ko ạ? Địa chỉ ở đâu ad
+1-2||#24630	Tôi đang ở huyện hữu lũng tỉnh lạng sơn xin hỏi có cửa hàng fpt tại đó ko?
+0-9||#24631	Cho hỏi về đt meizu m3s tự nhiên ko mở được khóa màn hình mờ. Cảm ứng và các nút không có tác dụng. Là lỗi do đâu vậy?
+1-2||#24632	Con hang o quang nam k vay
+0-0||#24633	Máy này giá chốt là bao nhiu vậy ạ
+1-2||#24634	Ở cao lỗ còn hàng k a
+0-4||#24635	A ơi bên mình có giao hàng meizu m3s k ạ (giao miễn phí hay trả phí ạ)
+1-10||#24636	Máy này chơi liên quan được khong ạ
+0-10||#24637	Ad ơi sao máy mình mua về không có ch play vậy
+1-2||#24638	Có máy m3s ở Shop Đập Đá, An nhơn, Bình Định k ad?
+0-17||#24639	Cho hỏi shop chừng nào mới có kính cuong luc z
+0-27||#24640	cho em hoi diem bao hanh cua meizu o dau a.
+1-10||#24641	máy có chức năng miracast không vậy QTV
+0-10||#24642	máy của nước nào vậy
+0-9||#24643	tại sao e ko xài máy, để chế độ siêu tiết kiệm pin mà máy vẫn tụt 9% trong 8 tiếng vay? vậy máy có bị gì ko
+0-18||#24644	Mua hàng của shop trên lazada có đc hỗ trợ tiếng việt và bảo hành của ahop k ạ
+1-10||#24645	Có hỗ trợ 4g không ạ?
+0-17||#24646	Ở chi nhánh quang trung-uông bí-quảng ninh cò ốp lưng meizu m3s ko QTV?
+1-2||#24647	Ad kiểm tra chi nhánh bình sơn, quảng ngãi có hàng k ạ
+1-2||#24648	Màu xám còn ở mủi né k QTV
+0-18||#24649	Máy nâng cấp lên android 6.0 sau đó xàu không thích chuyển qua lại adroid 5. Trong quá trình khởi động máy bị đơ luôn thì phải làm sao
+1-2||#24650	quận 9 còn hàng ko chị
+1-10||#24651	chị ơi có phiên bảng ram 3g ko ạ !
+0-9||#24652	Máy em sao 3 ngày nay không đăng nhập được google play trò chơi vào cứ báo không có kết nối internet trong khi wifi vẫn kết nối bình thường, không đồng bộ game để chơi gì hết chán quá
+0-27||#24653	Quảng ngãi mua ở đâu ạ
+0-14||#24654	máy của e dùng được 3 tháng 20 ngày giờ muốn đôi trả thi sẽ trừ ntn ạ
+0-9||#24655	máy em lúc bật màn hình thì mấy màn hình có hiện tượng bị chóp màu giống như bị chảy mực màn hình
+0-14||#24656	Cho em hỏi máy này e mua dùng gần 1 tháng giờ đổi trả đc bao nhiêu ak
+1-2||#24657	Tt xuân mai hà nội còn máy đen và vàng ko mình muốn lấy 2 máy 1 đen 1 vàng cả ốp lưng.
+1-2||#24658	Tp Cam Ranh còn máy không shop
+1-2||#24659	Sản phẩm này còn hàng ở FPT Vĩnh Phúc không ạ?
+1-2||#24660	Cho hỏi ở tphcm còn màu xám không vậy? Và nếu có thì ở khu vực nào?
+1-2||#24661	Chi nhánh tp thái bình còn máy này ko ah.
+1-2||#24662	quang ngai con hang ko
+1-8||#24663	San pham meizu m3s con tra gop k lai suat k fpt
+0-5||#24664	Mk mua máy ở hưng yên thì có thể gửi bảo hành ở hà tĩnh dk ko?
+0-18||#24665	Cho e hỏi fpt có chi nhánh ở quỳnh lưu, nghệ an ko ạ? Máy e để qua đêm tự cập nhật gây ra lỗi thì xử lý sao ạ?
+0-18||#24666	Màu nao
+1-2||#24667	O hau giang co hag k . Neu co thi co msu nao a
+1-10||#24668	nge nói may k chạy tieng viet dung k amin
+1-10||#24669	May co the choi duoc muot game lien quan va 3Q 360mobi k a
+0-18||#24670	những shop FPT ở buôn ma thuột nằm tại đường nào vậy ạ
+0-27||#24671	em mới mua máy này bị mất vòng kính camera bh thay ở đâu vậy anh
+1-2||#24672	cho mình hoi meizu ms3s mà vàng Đà Nẵng còn hàng ko ạ
+1-2||#24673	cho minh hoi meizu m3s màu vàng còn hàng tại phố nối hưng yên khong ạ
+1-10||#24674	Máy có tiếng việt k ạ
+1-2||#24675	Máy còn hàng tại Giải phóng không ad ?
+0-18||#24676	dien thoai cua em bop dang sau thi nghe tieng sot sac thi dc bao hanh ko
+1-||#24677	E mới mua con m3s hồi tuần trước. Bây giờ nó bị chết điểm hay bị bụi gì đó e ko rõ. E có được đổi trả theo chính sách không.
+1-10||#24678	Cho e hỏi,máy này có đc lên android 6.0 k ad? Vs lại máy này sài có nóng lên k ạ.E cảm ơn
+0-3||#24679	Meizu m3s vs j2 prime chọn máy nào ngon hơn hả ad.
+0-18||#24680	Có thể tới cửa hàng để mua trả góp trực tiếp ngay quầy không ad? Hay là phải đăng kí online rồi mới ra @@ À mà chi nhánh ở đường Nguyễn Văn Thoại, Đà Nẵng còn màu gì vậy ad?
+0-2||#24681	Dạ cho e hỏi những cửa hàng nào ở quận 12 có meizu m3s ajk ???
+1-17||#24682	Điện thoại này có kinh cường lực k vậy
+1-17||#24683	meizu m3s này không có tai nghe hả QTV
+1-10||#24684	Meizu m3s có bản cập nhật flyme 6 chưa vậy a
+0-6||#24685	cho em hỏi khi mua meizu m3s trong hộp có tặng kèm những gì
+1-2||#24686	Tại cửa hàng fpt 229 nguyen thị tú bình tân con hàng k ad
+0-14||#24687	Em mới mua máy hôm qua. Giờ muốn đổi trả lại thì mất bao nhiêu vậy ?
+1-2||#24688	Tiền giang còn hàng ko ad
+1-2||#24689	đak lak còn hàng k ạ
+1-2||#24690	Hải duơng còn hàng ko a
+0-9||#24691	Cho em hỏi máy em bị lỗi không vào đc bộ sưu tập. Nhấn vô nó tự động out. Bây giờ phải làm sao ạ?
+0-18||#24692	E mới mua máy M3s này, lần đầu sạc đầy 100% nhưng chỉ có 5 tiếng z có sao ko ạ. Hai lần sạc sau có cần phải sạc 8-10 tiếng ko. Với lại để qua đêm thì có ht tụt pin (khoảng 5%)
+0-18||#24693	máy e mới mua mà còn 15% la tui pin tính bằng giây vậy có phải máy lỗi không
+0-10||#24694	dt co nhung mau nao z?
+0-10||#24695	dien thoai co nhung mau zi z?
+1-2||#24696	Mình có hàng xiaomi hk ạ
+0-18||#24697	Ở đức trọng cửa hàng còn hàng hk ạ Và hk có giấy chứng minh đi mua có đc k
+0-2||#24698	Meizu m3s còn màu j vạy ạ
+1-2||#24699	còn màu hồng không ạ?
+1-2||#24700	Cho hoi con mau den ko qtv
+0-3||#24701	máy này với obi wordphone sf1 cái nào chơi liên quân tốt hơn(mình muốn biết rõ chứ ko muốn câu máy nào cũng tốt đâu nha)
+0-1||#24702	Máy này lên dc flyme 6 k ạ.nếu dc thì làm như nào ạ.mà lên 6 có bị lỗi gi k ạ
+0-22||#24703	Dạ shop chừng nào có màu trắng ạ
+1-17||#24704	Fpt có bán cườg luc chua vay
+0-18||#24705	con meizu m3s khi xài phím home có thể sử dụng bình thường mà không bật cảm biến vân tay có được không
+1-10||#24706	cho em hỏi meizu m3s này có cài được phím home ảo giống iphone hk ad
+0-23||#24707	Giả dụ e bán con máy samsung j100H/ds thì được khoảng bnhieeu tiền
+1-2||#24708	ninh kiều cần thơ shop nào còn hàng thế ??
+1-10||#24709	M3s này có mở bằng khóa vân tay không bạn?
+0-9||#24710	E mới mua sim 4g của viettel bật lên ko hiện chữ 4g như máy khác mà hien chữ H ko à .vớ lại tốc độ cũng thường đâu nhanh đâu a
+1-10||#24711	May nay ko sai dc 4g vay a
+1-21||#24712	Phiếu mua hàng 100.000đ nếu không lấy có được giảm trừ vào giá không vậy?? Thanks!
+1-2||#24713	Thành phố bắc ninh còn máy k ạ
+1-2||#24714	ở hải phòng còn hàng ko ạ ???
+0-17||#24715	Điện thoại này khi mua sao lại không có tai nghe v miến dan màn hình vậy
+1-2||#24716	FPT Bảo Lộc có màu gray không ạ ?
+1-2||#24717	Meizu m3s có bán ở Vũng Tàu ko
+0-18||#24718	Mình ở kcn nam tân uyên mua meizu m3s thanh toán khi nhận hàng bao lâu mới có
+1-17||#24719	Mua máy này có đi kèm phụ kiện gi không
+1-5||#24720	máy meizu m3s của em root rồi thì còn được bảo hành không ạ
+1-10||#24721	dt nay khong ho tro go tieng viet ha ad?
+0-18||#24722	Sao không có meizu m2 n
+0-18||#24723	Fpt xóa bình luận của người mua hàng à? Các bạn làm ăn cái kiểu gì mà tùy tiện vậy? Nếu ai có ý định mua vui lòng BỎ Ý ĐỊNH VÌ FPT LÀM ĂN RẤT VÔ TRÁCH NHIỆM. NẾU CẦN THÔNG TIN MUA HÀNG TÔI SẴN SÀNG CUNG CẤP. VỪA MUA HÔM NAY THÔI!
+0-18||#24724	FPT làm ăn rất quá đáng! Mua máy xong cập nhật không hỏi ý khách hàng! Hiện tại mua cho nữ mà camera trước chụp tối mù! Tôi đi mua máy, không phải đixin xỏ của các người !!! Ai có ý định mua thì nên cạch mặt cái hệ thống FPT ra!
+0-9||#24725	M3s của e k dùng đc claucher tải tren ch play ấn phím home lại về giao diện cũ gọi lên tổng đài thì bảo phải tải thêm cái j í e k nhớ ad giúp e vs
+0-18||#24726	sao mình thấy màn hình màu gray nhỏ hơn màu vàng vậy.với lại bem 03 nguyễn tất thành màu gray chuyển vê chưa vậy
+0-1||#24727	mình xóa mất facebook tải về thế nào bạn
+1-2||#24728	Ở Bình Sơn, quảng Ngãi còn hàng không ạ
+1-10||#24729	máy này chơi liên quân lag ko
+1-2||#24730	Ở cao lãnh có hàng ko
+0-18||#24731	mua may nay co tang Tặng Phiếu mua hàng Phụ kiện 100.000đ thi co mua duoc combo mieng dan man hinh khong vay a va ap dung o khap noi luon phai khong a
+0-9||#24732	Dt mình vào ch play thì có dòng chữ " lỗi khi truy xuat thong tin tu may chủ. [ RH-01]
+0-9||#24733	Cho hỏi may nay bat 3G 30p hết 10 Phan tram pin. Độ sang 35 pin ccó ổn ko z
+0-18||#24734	Cho mình hỏi là mình đang dự định mua meizu m3s qua sử dụng, máy có tiếng việt đầy đủ không ạ?
+1-2||#24735	Ở cửa hàng đường núi thành đà nẵng còn màu bạc không ạ
+1-2||#24736	ở tân an có màu bạc ko ạ?
+0-14||#24737	mình muốn đổi máy Mới do nsx thi co cần đem theo đầy Đủ phụ kiên hay chỉ đem theo máy thôi
+0-9||#24738	nghe nói máy này moi mua xai khoang 1 tuan la tut pin nhanh phải không vậy
+0-18||#24739	E đã mua điện thoại tại shop còn bảo hàng dán màn hình và sau lưng máy muốn dán lại mới. Shop không có kính cường lực. E mua kính cường lực ở lazada . lại shop có dán kính cường lực hộ e không. Và bảo hàng dán sau lưng được không.
+0-3||#24740	ai mua rồi cho e ý kiến con này vs huawei y6 ii thì chơi game như ap8 hay liên quân con nào ngon hơn z
+0-9||#24741	Máy e mua về dc 2tuần thì co hiện tượng sụt pin. Theo anh/chij thì nên làm ntn ạ?
+1-2||#24742	Cho em hỏi Hà Nội còn hàng k ạ
+0-1||#24743	Cách di chuyển ưd vào trg thẻ nhớ làm thế nao ạ
+1-2||#24744	Fpt shop 237-239 thong nhat con hang shop
+1-2||#24745	giá 2tr5 đó hả shop.. ở đà nẵng còn hàng không vậy.. màu trắng có ko vậy
+1-2||#24746	cho em hỏi ở Bến Tre còn hàng không vậy
+1-2||#24747	ở Đà Nẵng còn hàng không vậy? mình muốn mua trả góp, nhưng đăng kí trước rồi hẹn ngày tới sau hay là đăng kí xong rồi tới luôn ạ? Hay là ra tới nơi rồi đăng kí luôn, có cần thiết duyệt qua điện thoại không?
+1-2||#24748	Sao tổng đài gọi k đc vậy. Mình muốn mua ngay sản phẩm ở Vị Thanh - Hậu Giang.
+1-10||#24749	Dạ sản phẩm meizu m3s up lên bản flyme os 6.0 đc chưa ạ
+1-2||#24750	Tp Tân An còn màu vàng ko
+1-2||#24751	Chi nhánh cần thơ còn màu bạc không admin
+1-2||#24752	shop mình có bản 32gb ko ạ?giá bn ạ?
+0-18||#24753	khi mua máy có được bóc tem không hay cửa hàng bóc tem trước rồi
+0-18||#24754	mua bảo hàng vàng bao nhiêu ạ
+0-18||#24755	có vẻ FPT thích màu vàng đồng với màu đen thôi nhỉ? ko thấy có tin tức j của màu bạc lun dợi cả tháng trời r.Chán kinh
+1-2||#24756	Ở đà nắng còn hàng ko ad
+1-2||#24757	còn ở hà nội ko ạ
+1-2||#24758	Ở huyện thoại sơn an giang còn hàg k ạ
+1-2||#24759	cho em hỏi con ở hà nội ko ạ
+1-2||#24760	Cho e hỏi ơ Bình Long, Bình Phước còn hàng k vậy ạ
+1-2||#24761	Con hang ở Long an k
+1-2||#24762	Ở cần thơ còn hàng không ạ
+1-2||#24763	shop 7 Hùng Vương Long Khánh ,Đồng Nai còn hàng không ạ?
+0-18||#24764	cho e hỏi nếu mua máy cũ thì bảo mật vân tay còn dùng được ko ạ
+1-2||#24765	Thanh hóa còn hàng ko ạ?
+1-2||#24766	khu vuc thu dau 1 con khong vay
+1-2||#24767	ở thủ đức còn hàng không ạ??
+0-18||#24768	Trên lazada cũng bán máy này ghi là chính hãng FPT, vậy nếu mua trên đấy mình vẫn được bảo hành chính hãng và các chính sách của FPT phải không ?
+0-5||#24769	shop cho hỏi mình bảo hành tầm mấy ngày là xong ạ
+1-2||#24770	Ở vĩnh điện quảng nam còn hàng ko
+1-2||#24771	ở TP. Hưng Yên còn hàng không shop
+1-2||#24772	ở cần thơ còn hàng không ad?
+1-2||#24773	Ở đà nẵng còn hàng không ạ
+0-5||#24774	Bảo hành có cần hộp của máy ko ad ơi
+0-19||#24775	Sđt e đây 01645249703
+0-1||#24776	Muốn khôi phục cài đặt gốc máy meizu m3s thì vào phần nào ạ e tìm mãi k thấy
+0-3||#24777	mobiistar Lai zumbo s va meizu m3s may nao xai ok hon vay add. tu van dum em voi
+1-17||#24778	Cho e hoi hiện tại ở cửa hàng fpt gia nghĩa còn ốp lưng meizu m3s ko ạ
+1-2||#24779	Có meizu m3s cũ ko
+0-27||#24780	ở hải phòng còn hàng ở đâu ạ ???
+0-14||#24781	Mình mới mua máy 2 ngày trước mình muốn đổi sang máy khác thì chi phí đổi là bao nhiêu a
+1-2||#24782	Ở tphcm có chi nhánh nào còn màu đen không ạ?
+1-2||#24783	O LONG XUYEN CO HANG KHONG QTV
+0-18||#24784	óặàvà ạ Ở phủ lý há̀ nam có hả̀ng k ạ
+0-18||#24785	Sao shop không kinh doanh. Mình mua kính cường lực ở bên ngoài . lại shop nhờ nhân viên dán có được không?
+1-17||#24786	Bên shop có kính cường lực meizu m3s chưa ạ
+1-2||#24787	Cho mình hỏi ở Hà Tiên - Kiên Giang còn hàng không ạ và nếu dán màn hình lun thi bao nhiêu tiền ạ meizu m3s
+0-18||#24788	Mobiistar lại zumbo S đổi qua Meizu M3s chưa quá 30 nfafy dùng có tốn phí không ạ
+1-10||#24789	Máy chơi liên quân mượt ko ạ
+0-2||#24790	CHo mình hỏi ở 262 Khánh HỘi còn những màu nào vậy ạ? Nếu mua thì được bảo hành 12 tháng luôn phải không ạ?
+1-2||#24791	Ở cần thơ còn hàng không vậy?
+1-17||#24792	Có ốp điện thoại này n ạ
+0-18||#24793	máy này chỉ xài dc 1 sim thôi ah, xài 2 sim không xài thẻ nhớ dc ah?
+0-18||#24794	Cho em hỏi có shop nào ở gần ga thườg tín ko ạ.có thì cho em địa chỉ với ạ
+0-9||#24795	Sao máy tụt pin kinh vậy(đã tắt hết ứng dụng chạy nền,wifi và 3g)
+1-2||#24796	Tam kỳ còn hàng k vậy
+1-2||#24797	Meizu m3s ở FPT LONG XUYÊN còn hàng ko ạ
+1-2||#24798	sản phẩm này còn hàng ở tphcm ko ạ
+1-6||#24799	Có quà tặng gì hông ad
+0-10||#24800	meizu m3s hỗ trợ những băng tần 3g nào vậy
+1-2||#24801	Quảng Trị còn hàng ko?
+1-2||#24802	ở tắc vân có bán điện thoại này ko
+1-2||#24803	Cho hỏi. Tại khu vực tp hcm còn hàng không vậy?
+0-1||#24804	QTV cho e hỏi máy MZ m3s nên dùng chế độ 3G nào là hợp lý nhất ạ ! Vì máy có 2 chế độ 3G , ,Có 3G trước và 3G Only ạ .
+1-2||#24805	411 quang trung , thành phố quảng ngãi có sẵn hàng meizu m3s màu grey(xám,đen)không ạ Và meizu m3s dùng chip 8 nhân...32bit hay 64 bit vậy ạ?
+1-10||#24806	nâng cấp hệ điều hành được hk???
+1-2||#24807	tp rạch giá kiên giang còn hàng ko vậy
+0-18||#24808	Bạn cho mình hỏi mình lỡ tay khôi phục lại máy giờ làm sao để tải ch play nhỉ. Mình k có điều kiện để đến cửa hàng dc. Bạn có thể hướng dẫn giúp mình dc k ạ
+1-2||#24809	Fptshop chỗ đại học thủy lợi còn máy ko ạ
+1-2||#24810	Trung tâm chính hãng này ở quang ngai co ko
+1-2||#24811	Còn hàng ở Bà Rịa Vũng Tàu không ạ
+0-1||#24812	làm sao tải cm play cho meizu m3s
+1-10||#24813	Có hỗ trợ tiếng việt không ạ
+0-9||#24814	Cho e hỏi sao e xài chức năng ứng tiền UT gửi 9118 thì máy meuzi m3s không cho gửi tin nhắn vậy . kể cả khi dt còn tiền hay hết tiền lun
+1-2||#24815	can tho con hang ko??
+0-0||#24816	Máy này giá bán hiện tại là bao nhiêu ạ? Phụ kiện có bao gồm củ sạc, dây cáp và tai nghe không ạ?
+0-17||#24817	Fpt ơi. Máy mình vừa mua rơi nứt màn hình. Công ty có không ạ? Nếu thay là giá bao nhiêu vs màn hình như cũ.
+1-2||#24818	fpt cổ nhuế, phậm văn đồng còn meizu m3s ko ad ơi ?
+1-17||#24819	Có ốp lưng cho điện thoại này ko
+0-10||#24820	Dung lượng lớn nhất của điện thoại này là bao nhiêu?
+1-0||#24821	Giá online la 2 590 000?
+1-2||#24822	Ở hcm còn hàng ko
+1-2||#24823	Meizu m3s tại đà nẵng không ạ
+0-18||#24824	con nay choi game lien quan vs war robot co bi lang hk .ket noi wifi manh hk.co giao hang tan noi hk
+0-10||#24825	lướt web,nghe nhạc thì dùng trong bao lâu thì hết ạ
+1-2||#24826	mà thị trấn sóc sơn còn hàng màu trắng ko a
+0-18||#24827	ở trg máy đã cài đặt đầy đủ rom riếc j chưa a
+1-2||#24828	Mình ở thái bình nà muốn mua thì có k ạ
+0-8||#24829	nha trang còn hàng ko QTV mình muốn mua trả góp bằng homecredit 2 thang minh tra het thi lai suat la bao nhiu a
+0-8||#24830	Meizu m3s tra truoc 200k gop moi thang bao nhieu ban
+0-18||#24831	với ca cho e hỏi trong tất cả meizu cái nào tốt nhất ạ
+0-18||#24832	2017 ạ
+0-3||#24833	cho em hỏi cái này với oppo f1 s thì cái nào hơn ạ
+0-8||#24834	Trả 0d trong 6 tháng mỗi tháng trả bao nhiêu ạ
+0-5||#24835	Bảo hành ntn bạn.
+1-2||#24836	Ở chương mỹ còn máy ko ad
+1-10||#24837	Máy chiến tốt game Liên Quân và Tập Kích không ạ?
+0-18||#24838	Co mau khak ko ak
+1-10||#24839	May co ho tro sim 4gko ad
+1-2||#24840	Có hàng ở buôn ma thuột k ạ
+0-9||#24841	Ua sao fpt kiu may nay co van tay ma sao ko co ram 256g sao co 128 g vay
+1-10||#24842	Chụp xóa phông được không ạ
+0-9||#24843	tại sao may ko co fm ma trong trang cua fpt viet la co fm
+1-10||#24844	Điện thoại này có chức năng vẽ chữ tạo lối tắt ko
+0-18||#24845	Mới mua về, mình sạc liên tục ko lấy ra dùng, gậy điện thoại có bị gì ko
+0-5||#24846	Qtv kiểm tra imeil 86324603225915 còn bảo hành bao nhiêu ngày tháng ạ
+0-8||#24847	Minh muon mua tra gop thi can cmnd voi ho khau pho to ha ban
+1-2||#24848	m3s còn máy mặt kính màu đen không vậy
+1-2||#24849	meizu m3s ở shop fpt kon tum có k bạn???
+0-8||#24850	Toi mua tra gop da tra het toi mua tra GOP cai m3s nua duoc khong co phai lam lai ho so lai khong a
+0-10||#24851	Máy choi game bao lâu thì hết pin
+1-14||#24852	e vua mua xong .. neu may hom nua co doi lai may khac dc k .
+1-2||#24853	An giang còn hàg k ạ
+1-17||#24854	Phu kien di theo may co tai phone k?
+0-26||#24855	mình ở bắc giang muốn mua máy m3s đặt hàng về tận nha thì tầm bao giờ có.
+0-18||#24856	cho mình hỏi máy bắt wifi có tốt không. thấy nhiều bạn nói rằng meizu m3s bắt wifi kém.và máy còn hay bị tình trạng giật lác.. nút hom của máy kiêm nhiều chức năng vậy thì độ bền có cao k
+0-19||#24857	Mình ở bình thuận muốn mua máy này.meizu m3s ấy CTY tư vấn giúp mình Sđt của mình.0965028427
+0-16||#24858	Đã mua cảm thấy hài lòng
+0-15||#24859	Ko biết fpt có cần khách hàng Ko v? Đặt mua thì bảo chờ xác nhận thông tin rồi sẽ liên lạc sau 5p. Chờ chiều h chẳng thấy đâu
+1-2||#24860	fptshop 701 phạm văn thuận có màu grey ko ad
+1-2||#24861	ở vĩnh long còn meizu m3s không vậy ?. em là sinh viên muốn mua trả góp trước 40% trong 6 tháng thủ tuc cần gì, lãi suất bao nhiêu?
+0-10||#24862	Cho e hỏi máy không có chức năng nhập bằng giọng nói sao ạ? Vậy cài cái nào tốt ạ?
+1-17||#24863	Cửa hàng ở ngã tư trạm trôi có ốp lưng máy này chưa ạ?
+0-1||#24864	E cắm thẻ nhớ vào máy rồi nhưng trong máy không thấy hiện file ra. Làm sao đểmở thẻ nhớ ạ?
+1-5||#24865	Máy bị vở màn hình có bảo hành không ạ
+1-10||#24866	Meizu m3s có được tích hợp sẵn chưc năng ghi âm cuộc gọi không hay phải tải phần mềm về.
+0-9||#24867	e mua meizu m3s ngày xuất là 10/09/2016 giờ máy e có hiện tượng phần cảm ứng ở nút home không hoạt động. Vào cài đặt phần vân tay thì máy hiện lên màu đen và và bị đơ. khi đt khác gọi qua thì chỉ nghe đổ chuông mà màn hình tắt tất cả các nút không tắt đc. Và nó luôn bị tắt nguồn, mở nguồn lên một hồi thì tự tắt lại. ad tư vấn giùm em, em định ra bảo hành
+1-2||#24868	Máy ở khu vực Tân Uyên, Bình Dương còn hàng không QTV, nếu còn thì còn màu gì và cho mình xin địa chỉ chi nhánh luôn !
+1-2||#24869	cho mình hỏi shop ở Ba vì hà nội có màu xám không
+1-2||#24870	Sản phẩm còn ở FPT mũi né phan thiết ko
+0-18||#24871	Mình mới mua đt m3s này đôi trả k có cây lây sim thi phai lam sao
+0-1||#24872	CHỗ gắn thẻ nhớ ở đâu vậy
+1-2||#24873	Ở TP Huế còn hàng không ?
+1-2||#24874	Fpt thị trấn trạm trôi còn máy màu đen k b
+0-18||#24875	E muốn tới cửa hàg xem đc k. Cho e chi nháh ở địa chỉ gầm nhất ở Thanh Xuân - Hà Nội
+1-17||#24876	Có miếng dán cường lực k vậy shop
+0-5||#24877	Mua trả góp có đc bảo hành ko và nếu có bảo hành thì bh đc bao lâu ạ
+0-18||#24878	Ở nhà br co j hang co hang k ạ
+1-2||#24879	Ơ thành phố hưng yên có hàng k ad
+0-18||#24880	Cho mình hỏi nhu cầu sd chính là nghe gọi zalo facebook mesenger chụp choẹt với youtobe thì máy này chiến ngon k. Mình cũng muốn biết 3g mà xem youtobe máy trụ đc bao lâu
+1-2||#24881	có còn hàng ở thị trấn sóc sơn ko a
+1-10||#24882	Có chuyển sang tiếng việt dc ko ạ
+0-9||#24883	màn hình bị sọc là sao z
+0-0||#24884	Màn hình e bị vỡ. Thay hết bao nhiêu shop
+1-10||#24885	ad choi cho mình hỏi, nút cảm ưng thông minh trên m3s có thay đổi được vị trí không thế??
+0-17||#24886	cho mình hỏi phụ kiện đi kèm máy có những gì
+0-1||#24887	Cho mình hỏi! Meizu m3s phần google driver Mình up file lên , mà mỗi lần up nó chỉ cho up 1 file, không thể chọn nhiều file. Mình cũng đã chạm giữ file đầu để chọn, rồi chọn sang file thứ 2 nhưng không được. Vậy làm cách nào chọn được nhiều file up lên. Cảm ơn bạn!
+1-2||#24888	Cho hỏi shop ở sa đéc đồng tháp có hàng hog
+1-17||#24889	Có óp lưng máy này hog
+1-2||#24890	Cho hỏi ở shop cát đằng y yên có còn hàng m3s không
+1-10||#24891	may nay choi lien quan mobile muot khong ad
+1-10||#24892	Tải Go Launcher được ko
+0-18||#24893	Ad cho hỏi tại sao meizu m3s của e chỉ bắt được một số wifi.còn phần lớn là không.nhận ip rất lâu.mà được tí lại nhận ip tiếp.mong ad hướng dẫn
+1-2||#24894	Ở Bình Thuận còn hàng ko
+1-2||#24895	Hết màu trắng rồi sao
+0-0||#24896	Sao có lúc giá 2 590 000, lúc thì 2 900 000, co lúc 2 690 000
+0-9||#24897	Qtv cho e hỏi e mua máy này tuần thứ 2 rồi nhưng wifi bắt kém, cùng 1wifi nhưng mọi người xung quanh đều chạy rầm rầm mà e thì ko bắt đc. Máy luôn trong tình trạng đang dò tìm kết nối wifi. Và khi nhắn tin trên messenger các nhãn dán ko hề hiện mặc dù mạng rất mạnh. Lý do vì sao và cách khắc phục ntn. Với lỗi như vậy e có đc đổi máy khác để khỏi bị lỗi này ko
+1-2||#24898	Shop cho mình hỏi cửa hang tai thi xa thai hoa nghĩa đàn nghê an còn meizu m3a ko ạ
+1-2||#24899	cho mình hỏi shop ở huyện Ba Vì Hà Nội còn hàng k
+1-2||#24900	ở Ninh Bình có hàng k
+1-2||#24901	máy còn hàng không shop . mình ở quận 6 , tphcm . có cửa hàng nào gần đó còn sản phẩm này kh
+1-2||#24902	sản phẩm này còn màu đen không vậy QTV?
+0-9||#24903	Máy ko bik có bị hư ko mà mình mua về dùng thì chơi game online mạng ko ổn định, khá lag mặc dù wifi mạnh 5 vạch, lên ứng dụng youtube thì load HD rất lag mà mình lên youtube trên UC thì ko lag tí nào, chạy rất mượt
+0-18||#24904	Qtv cho e hỏi e mới mua máy ở shop ngày 18 giờ e muốn trả lại máy thì sao ạ qtv cho e giá cụ thể ạ phụ kiện đầy đủ tại loa hơi nhỏ rung cũng nhẹ ai gọi hay ll gì k biết nên e muốn đổi mọi thứ ok
+0-18||#24905	mình mới mua máy này thấy cũng ổn. mẫu mã đẹp.các tính năng hay .chơi game tuyệt.Nhưng camera k được ưng ý cho lắm.màu khi chụp khá nhợt nhạt không chân thực. nói chung với tầm giá 2tr6 thì ok.
+0-18||#24906	Minh la nam gioi thi su dung mau nao thich hop hon..va the hien dc su manh me hon...hien tai minh la nhan vien ky thuat pha che son...tu van giup minh nhe
+1-10||#24907	May nay su dung con chíp nay co tot k z.. hay chi la trung binh thoi
+0-18||#24908	May nay cua trung quoc z su dung lau dai co tot k...mih xai dt ky lam..nhug so dc ben...cho hoi them la hien tai o quan 9 duong le van viet co hang k z...va co may mau...minh tinh mua ngay bay jo
+1-2||#24909	Có màu vàng hồng không ạ?
+1-10||#24910	Meizu M3s có bản cập nhập android 6.0 chưa ạ
+1-10||#24911	MÁY NÀY CHƠI ĐƯỢC LIÊN QUÂN KHÔNG Ạ
+0-1||#24912	e lỡ khôi phục lại cài đặt gốc xong r mất hết ch play trở về cấu hình như lúc đầu thì phải làm sao ạ?
+1-2||#24913	có bản 3gb/32gb ko ạ ?giá bn ạ?
+1-10||#24914	May nay su dung co tot k...sao k thay ai su dung het z...
+1-10||#24915	Camera may nay chup the nao..co net va dep k
+0-8||#24916	M3s tra góp cong ty tai chính saigon lãi thé nào ạ
+0-3||#24917	May nay vs samsung j2 prime thi cai nao tot hon..xet tat ca ve moi mat
+1-6||#24918	điện thoại có được tặng ốp lưng với tai nghe không shop
+0-9||#24919	Qtv oi Sao tu nhien may Minh Khong vao camera duoc no bao la "may quay dang duoc su dung vui long Thu lai sau"
+1-10||#24920	Lên đc android 6.0 chưa ạ
+0-8||#24921	trả góp 0% hả shop
+1-2||#24922	Tân An ( log an) còn màu trắng và có ốp lưng ko
+0-8||#24923	Trả trước 20% là bao nhiêu tiền vậy.góp trong vòng mấy tháng.mỗi tháng đóng bao nhiêu tiền vậy ạ
+0-9||#24924	Máy mk sạc hay bị nóng vậy có phải lỗi do nhà sản xuất k ạ
+1-8||#24925	Máy này có hỗ trợ trả góp k vậy?
+0-18||#24926	Nút bật tiếng của mình bị liệt thì phải làm thế nào
+0-18||#24927	Qtv cho mình hỏi,tại sao máy meizu m3s mình mua mới mà không lập được tài khoản flyme(tài khoản này tương tự icloud của iphone).vậy máy mình mua có phải máy mới không.sđt mua hàng của mình 0913984626
+1-23||#24928	Ad cho e hỏi e mua máy được mấy tháng bây giờ cửa hàng có nhập lại k ạ
+1-2||#24929	ở quảng ngãi có máy ram 3gb rom 32gb ko
+1-2||#24930	Còn hàng ở gò vấp ko
+1-17||#24931	Có ốp lung ko
+1-2||#24932	ở bến tre còn hàng ko shop
+1-2||#24933	Ở FPT shop uông bí-quảng ninh có còn màu xám ko?
+0-10||#24934	cho em hỏi máy màu xám có mặt trước màu gì
+1-2||#24935	cho em hỏi còn màu xám ko ak
+1-2||#24936	o quang ngai con may nay khong
+1-2||#24937	quận 5 có cửa hàng nào còn hàng không ad
+1-10||#24938	cho mình hỏi meizu m3s này có kết nối otg ko vậy
+0-18||#24939	H ma mun mua máy nay ma minh tự đập hộp dc k ạ
+1-2||#24940	Ad cho e hỏi ở bắc ninh còn hàng k ạ
+0-18||#24941	máy này khi mua khách hàng đập hộp hay fpt mở hộp trước vậy
+1-2||#24942	cho mình hỏi FPT shop khu vự bình thạnh còn meziu m3s ko ạ?
+0-17||#24943	cho mình hỏi meizu m3s thì dùng tai nghe loại nào thì thích hợp?
+1-2||#24944	Fptshop o tp thanh hoa còn m3s đen k ạ
+1-2||#24945	Cho mình hỏi bên fpt từ sơn bắc ninh còn hàng không và nếu là bản nhập về khi cài thêm các ứng dùng google rồi thì có định vị và dẫn chỉ đường được không
+1-2||#24946	Cho e hỏi meizu m3s tại vĩnh long còn hàng không.sản phẩm có hỗ trợ trã góp không.trả trước là bao nhiêu, trã trong vòng mấy tháng
+1-10||#24947	máy này có tiếng việt ko ạ
+1-10||#24948	May co ban cap nhap 6.0 chua ad
+1-2||#24949	O can tho con hang mau den khong
+1-2||#24950	Ở cần thơ còn hàng màu đen xám không ạ
+1-1||#24951	lam sao de cai tieng viet cho may nay
+1-1||#24952	cho em hỏi, máy có thể nâng lên android co hơn không a?
+0-5||#24953	IMEI1: 863246032244886 IMEI2: 863246032244894 kiểm tra giúp e xem máy còn BH đến bao giờ ạ
+0-18||#24954	máy này chơi liên quân có máy không đang tinh mua mà sợ online 3g nóng máy
+0-9||#24955	em ms mua hơn có 1 tuần mà sao xài gần 1 tiếng xem youtube mà nó tụt tới 24% lun vậy ạ,, pin 3000mAh mà sao vậy?
+1-10||#24956	Máy có cảm biến vân tay ko a
+0-9||#24957	Sao Máy này chơi game thì nóng máy có bị ảnh hưởng gì đến đt hay pin ko ak
+1-2||#24958	Fpt shop cát đằng thị trấn lâm ý yên còn hàng không ạ
+1-10||#24959	Cho e hỏi máy hỗ trợ 4g k ạ
+1-2||#24960	Ninh kiều cần thơ còn k ad?
+0-18||#24961	Tai sao meizu m3s fpt ban ra khong co san CHplay sao giong may xach tay vay
+1-2||#24962	Huyện đức hoà tỉnh long an còn hang ko shop
+1-10||#24963	meizu m3s co ban 3gb ram k ad?
+0-18||#24964	Anh/chi cho e hỏi là hôm nay e có ấn vào bảo mật ở trên mh chính thì nó mới có cái là tập tin. E bấm vào thì thấy hiện dọn dẹp xong e ấn dọn hết thê là bh k tài nào vào đc ch play. Bấm vào thì n cứ bảo lỗi từ máy chủ. Bh e phải làm ntn thì mới vào đc ch play và cài lại những phần mềm cần thiết ạ? Mong anh/Chị giúp e vs 😭😭😭
+0-15||#24965	Fpt bán hàng chán quá.mình mua máy m3s ở shop mà hỏi mấy shop khác đều báo ko có ốp lưng.chả biết tìm đâu nữa
+0-9||#24966	M3s của em n k vô được ch play là sao ạ cài đủ dịch vụ google services r reset máy r cũng k đc ạ đt em mua ở fpt shop
+1-2||#24967	fpt shop 53 trần hưng đạo . tp huế còn sản phẩm k ad?
+1-2||#24968	Fpt phạm văn đồng còn sản phẩm này ko shop?
+1-5||#24969	em mua rồi nhưng làm bể màn hình có được bảo hành không
+1-2||#24970	đông anh- hà nội còn hàng k shop ơi
+1-10||#24971	Có phiên bản 3gram ko ạ
+1-4||#24972	Giao hàng tận nơi thì có tính phí không ạk?
+1-2||#24973	Ở hà nội còn hàng k ad.?
+1-10||#24974	máy co ngôn ngữ tiêg việt ko ad
+0-17||#24975	Meizu M3s cu sac la dong may ampe vay ad
+0-5||#24976	863246032250404 Check hộ mk bảo hành vs
+1-2||#24977	ở hồ tùng mậu có hàng k ạ
+0-18||#24978	qtv ơi e mua đt ở nha trang nhưng e có thể bảo hành máy tại dak lak được k ạ
+0-17||#24979	Có tai nghe nào hỗ trợ meizu m3s không ạ, tai nghe em cắm mic k nhận, chỉ nghe dc thôi ạ
+1-2||#24980	o phu my-tan thanh-br vung tau co may moi hoac may doi tra k qtv.?
+1-2||#24981	Cần Thơ còn hàng không ad?
+1-2||#24982	Bình dương còn hông vậy
+1-2||#24983	Thạch thất còn hàng k ak
+1-2||#24984	kiêngiang có hang ko ạ
+0-10||#24985	Mat kinh lam bang kinh gi a ad.
+0-16||#24986	Tot hon samsung nua
+0-16||#24987	May nay xai tot
+0-2||#24988	hà nôi còn ở đâu ạ
+1-6||#24989	máy này có giảm giá không vậy
+1-21||#24990	Khoong lấy phiếu mua hàng có được giảm trực tiếp trên máy không ad?
+1-2||#24991	Cam ranh còn bán k vậy
+0-10||#24992	Máy này chơi Liên Quân Mobile liên tục thì được khoảng mấy tiếng vậy bạn.
+1-14||#24993	tôi mua sản phẩm tại fpt shop đc 15 ngày rồi, hiện tại tôi ko hài lòng về sản phẩm liệu có đổi đc qua máy khác hay ko
+1-2||#24994	Cho mình hỏi, ở chi nhánh hải dương còn hàng k ạ
+1-10||#24995	máy này mặc định đã có play store với tiếng việt chưa???
+1-8||#24996	m3s bán trả góp có trả góp 0 % lãi không anh/chị nếu có thì trả trước bao nhiêu
+0-18||#24997	Cho mình hỏi mình đã mua điện thoại meizu m3s tại cửa hàng rồi. Nhưng cửa hàng không có kính cường lực nên mình dán màn hình thường. Mình đã mua kính cường lực ở ngoài rồi đem lại cửa hàng dán hộ mình được không vậy
+0-10||#24998	fptshop cho mình hỏi con này có.nhược điểm gì và có cách nào dùng cả 2 sim lẫn thẻ nhớ ko ạ
+0-3||#24999	Em đang xài Sony M5, em có nên đổi sang Meizu M3s không ạ ?
+0-3||#25000	sản phẩm này với Điện thoại Asus Zenfone 2 Laser 5.0" LTE cái nào ngon hơn
+1-10||#25001	Kính này kính thường hay cường lực zay AD
+1-2||#25002	Ở vinh còn hang ko ạ
+1-2||#25003	Hộ Phòng - Bạc Liêu còn hàng ko vậy
+0-6||#25004	cho hỏi chương trình khuyến mãi đến khi nào mới kết thúc vậy ad
+0-0||#25005	meizu m3s này hiện tại là bao nhiêu vậy??(ở cửa hang)
+0-18||#25006	Ad oi minh dat mua may cu nhung nho nguoi khac lai lay dum duoc ko
+1-10||#25007	dt này có CH play ko nhỉ
+1-10||#25008	Ad cho mình hỏi khi mua m3s có up rom tiếng việt, ch play sẵn không ạ
+1-2||#25009	Ở châu đốc còn hàng kh ạ
+0-10||#25010	ban flyme hien tai cua m3s la bao nhiu??
+1-17||#25011	Bên mình có miếng dán cường lực của M3s không và giá bao nhiêu vậy
+0-8||#25012	Mỗi lần đóng trả góp mình có cần mang cmnd và bằng lái lúc làm hồ sơ mua không ạ? Nhờ người khác đóng dùm có được không ad?
+0-8||#25013	QTV cho em hỏi ngoài 3 gói trả góp có sẵn trên web thì phần thứ 2 là tự chon gói trả góp theo nhu cầu. số tiền trả trước và góp hàng tháng chon theo giấy tờ mình có ở phần 2 lúc tra cứu trên web có chính xác không ạ
+0-10||#25014	Qtv cho em hỏi. Meizu m3s chỉ có 1 khay sim,thẻ nhớ chung à. Có nghĩa lắp thẻ nhớ rồi chỉ có thể lắp được 1 sim nữa thôi hay sao???
+0-18||#25015	anh chị cho em hỏi công ty mình có gian hàng trên lazada ko z ạ
+1-8||#25016	cho em hỏi là meizu m3s có bán trả góp hok anh/chị
+1-2||#25017	kiểm tra giúp mình m3s màu trắng bạc ở tp. hcn còn ko nhé qtv
+1-10||#25018	máy này chạy trên HĐH flyme os 6.0 đúng k ạ
+1-2||#25019	ở Bến Tre còn hàng không ad?
+0-3||#25020	Cho em so sánh con này với ObiSF1 xét về mọi mặt ạ
+1-2||#25021	Còn ở xuân mai chương mỹ k ạ
+1-10||#25022	Máy có đèn thông báo không ạ ?
+0-10||#25023	vân tay ngoài mở khóa màng hình ra còn khóa đc ứng dug không ạ
+0-2||#25024	Ở Cần thơ còn mấy màu ạ??
+1-5||#25025	Máy em bị rơi phần nhựa ở trên của máy khi lắc có tiếng phát ra có được bảo hành không ad
+1-2||#25026	Còn hàng ở nha tranh k ad
+1-5||#25027	E mua máy cách đây 3 tuần,dán cả trc lẫn sau hết 99k,sau khi về e lột miếng dán đằng sau nhưng k hề đụng đến miếng đằng trước.sau 3 tuần sử dụng thì miếng mặt trc có hiện tượng bong tróc nổi bong bóng,vậy e có dc bảo hành không ?
+1-2||#25028	ở TP Tam Kỳ, Tỉnh Quảng Nam còn hàng không ạ?
+0-5||#25029	Qtv giúp tôi kiểm tra thông tin bảo hành máy meizu m3s có imei 861417036908667
+1-2||#25030	Ở duy tiên còn k ạ
+1-6||#25031	Sản phẩm meizu m3s hok có tặng tai nghe kèm theo à qtv
+1-2||#25032	Còn sản phẩm này k ạ shop ?
+1-10||#25033	Co tieng viet khong vay
+1-10||#25034	Dt nay co loai 32gb k a. Bao nhiu tien
+0-18||#25035	Shop có vận chuyển máy đổi trả không? Mình thấy máy vẫn bảo hành và là máy bán ra ở fpt nen thấy yên tâm!
+0-9||#25036	Dt minh bi mat cambien van tay va ko rung nua.giup minh voi
+0-1||#25037	Tôi đang xài dt meizu m3s. Nhưng tại sao hot apps của t lại không tải được vậy ạ? Không thể cài ch play được mà cũng không tạo đc tài khoản plyme luôn ạ. Xin giúp dùm
+1-6||#25038	Mua 2 lần có đk khuyến mai gi k shop
+0-18||#25039	Tôi đang xài điện thoại meiu m
+1-2||#25040	FPT cho mình hỏi gần Vincom Vĩnh Tuy có shop nào còn hàng không? Nếu không thì phải order rồi ship COD hay là CK trước ạ?
+1-2||#25041	cho em hỏi là ở buôn ma thuột còn hàng không ạ
+1-2||#25042	Cho em hỏi của hàng FPT Shop có địa chỉ tại số 6 Lạc Trung (Ngã tư Lạc Trung- Kim Ngưu), Q. Hai Bà Trưng, TP. Hà Nội còn hàng không ạ? Nếu còn thì còn nhiều hàng không ạ?
+1-2||#25043	Sản phẩm này có ở quãng bình không
+0-18||#25044	Các bạn nên tham khảo kỹ( dịch vụ - chính sách bảo hành, pin, ...) trước khi rước em m3s này về nha! Mình quan một tg trải nghiệm có chút đánh giá như sau: 1. Giá cả so với cấu hình thì cực kì tốt 2. Đáp ứng đc nhu cầu người dùng, máy vừa tay dễ thao tác 3. Cảm biến vân tay lúc đầu rất tốt từ từ về sau rất khó nhận dạng được mặc dù mình đã reset, thêm mới dấu vân tay => cũng không vấn đề gì lớn vì trong tầm giá này không đòi hỏi cao được. 4. Máy có cảm giác bị đơ cảm ứng khi mình để trên bàn mà chạm vào màn hình ( khi đó mình ko cầm máy mà để trên bàn để thao tác) phải cầm máy lên chạm cảm ứng mới ăn 5. Mình mua máy đc khoản đc hơn 1 tuần thì pin có vấn đề khi dưới 20% thì pin tuột rất nhanh chưa đầy 3p là tắt máy ( để mở màn hình thôi ko chơi game hay mở ứng dụng nào hết) đem ra bảo hành thì nhà phân phối bảo để máy lại gửi trung tâm kiểm tra, mình hỏi có cho mượn máy dùng tạm hay không thì ko có ( máy phím nghe gọi cũng đc nhưng ko có luôn => tệ hơn VTA ) thời gian giữ máy lại gần nữa tháng vậy ko lẽ mình phải bỏ tất cả ko liên lạc công việc trong thời gian bh máy sao hoặc bỏ tiền ra mua 1 cái đt cơ bản để dùng ak, mặc dù máy mình trong thời hạn 30ngày đổi trả đó, mình quyết định mang máy về và chịu thôi!
+0-18||#25045	Phiếu mua hàng Phụ kiện 100.000đ là áp dụng khi mua máy với mọi hình thức hay chỉ áp dụng mua online thôi ạ.
+1-2||#25046	ở đà nẵng còn máy màu gray ko ạ ?
+1-2||#25047	cho hỏi FPTshop tp Bà Rịa/ BRVT còn hàng không ạ. Cảm ơn
+0-18||#25048	Minh muon mua chiec mezu m3s mau xam den hoac xam bac. Minh o huyen Hoai Duc Ha Noi ra shop nao lay vay ad lien lac 01659181382.
+1-2||#25049	Cho em hỏi còn m3s màu vàng ở cơ sở nào trên địa bàn Hà Nội ạ?
+0-18||#25050	Shop ơi, em đặt hàng chiếc m3s với shop và đã nhận hàng thành công vào ngày 10/2 và hôm nay lúc 10h14' shop có gọi đt cho em vào số 01692721394, có vấn đề gì ạ
+0-18||#25051	khoản 500.000 đc k qtv
+1-17||#25052	Fpt có dán cường lực cho m3s ko ạ
+0-8||#25053	cho hoi mua tra gop đưa trước bao nhiu v
+1-23||#25054	máy này mới mua đc 20 ngày, mình muốn đổi lại lấy tiền mua máy mới thì mk đc bn tiền?
+0-18||#25055	Qtv cho hỏi tặng phiếu mua hàng 100.000 lúc mình muốn mua ốp lưng thì chỉ cần đưa cái phiếu đó không mất tiền phải không
+1-2||#25056	ad cho hỏi cửa hàng ở huyện thạch thất còn máy màu bạc k ạ
+0-8||#25057	Trả góp máy này thì làm sao ?
+1-6||#25058	nay mua có còn được giảm gái còn 2.590.000 k ạ?
+1-14||#25059	Ad cho mình hỏi khi mua máy đổi trả còn bảo hành nếu mình ko thích có được đổi máy khác ko
+0-1||#25060	Làm sao cho led nháy khi có cuộc gọi
+0-18||#25061	Mua giao hang tan nha co duoc boc tham trung vang 9999 ko ?
+1-6||#25062	chương trình khuyến mãi có áp dụng cho trả góp không vậy ad
+1-2||#25063	AD cho mình hỏi đã có hàng con m3s này ở Đà Nẵng chưa ạ?
+0-18||#25064	gia da giam chua
+0-2||#25065	cho hoi o hai phong cho nao con hang
+1-2||#25066	sản phẩm có hàng ở thủ đức ko vậy?
+0-0||#25067	phiên bản ram3 Gb giá bn ạ?
+1-2||#25068	Ở trà vinh có hàng ko shop
+1-2||#25069	Máy còn màu Hồng ko shop?
+0-9||#25070	Qtv cho e hoi may e mua cua fpt nhung bi roi 2 lan chi suoc vo canh ti thoi ko biết mang ra fpt co dược doi san phẩm moi không tài may e bi loi mic m
+1-2||#25071	cho em hỏi bên shop 145 Hai Bà Trưng Phúc Yên còn máy không ạ.
+0-18||#25072	Sau máy này có hàng đôi trả nhiều quá z????
+0-1||#25073	Em cài đặt lại nhà sản suất. Giờ muốn cài ch play thi làm thế nào
+1-2||#25074	ad check giúp M3s còn hàng ở shop Cẩm Giàng - Hải Dương k ạ
+0-1||#25075	ta sao may Meizu m3s co 1 khe cam the sim vay. sim 2 gan o dau
+0-5||#25076	mình có mua hàng trực tiếp tại chi nhánh của fpt shop. mà k có giấy bảo hành hay j sao. lỡ mình muốn đem bảo hành thì làm s. lúc mua mình cũng k để ý về r mới nhớ ra
+0-18||#25077	Cho e hỏi máy có sẵn google play store với tiếng việt khi mở hộp ko ạ? Hay mở xong mới cài rom ạ? Và máy này có đc lên android 6 ko ạ?
+1-17||#25078	Fpt shop có bán óp lưng máy này không?
+1-2||#25079	Chi nhánh ở triệu sơn thanh hóa còn hàng ko ạ??
+1-2||#25080	O my tho con ko qtv
+1-2||#25081	Qtv cho e hỏi fpt shop tại kẻ sặt bình giang hải duơng ccòn máy này không ạ? M3s
+1-2||#25082	Ở brvt còn hàng ko ad
+0-1||#25083	Cho e xin link tãi chplay..
+0-18||#25084	Khi sạc pin có nên tắt nguồn không bạn.
+1-0||#25085	Ad ơi ! 2.590 đã bao gồm VAT chưa vậy ? Nếu ra cửa hàng ( thủ đức) mua là có liền hay phải đặt trước mới có ?thanks
+0-18||#25086	Anh ơi cho em hỏi là điện thoại meizu m3s của em có đem đi bảo hành 2 tuần trước ấy ạ, sao đến bây giờ trung tâm bảo hành chưa gọi cho em, mặc dù trong tờ giấy bảo hành của em ghi mai là ngày lấy máy rồi ạ. Anh có thể nào kiểm tra giúp em không, tên là Nguyễn Minh Tiến, ở Bà Rịa
+1-10||#25087	Có bản 3GB ram ko ad?
+0-18||#25088	May meizu m3s co ho tro tay nghe khong ad
+0-18||#25089	Ad ơi hôm nay em để điện thoại trong túi quần thì bị bong mất miếng dán màn hình em mang ra shop có được dán lại không ạ?
+1-2||#25090	Nghĩa Lộ yên bái còn hàng ko ad
+1-2||#25091	Ở Long Xuyên, An Giang còn hàng không vay ad.
+1-10||#25092	meizu m3s có chơi đc liên quan mobile k
+0-18||#25093	Mua may ngay 20.10 dán màn hình thoi gian dan mien phi la may thang ạ
+0-18||#25094	cho e hoi may e bi loi mic thi sua lam.sao hay pai dua ra shop bh
+0-18||#25095	E đây ta flyme sao ko được ạ
+1-10||#25096	máy này có phiên bản 3GB k ạ
+0-18||#25097	lúc mới mua máy có sẵn CH play chưa ạ hay phải nhờ nhân viên kĩ thuật cài giùm
+1-17||#25098	Meizu m3s có miếng dán cường lực k ạ
+0-15||#25099	Máy tui mua chưa được 1 tháng, dán màn hình cả 2 mặt, nhân viên fpt dán ẩu quá mặt sau dán không dính gì cả nhìn thấy ghê luôn
+1-10||#25100	Có cảm biến vân tay ko vậy
+1-8||#25101	Có trả góp 0% ko vậy ạ?
+1-8||#25102	Máy này có thể trả góp ko ạ?
+0-18||#25103	khuyến mãi 3% dến mấy giờ 12/2 vậy ad không đặt hàng online có được tặng phiếu giảm giá không ad
+1-10||#25104	May ho tro 4g k vay ad
+1-2||#25105	shop con may o go dau tay ninh hk za
+1-2||#25106	Fpt tp huế còn m3e mặt trước màu đen ko ad??
+0-6||#25107	Bộ sản phẩm gồm những gì vậy Ad? Thanks Ad!
+1-2||#25108	ở cần thơ còn hàng không z???
+1-2||#25109	cho e hỏi máy này còn hàng ở bến tre chưa ad và máy này có tiếng việt không ad
+1-2||#25110	fpt shop tiên lãng còn hàng ko qtv?
+1-5||#25111	Xin kiểm tra giúp mình xem sdt 0914603855 này còn thời gian bảo hành k?
+0-8||#25112	Vay tra gop ntn vay...tra truoc bao nhieu gop may thang moi thang gop bao nhieu vay
+0-8||#25113	Tra gop 0% tra truoc bao nhiu moi thang tra bao nhieu
+1-17||#25114	em moi mua chieu nay nhan vien tu van noi may nay ko co tai phone la dung hay sai a
+0-18||#25115	có google play store với tiếng việt chưa ạ ?
+1-2||#25116	Cho em hỏi đại lý FPT Plieku còn sản phẩm này không ạ?
+1-10||#25117	Hình như m3s này không có ch play phải không qtv
+0-14||#25118	cho em hỏi la em có mua máy lúc 8/12/2016 giá 2.590.000 đ và hiện tại máy gần như mới full box đầy đủ bây h em bán lại thì đc bao nhiêu ạ em cảm ơn :)
+1-2||#25119	Máy còn ở tỉnh hà nam ko ad
+0-9||#25120	Mấy hôm nay ĐT của mình nhanh hết pin quá, ko dùng cũng nhanh hết. ĐT mình vẫn còn bh nhung hộp + giấy tờ mất hết có bỏ đi ko?
+1-2||#25121	Di linh lam dong con hang khong
+0-9||#25122	Ktra ram của máy sau ạ. Sau lúc nào thấy còn 469mb ram trống trong khi ứng dụng chạy ngầm ko có????
+0-18||#25123	Em mua hàng online bên fpt, shop nói 5 ngày có là có hàng, giờ đã tới 5 ngày rồi sao chưa thấy shop gọi vậy
+0-1||#25124	Chào. Máy này có phần mền gián điệp ko ạ??? Có phần mền nào chống virut và ktra phần mềm gián điệp trên meizu m3s ko ??
+1-2||#25125	còn hàng ở chi nhánh Cần Giuộc Long An không QTV
+0-5||#25126	đe tra cứu bao hành của meizu thì lm thế nào shop
+1-2||#25127	FPT Yên Bái còn hàng meizu m3s và meizu m3 note không quản trị viên?
+1-10||#25128	Máy có bảo mật vân tay ko shop?
+1-2||#25129	fpt shop ở Võ Văn Ngân, Thủ Đức còn hàng k ạ?
+1-2||#25130	ôi Hậu Giang và Sóc Trắng còn hàng k add
+0-1||#25131	hướng dẫn em vào đâu đểcó New theme đi ạ
+0-18||#25132	Cho mình hỏi là tại sao khi sử dụng máy này mình tải youtube về nhưng ko dùng đc. Nó hiện lên dòng chữ ứng dụng sẽ ko chạy vì thiết bị của bạn ko hỗ trợ các dịch vụ cần thiết
+0-18||#25133	qtv cho e hỏi là mã giảm giá cứ mỗi lần vào trang này là dc nhận 1 mã khác nhau. thế rốt cục là phải lấy mã nào. chị nhân viên có nói là gửi mã giảm giá vào tin nhắn cho e nhưng chưa thấy gửi. qtv giải thích giùm e ạ, e đã đặt hàng rồi, sđt e 0987236197
+0-15||#25134	Sao mua hàng không được vậy ad?
+0-1||#25135	Qtv cho e hỏi làm s để đổi font cho m3s
+1-2||#25136	còn hàng tại điểm nào ở Hải Dương không ạ ( Bình Giang hoặc Cẩm Giàng )
+1-2||#25137	kiểm tra giúp em ở đà nẵng còn hàng ko với ạ
+0-14||#25138	Mình mới mua con M3s tại shop. Giờ thấy ko ưng ý mình đổi sang máy khác phải bù như thế nào???
+0-14||#25139	Chào. Máy mới mua hôm nay muốn đổi trả thì shop thu lại bao nhiêu ạ???
+1-2||#25140	meizu m3s còn hàng ở chi nhánh Tích Lương - Thái Nguyên không ạ
+1-10||#25141	Bên mình có bản 3GB ram không ạ ?
+1-2||#25142	ad cho e hỏi có máy này tại shop thành phố vinh nghệ an ko
+1-2||#25143	Hàng còn ở mỹ hào không vậy
+0-10||#25144	Chào. Pin con này onl screen đc bao lâu ở chế độ 3g để xem fb zalo ạ??? Khoảng thôi
+1-4||#25145	Ad cho em hỏi bên mình có giao hàng thu tiền tận nơi không?
+1-2||#25146	ở cần thơ có shop nào còn màu bạc mặt trước màu trắng ko??
+1-2||#25147	Hàng này con ở ngai giao brvt ko
+0-18||#25148	Lúc nãy có đặt meizu m3s của shop. 0989446xxx cho xin mã giảm giá với ạ
+1-10||#25149	k có màu hồng sao shop?
+0-9||#25150	mình mua máy này sao về downd phần mềm quản lý ram nó ghi có 1g6 trong khi đề là 2g ram
+0-14||#25151	H muốn đổi trả thì sao ạ mua hôm 5.2 ạ
+0-5||#25152	Shop có hỗ trợ sữa chữa ko ??? Mua tại shop bảo hành ra sau??
+1-2||#25153	Trà vinh có màu đen ko ad???
+0-10||#25154	Tại sao RAM của máy chỉ là 1.6GB? Máy chạy còn chậm hơn cả M2.
+1-17||#25155	Bên shop có bán màn hình kính cảm ứng của Meizu M3s không ạ?
+1-2||#25156	o quy nhon con hang k v
+1-17||#25157	Qtv cho hỏi sp có miếng dán màn hình không
+1-2||#25158	còn hàng tại quảng ngãi ko ad ?
+0-9||#25159	Fpt báo 2g Ram mà sao e vào cpu z thì nó báo có 1,6g vậy
+0-0||#25160	meizu m3s bản 3 gb giá bao nhiêu tiền
+0-1||#25161	Ban oi. Lam the nao de cai nhac chuông cho va 2 sim vay
+0-18||#25162	ban oi loi san pham trong thoi han bao lau thi duoc 1 doi 1
+0-18||#25163	m3s ko cài đc ch play à AD
+0-10||#25164	đã có tiếng và google play chưa ạ
+0-10||#25165	pin như vậy xài đc bao lâu?
+1-0||#25166	Cho em hỏi là máy này sau 1 thời gian nữa có lên giá trở lại 2990000
+1-10||#25167	Sản phẩm mới 100% phải ko ạh
+0-8||#25168	Cho e hỏi e muốn mua trả góp 2 con meizu m3s thì bên mình có chính sách gì không ạ
+1-2||#25169	fpt 739 kinh duong vuong tphcm co hag k
+0-9||#25170	E mí mua cái m3s về xài thì cảm thấy mái hơi nóng.... ko bít máy có vấn đề j ko ạk
+1-10||#25171	Màn hình 2,5D của máy m3s này là cường lực hay không vậy ad
+1-10||#25172	Có cảm biến vân tay ko ạ
+0-9||#25173	máy mới mua về mặt sau chia làm 3 phần và phần đầu bằng nhựa phần sau thì rất chắc nhưng phần đầu khẽ gõ nhẹ thì nó kêu cọc cọc giống kiều gia công không chắc chắn.máy mới mua nên giờ có thể qua shop đổi máy mới không ad
+1-10||#25174	Có kết nối otg khôg ad???
+0-18||#25175	khi máy còn khoảng 40% pin, mình cắm sạc vào máy có bị chay pin ko
+0-19||#25176	có thể tư vấn cho mình một điện thoại có camera và hiệu năng tốt trong tầm giá dưới 3 triệu đc ko?
+0-9||#25177	Máy bị lỗi về việc gọi đến không đổ chuông. Lúc được lúc không, khởi động lại máy là được, sau đó lại không nghe nữa. Nếu tôi đem bảo hành thì mất bao lâu và cần đem những gì?
+1-10||#25178	Máy có kết nối 4G không
+1-2||#25179	Ở cầu giấy , hà nội có hàng ko ?
+0-1||#25180	Ad ơi đt này có khung team nhỏ ở đằng sau có tẩy hay xóa đc ko ạ
+1-2||#25181	Tân thành br-vt có hàg k shop ạ??
+1-2||#25182	Bắc giang có không shop
+1-17||#25183	O shop co bán op lưng k the?
+1-2||#25184	Ở quảng nam còn máy này k vậy qtv
+0-18||#25185	cho e hỏi bên mình giá 2560 là chưa giảm ạ. bh đặt hàng xong nhập code là đc giảm ạ
+1-10||#25186	có phiên bản 3g không ad?
+0-2||#25187	ở tỉnh long an chi nhánh nào còn hàng qtv
+0-18||#25188	cho em hỏi sao em dùng dk 30 phút mà máy vẫn không sụt tý pin nào hết là tại sao ad
+1-14||#25189	nếu mua về Không vừa ý.. Thì trong 1 tuần có được trả hàng lại và hồi tiền lại không
+1-17||#25190	Cho em hỏi máy này ốp lưng và miếng cường lực ko ạ
+1-10||#25191	May nay co den flash truoc k
+0-16||#25192	Nhân viên nhiet tình. Máy tốt. Tuyetj voi lắm. :)
+1-2||#25193	máy còn ở chi nhánh Đà Lạt hay Đức Trọng không ạ ?
+1-17||#25194	hiện tại fpt shop có kinh doang tai nghe nào tương thích với meizu m3s k ?
+0-18||#25195	Anh cho em hỏi? Meizu m3s của em mới mua hôm 29 tết giờ em làm rớt bị bể màn hình, nếu em gửi shop thay thì phải tốn khoản bn tiền ạ? Em chỉ cần ép kính lại thôi, bên shop có ép kính k? Hay là thay nguyên bộ ạ?
+0-18||#25196	máy ko update được lên adroi 6.0 ah ad
+1-17||#25197	Có dán cường lực ko ạ.
+1-10||#25198	Máy này có vân tay không vậy
+1-2||#25199	Bắc giang có k vậy
+1-2||#25200	Máy này mua ở fpt shop ở hà nội chỗ nào cũng có phải k ạ
+1-2||#25201	fpt shop trà vinh còn hàng ko ah
+1-2||#25202	ở hòa bình còn hàng không vậy
+1-2||#25203	qtv cho m hỏi ở thành phố Vĩnh Yên, Vĩnh Phúc có cửa hàng nào của fpt shop ko ạ?
+1-2||#25204	Ở thị xã tân uyên, phường uyên hưng có hàng không ạ??
+1-2||#25205	khu vực bến lức, long an có hàng k ạ ??
+1-6||#25206	chương trình khuyến mãi hết hôm nay phải không ạ
+1-2||#25207	Cho hỏi bên fpt ở tỉnh lộ 10 quận bình tân còn hàng k
+1-10||#25208	máy này đã có tiếng việt với ch play chưa ad?
+0-18||#25209	Qty cho mi
+0-18||#25210	Qtv cho mi
+0-8||#25211	Tra gop 6thang co tra truoc thi can nhung giay to gi a?
+1-2||#25212	Ở fpt shop rạch sỏi _kien giang co hag ko a?
+1-10||#25213	ko có bản 3g ram ah ad
+0-9||#25214	E mới mua máy vào ngày 5.2 mua về thì máy ko cài sẵn ch play, lúc sạc máy thì máy rất nóng, nhìn lại đầu sạc meizu thì 5v 2a ko pik chuyển sang đầu sạc 5v 1a máy có tương thích ko
+1-2||#25215	384 phạm văn đồng có hàng ko ?
+0-8||#25216	E muon mua tra gop ma e o cach cua hang khoang 60km...vay tra gop bang cach nao a?
+1-2||#25217	cho em hỏi máy meizu m3s còn hàng tại quận hà đông ko ạ
+1-17||#25218	có ốp lưng của m3s k a
+1-2||#25219	ở chi nhánh lái thiêu bình dương còn meizu m3s ko ạ
+0-10||#25220	Shop cho hỏi đây là vân tay một chạm hay cần mở sáng màn hình
+0-10||#25221	cảm biến vân tay nhấn giữ có mở khóa không vậy hay là cần sáng màn hình
+1-2||#25222	M muốn mua máy trắng thì bh có hàng???
+0-5||#25223	giờ máy mang qua fpt bảo hành có được đưa máy khác để sử dụng trong thời gian chờ bên hãng bảo hành không?
+0-3||#25224	Camera 13mpx cua may va cua huawei Y6ll thi may nao chup anh dep hon ak?rieng ve chup anh ban dem may chup anh tot dc nhu Y6ll ko ak l?
+0-14||#25225	tôi muốn trả lại máy trong 30 ngày đầu thì mất bao nhiêu % ạ
+0-18||#25226	Mua điện thoại thôi có cần mua thêm cái gì nữa kh ?
+0-8||#25227	Tra trc 490k moi thag gop nhiu trog 6thag a?
+1-2||#25228	Khu vực Bình Thạnh, TPHCM còn máy này ko QTV?
+0-18||#25229	Máy này ko dùng đc mạng của sim 2 ạ
+0-8||#25230	Tra gop 6thag thi sao a?
+1-2||#25231	O rạch sỏi,kiên giang còn hàng ko ạ?ừ
+1-2||#25232	di linh lam dong có hang khong
+0-3||#25233	Gần giữa máy meizu m3s này và huawei y6 ii con nào tốt và nên mua hơn ạ
+1-17||#25234	Đa có dán màn hình cho may chua fpt
+0-8||#25235	Mình muốn mua trả góp m3s làm thế nao?
+1-1||#25236	Máy này mua về có cần sạc 8 tiếng ko ạ
+1-10||#25237	M3s có hỗ trợ cắm cùng lúc 2 sim và 1 nhớ ko ạ.?
+0-18||#25238	máy này khi reset lại có bị mất CH play k ạ
+0-9||#25239	E mới mua 1 chiếc meizu m3s tại shop. Về nhà cắm củ sạc vô nguồn điện thì phát hiện tiếng kêu rè rè bên trong củ sạc thì có bị làm sao k ạ???
+1-2||#25240	showroom tại trường chinh còn máy màu đen ko Ad? và khi mua có được tặng ốp lưng với miếng dán cường lực ko ? thank ad
+0-18||#25241	e moi mua con nay cach day 2 ngay ma sang h su dung khoang nua tieng ma no khong tuot pin..pin hien 100% no k tuot..xin tu van giup e
+0-18||#25242	đt này có phần tự động root có sẵn trong máy.. thế lúc unroot nó có còn bảo hành bth không vậy?
+1-14||#25243	Mình có thể đổi Điện thoại mobiistar Lai yuna s lấy điện thoại này không?
+1-2||#25244	Sản phẩm này còn hàng ở Trà Vinh không ạ?
+1-10||#25245	m3s len 6.0 chua
+1-2||#25246	Cho hỏi sp này còn ở biên hoà ko
+1-2||#25247	Cho hỏi sp này còn ở bh không
+0-18||#25248	Mình muốn mua con này nhưng cửa hàng FPT gần nhà mình ko có.. Nếu mua thì có được chuyển hàng về cửa hàng FPT gần nhà mình ko
+0-8||#25249	Mua tra gop tra truoc 50% tra trong 12 thang. Co giay cmnd , ho khau, hoa don truyen hinh cap thi moi thang dong bao nhieu
+0-1||#25250	làm Sao để tắt tiên đoán của Meizu m3s vậy add. tks
+1-10||#25251	Máy này có sử dụng 3g Sim 2 được Không vậy
+0-14||#25252	Mua m3s từ 8.12.2016, máy còn nguyên xi như mới ko một vết trầy. Giờ muốn đổi lên m3 note thì bù bao nhiu fpt??
+1-2||#25253	TP Bảo Lộc có máy chưa ad ?
+0-9||#25254	QTV cho tôi hỏi về chút vấn đề loa của máy phía dưới thân máy, theo tôi nhìn thấy hình như có 2 bên loa. mà sao có nghe được mỗi 1 bên vậy? đây có phải bị lỗi về phần cứng không? do khi phát nhạc chỉ nghe được 1 bên. Máy mới mua vào chiều nay 15h ngày 04/02/2017 tại FPT Shop 69K phan bội châu TP Buôn ma thuột, dak lak. Do chị Nguyễn Trần Minh Nhựt giới thiệu và bán sản phẩm, vì lúc đó cũng đang vội quá tại shop không kiểm tra kỹ về nhà mở nhạc nghe mới thấy lạ vậy. xin qtv giải đáp giúp. cảm ơn nhiều !
+1-2||#25255	Meizu m3s còn hàng ko b? Số của mình. 0963353357. Liên hệ để mình đặt luôn nhé
+0-3||#25256	Máy meizu m3s và huawei y6 ii thì về cấu hình và chụp ảnh thì máy nào tốt hơn ? Em cám ơn
+0-8||#25257	Nieu minh mua tra gop tra truoc 40% con lai gop 6 thang voi cty HD saigon vay so tien gop moi thang la bao nhieu va can giay to gi ak?
+1-6||#25258	phu kien kem theo may gom nhung gi vay em.
+0-18||#25259	Anh của em mua trả góp online..giờ bận không lấy được..em có thể lấy thay không ad
+1-10||#25260	Máy có cảm biến vân tay ko v
+1-2||#25261	Cho hỏi quận Bình Tân còn hàng không vậy
+0-18||#25262	Hôm trước e mua meizu m3s ở shop mình nhưng thấy có nhãn giấy dán sau máy nhìn rất mất thẩm mỹ. Ko biết e xé ra có ảnh hưởng gì bảo hành ko ?
+1-17||#25263	Có được dán lại màn hình không ạ?
+1-2||#25264	Vũng tàu có hành k ạ
+0-0||#25265	Giảm 3% là còn bao nhiêu vậy ạ
+1-2||#25266	Còn màu vàng tai fpt shop vĩnh long ko ạ .
+1-2||#25267	Thành phố ninh bình còn hàng ko Máy hỗ trợ trả góp nhứ thế nào ạ
+0-23||#25268	E mua chưa đc 1 tháng..gio muốn bán lại..chỉ còn máy k hộp k phụ kiện v fpt có thu k v
+0-6||#25269	Chương trình lì xì đầu năm kéo dài bao lâu vậy ạ
+0-10||#25270	dung lượng pin nhiều ko ạ. pin sài dc lâu ko ad
+1-2||#25271	ở vĩnh long còn hàng ko ạ
+1-2||#25272	Hiện nay có bán tại Tam Kỳ Quảng Nam không ad?
+0-22||#25273	cho mình hỏi máy này khoảng bao giờ có hàng ạ?
+0-1||#25274	Cho mjk hoi. Meizu M3s .khi nhăn tin cham vao mag hjh chư cái.máy rung rung.tat chế độ rung do o dau ak.
+1-2||#25275	Có màu đen ko ad ơi!!
+0-14||#25276	mình mua tại FPT Shop TP Tân An ngày 7/1/2017 giờ shop thu lại được baao nhiêu ạ.
+1-10||#25277	máy này có hộ trợ 4g ko ak
+1-17||#25278	có miếng kính cường lực không shop ?
+1-10||#25279	shop cho mình hỏi là điện thoại có dùng được 4G không
+0-18||#25280	Shop cho em hỏi là em mua coi meizu m3s được gần 1 năm rồi mà bây giờ nó vô nước, em mở máy lại thì nó nóng cỡ mười mấy phút, cho em hỏi là bây giờ máy có bảo hành được không ạ
+1-2||#25281	Có hàng ở chi nhánh gần khu sao mai long xuyên không ạ
+1-17||#25282	Ad ơi M3s này ko có ốp ak
+0-18||#25283	sao nhập mã giảm giá không được
+1-2||#25284	ad cho mình hỏi cửa hàng ở Lạc Trung ,Hà Nội còn hàng khộng ạ
+1-17||#25285	Bên shop Đà Lạt có miếng dán cường lực với ốp lưng cho máy này k ạh
+0-1||#25286	Bật đèn thông báo trên m3s sao ạ??
+1-17||#25287	Ốp lưng m3s bên fpt có bán không?
+0-3||#25288	Chơi game chụp ảnh con này với samsung j2prime con nào ngon hơn
+1-2||#25289	O thị xã Gò Công tỉnh tiền Giang có hàng k shop
+0-18||#25290	Nếu mua ở cửa hàng thì có được cài sẵn chplay và rom tieesng việt không
+1-2||#25291	Có hàng ở đức trọng lâm đồng ko vậy add
+0-18||#25292	Gio muon thay pin fai lam sao QTV ? Len Fpt thay dc k ?
+1-6||#25293	còn giảm giá k ạ
+1-10||#25294	Co ram3g k ạ
+1-2||#25295	bên mjk có cơ sở nào gần quốc oai ko ạ
+0-18||#25296	Xin hoi cách gỡ nắp sau cua meizu m3s ,de minh ktra pin . pin lien k biet kiem tra pin co bi phồng hay k ntn
+0-1||#25297	cai ban phim tieng viet ntn ak
+0-27||#25298	Cho hỏi cụ thể địa điểm fpt shop tại nhà bè là ở đâu
+1-2||#25299	Tân an long an còn hàng không ạ
+0-3||#25300	MEIZU M3s với Obi SF1 thì cái nào xài tốt hơn vậy bạn.
+0-10||#25301	Xin hỏi ram chính thức của meizu m3s là bao nhiêu?
+1-2||#25302	ở phú yêu có hàng ko ạ
+1-17||#25303	Bên mình có bán cục sạc meizu k ạ
+1-2||#25304	Xuân lộc có hàng không bạn
+0-9||#25305	Qtv cho e hỏi may e quay video không nghe thay tiếng chi nghe tiếng soạt soạt vay may e bi lm Sao
+1-14||#25306	Mình mới mua điện thoại vào sáng ngày 2/2/2017 thì bây giờ mình có thể đổi được ko vậy? Mình muốn đổi sang màu khác thôi
+0-18||#25307	Cho e hoi shop mjk co sua di noi hong mích quay video trên meizu m3s ko
+0-3||#25308	Con này với samsung j2prime con nào chơi game mượt hơn vs chụp ảnh nữa máy nào nét hơn
+1-17||#25309	máy này có cường lực chưa
+0-14||#25310	Em moi mua dt meizu 3s vao ngay 20/10 voi gia 2,5tr gio em doi tra dt lai thi dc Khoang bao nhieu vay Qtv cho em con so tham khao yh
+1-2||#25311	meizu m3s co hang tai sa dec dong thap hk
+1-2||#25312	Shop o tp.cao lãnh kon hàng ko ak.
+1-2||#25313	Cho hỏi còn hàng ở nhà bè kh
+1-2||#25314	Quy Nhơn còn máy này ko ad
+1-2||#25315	ở huế còn máy này ko ạ
+0-18||#25316	Cho mình hỏi FPTshop có cài lại Room cho m3s không vậy?.. mình xin cảm ơn!
+1-17||#25317	Tại tại shop ĐL có ốp lưng cho meizu m3s chưa anh
+1-2||#25318	Meizu m3s có hàng ở fptshop ở long thành không
+1-2||#25319	O FPT bac lieu con hang ko ak?
+0-0||#25320	May em m3 note bi hu mang hinh sua het bao nhieu a
+1-10||#25321	Có bản RAM 3G ROM 32 GB k v
+0-1||#25322	Làm sao để chuyển ứng dụng sang thẻ nhớ vậy qtv??
+0-18||#25323	Nếu lên được Android 6 thì tự động cập nhật ngay trên đt hay phải đến FPT để được cài đặt lên
+1-10||#25324	Sản phẩm đã lên được Android 6 chưa ạ?
+1-10||#25325	Có chống nước không ạ
+0-3||#25326	Nêú so sánh sản phẩm này với sam sung j3 pro thì cái nào hơn ạ
+1-2||#25327	Có ở nghệ an ko ạ em địng 16 mua con này ko bierts có còn ko
+1-2||#25328	ở Đak Lak còn hàng ko ạ và chỗ còn hàng ở địa chỉ nào ạ
+1-2||#25329	Ở Nam Định còn hàng ko ạ và chỗ còn hàng ở địa chỉ nào ạ
+1-10||#25330	m3s có vân tay ko ạ
+0-8||#25331	hinh thic tra gop con meziu m3s thé nao
+1-2||#25332	meziu m3s con mau trang k ạ e ở cao bằng
+0-18||#25333	Cho mk hoi mua ve co can cai dat chplay ko hay may co san roi va may co ho tro tieng viet ko
+0-0||#25334	con này loại 3G thì giá nhiu ạ
+1-2||#25335	ở huế còn hàng không ad?
+0-1||#25336	Cho mình hỏi tắt âm rung ở bàn phím như nào vậy qtv
+1-2||#25337	Fpt ở đăk nông còn hàng không qtv
+1-2||#25338	Fpt trà vinh hiện còn màu xám k?
+1-2||#25339	Meizu m3s ở đak lak còn hàng không ạ
+1-2||#25340	Ở Vị Thanh - Hậu Giang có hàng không ạ?
+0-15||#25341	Cách làm việc của nhân viên tại địa chỉ 192A Nguyễn Thị Định Quận 2 vô cùng bức xúc. Họ nhìn bề ngoài mà phân biệt khách hàng, tôi bước vào không một ai ra chào hỏi và tư vấn sản phẩm cho tôi cả. Vậy FPT Shop cần những người khách hàng như thế nào ạ ?
+0-9||#25342	Máy mình dùng dt gần 1h r mà pin vẫn 100% chứ ko tụt. Qtv giải thích dc ko?
+1-10||#25343	máy có thể nâng cấp lên android 6 ko QTV
+0-18||#25344	Meizu m3s mình thấy trên trang chủ flyme có phiển bản 5.1.12.0G rồi mà sao trên điện thoại vẫn chỉ báo phiên bản mới nhất là 5.1.5.1G. Shop cho mình it thông tin với ạ
+1-2||#25345	TP Bảo Lộc còn meizu m3s không Ad?
+1-2||#25346	Long Xuyên còn máy này không ạ
+0-6||#25347	cơ hội chúng vàng 999 là sao vậy
+1-2||#25348	Ở sóc sơn còn meizu m3s
+1-2||#25349	Fpt trà vinh còn hàng không ad
+1-2||#25350	còn máy màu đen ở khu vực miền nam ko ad
+0-8||#25351	trả góp 0% thì trả bao nhiêu tháng mỗi tháng bao nhiêu ạ
+1-2||#25352	Cho e hỏi ở tuyên quang còn hàng không ạ
+1-10||#25353	Máy này giờ có tiếng việt chưa ạ
+0-9||#25354	Meizu m3s mình mua ở fpt shop gia lai.màn hình không cảm ứng được nữa.mong ad chỉ cách khắc phục
+0-4||#25355	ship khoảng cánh 23km thì sao ạ
+1-2||#25356	fpt lệ thủy còn hàng k v
+1-2||#25357	Fpt shop ở kiến giang- lệ thủy- quảng bình còn meizu m3s không ạ?
+1-2||#25358	FPT Shop 229 Nguyễn Thị Tú còn hàng k v shop
+0-6||#25359	cho em hỏi, nếu áp dụng khuyến mãi 10% trước tết thì sẽ không nhận được khuyến mãi cơ hội trúng vàng và phiếu mua phụ kiện hã shop ?
+1-0||#25360	Hết đợt tết thì may có tang gia ko v a?
+1-2||#25361	Cho mk hỏi khu vực Ninh Bình còn hang ko?
+1-2||#25362	cho mình hỏi FPT SHOP - Đức Trọng - Lâm Đồng còn hàng không vậy
+0-22||#25363	ở cần thơ không còn màu trắng sao shop? khi nào mới có hàng lại vậy?
+0-18||#25364	Nhờ qtv hỏi giúp bên TTBH xem mặt kính máy Ms giá bn vậy.E mới bị rơi vỡ kính ngoài
+0-18||#25365	Mình đặt hàng đc km giảm 10% mà fpt báo chỗ mình hết hàng. Không hỗ trợ chuyển kịp tới mùng 6 tết. Vậy thiệt thòi quá :(
+1-23||#25366	Mình mua máy này của fpt shop trên lazada muốn bán lại thì có cần đem theo gì ko ạ
+0-1||#25367	Cho mình hỏi cách chuyển ứng dụng sang thẻ nhớ cho ĐT này nên?
+1-2||#25368	Cho minh hoi o go vap cua hang nao con may mau den a
+1-2||#25369	Ở Thị Trấn Hậu lộc còn hàng không ad?
+0-3||#25370	Cho mình hỏi Meizu M3s vs Q luna pro máy nào tốt hơn ạ
+0-18||#25371	Nhận hàng từ 8:00 mùng 4 đến ngày vậy ạ
+0-18||#25372	Bên xác nhận đơn đặt hàng đã xác nhận đến mùng 3 tết chưa qtv
+0-18||#25373	ad ơi sáng nay em kiếm meisu m3s họ bảo không có ổ ROM 32G và RAM 3G trên wed thì em coi video giới thiệu thì có vậy theo ad có nên đặt lại clip đó ko :v em bị hố quá hihi
+0-10||#25374	Meizu m3s hỗ trợ 4G LTE cat bao nhiêu vậy?
+0-18||#25375	mình đặt hang hôm qua tuc la trước 23h mùng 3 tết mã giảm giá 10% ra fpt hỏi thì nhân viên bảo là ko biết là sao ạ
+1-2||#25376	ở khu vực củ chi còn hàng không
+0-6||#25377	trong hộp con này gồm những gì ... ?? có bán ốp lưng con này không ??
+1-17||#25378	Ở FPT shop có thay mặt kính của chiếc meizu m3s k vậy ad
+1-2||#25379	shop ở 94A trường chinh, q12, tp hcm còn k hàng k shop ơi
+0-14||#25380	Mình mới mua dx hơn 1 tháng bây h muốn đổi trả thì mất bao nhiu % máy còn đầy đủ phụ kiện
+0-18||#25381	Fpt shop kiểm tra giúp mình máy còn thời hạn bảo hành bao nhiêu tại fpt vậy ? Hiện tại mình ko thể gọi điện được vì ko có điện thoại . Mong AD giúp đỡ imei1 : 863246036236185 imei2: 863246036236193
+0-18||#25382	Đặt hàng hôm qua không có ai gọi v ad. Mã 10% dùng như nào đây ạ?
+0-18||#25383	Mong ad giải đáp: 1. Muốn đổi trả máy thì ra cửa hàng lúc mua hay trên toàn hệ thống đều được 2. Máy đã đi bảo hành thì được đổi trả không và có tính thêm % không
+0-8||#25384	Zay minh muon mua va lam ho so online thi lam the nao ak?va khi lam ho so online xong co can phai lay them giay to gi de ra sieu thi nhan san pham ko?
+1-2||#25385	shop ơi còn hàng ở tphcm k ạ
+0-8||#25386	Minh muon mua may nay tra gop voi cty HD saigon thi can co giay to gi de lam thu tuc zay ak?
+1-6||#25387	Hôm qua mình mới đặt hàng xong con này hôm nay mình lên nhận thì có dc giảm 10% ko?(mình ở đà nẵng)
+0-18||#25388	Chưa thấy shop gọi lên. Cửa hàng có dc giảm 10% không
+0-18||#25389	hôm qua đặt rồi sao chưa thấy shop gọi nhỉ
+1-10||#25390	Khong co ban 3g ram ha shop
+0-18||#25391	Khi nào mới hết giảm 10% tiền
+1-10||#25392	Máy này có hỗ trợ otg ko
+1-2||#25393	Hiện tại hàng còn ở shop TPHCM k ạ
+0-18||#25394	sao nhập mã k được...ghi đã nhập sai hay dã sử dụng là sao
+0-18||#25395	Sao mình bấm mua hàng rồi mà k có chỗ nhập mã giảm giá thế ad.
+0-18||#25396	sao nhập mã lại k được nhỉ ? hôm nay là ngày cuối nữa chứ
+0-22||#25397	Fpt chung nao moi ban lai v
+0-18||#25398	Admin ơi cho em hỏi mã giảm giá mừng tết có hạn cuối là ngày nào vậy? Em cảm ơn
+1-10||#25399	Có bản RAM 3gb không FPTshop
+0-1||#25400	mình mất CH phay rồi phải làm sao
+1-10||#25401	máy có lên được Android 6 ko QTV?
+0-17||#25402	co op lung con nay ko bn meizu m3s
+0-9||#25403	A oi cho e hoi sao chiec meizu m3s cua e pin tut nhanh qua vay
+0-9||#25404	Máy anh chị bày em cách kiểm tra pin của mình còn bình thuơngf đi ạ s máy em nay mau xuống pin quá
+1-2||#25405	Bình dương cỏn kh shop
+0-9||#25406	em mua đt khoảng 3 tháng rồi ạ.com giờ nó bị ám đỏ màn hình kinh khủng luôn. thì giờ em phải làm sao ạ?
+1-2||#25407	Con o buon ma thuot k ad
+1-17||#25408	Ở fpt shop dan Phuong có ỐP lưng máy m3s ko ạ
+0-1||#25409	Em khôi phục cài đặt gốc xong mất hết mấy cái như Google play sevices và CH play, giờ làm sao giờ shop?
+0-18||#25410	ở thị trấn ân thi có những shop nào ạ
+0-18||#25411	ngày tết mùng mấy shop bán tiếp ạ
+0-1||#25412	Làm sao để tắt rung khi mình viết tin nhắn dc vậy ad?
+0-10||#25413	Antutu danh gia sp nay bao nhiêu điểm ạ
+0-1||#25414	Cho hỏi làm sao để khôi phục cài đặt gốc cho meizu m3s này ạ
+1-17||#25415	ở đây mình có thay mặt kính Bị vỡ của chiếc meizu m3s không ạ
+0-18||#25416	Shop hom nay mo cua hang den may gio
+0-18||#25417	Cmnd cua minh da mua tra gop roi gio mua nua dc ko
+1-10||#25418	Đt này ko hỗ trợ tìm kiếm bằng giọng nói hả ad
+0-18||#25419	Con meizu của e sao n k cài đc claucher tải trên ch play đc ạ áp dụng r mà ấn phím home là về giao diện cũ
+1-10||#25420	Meizu M3s có tính năng chạm 2 lần tắt/mở màn hình không ạ
+0-22||#25421	Muon mua tra trc 50% may mau vang gio dat hang sao vay
+0-1||#25422	Cho e hoi vao opera max ntn
+0-18||#25423	Cho em hỏi con m3s của em sao không cài được claucher tải trên ch play ạ e áp dụng claucher ấn phím home là n về giao diện cũ của máy
+0-9||#25424	cho em hỏi điện thoại meizu m3s của em có hiện tượng chấm đen trên cammera sau vì sao lại bị như vậy ạ??
+0-9||#25425	Tự nhiên ĐT bị mất CH play là bị sao ạ
+0-18||#25426	Cho mình hỏi Nếu đặt online giảm 10% nhưng lỡ không mua được không ạ
+1-2||#25427	Cửa hàng fpt tại Móng Cái còn meizu m3s không ạ
+0-18||#25428	Ngay mai shop co mo cua khong
+0-9||#25429	Máy của mình dạo này sạc pin lâu đầy quá. Qtv có biết là lỗi gì? Và cách khắc phục được không ạ.
+0-6||#25430	Thông tin giảm giá 10% là sao ạ? Cửa hàng fpt nào ở vĩnh long còn hàng meizu m3s ạ? Và còn màu gì? Thanks ạ
+1-10||#25431	M3s co tieng Viet khong vay
+0-9||#25432	Sao meizu m3s của tôi khi xem youtube thì màn hình giật lắc
+1-2||#25433	Shop 7 hùng vương còn meizu m3s ko ạ
+0-10||#25434	Meizu M3s sử dụng giao diện Flyme OS mấy vậy bạn
+0-18||#25435	Mai mình đặt online giảm 10% cho máy Meizu M3s được không ạ
+1-17||#25436	Cho em hoi máy này có tai nghe không ạ , sao em mua vê nha lại ko có nhỉ
+0-18||#25437	Tôi so sanh may meizu m3s do so ban dung 1may 5.1 5.4g con máy may thu 2 5.1 5.2g la sao
+1-10||#25438	QTV kiểm tra dùm em Meizu M3s có nằm trong danh sách được cập nhập lên android 6.0 không ạ
+1-2||#25439	Ở tp lạng sơn còn hàng k ạ ?
+1-2||#25440	ở củ chi còn hàng ko
+1-8||#25441	May nay co ho tro tra gop ko ak?
+0-3||#25442	Samsung j2 prime với Meizu m3s cái nào tốt hơn vậy ad ? Em cám ơn
+1-10||#25443	Meizu m3s có bảo mật vân tay ko ạ
+0-17||#25444	Giá mà Shop bán thêm phụ kiện cho dòng này thì hay quá :(
+0-18||#25445	Flyme os 6 có phải là android 6.0 không vậy ad
+0-1||#25446	Có bản cập nhập 6.0 chưa ạ
+0-18||#25447	May co 4g ko?va may ho tro la 2 sim va 1 the nho hay chi tuy chon 2 sim hay 1 sim 1 the nho ak?
+1-10||#25448	May nay co ket noi OTG ko zay ak?
+1-10||#25449	Sản phẩm có tự ngắt pin khi sạc đầy ko vậy QTV
+0-18||#25450	Qtv cho hỏi tôi mới mua do này rồi so sánh 2 máy về nhau. Khác ở chỗ bản dựng 1 máy thì 5.1 5.4g con máy thứ 2 là 5.1 5.2g là sao
+1-10||#25451	cho em hỏi là đt này 16GB hay 32GB vậy? Hay là tùy bạn? Nếu tùy bản thì giá ra sao?
+0-0||#25452	Máy có giá 2.590.000 luôn không hay hết chương trình khuyến mãi là 2.990.000 lại ạ
+0-18||#25453	Em ở đường 30/4 ạ
+1-10||#25454	cho em hỏi nước sản xuất của đt này
+1-2||#25455	Ở cần thơ còn hàng đen xám không ạ
+1-2||#25456	Có màu đen xám không ạ
+1-10||#25457	Có cảm biến vân tay không ạ
+0-22||#25458	Khi nào thì con này có màu trắng ạ
+1-2||#25459	Còn hàng ở Trà Vinh k shop?
+1-2||#25460	May meizu m3s con hàg tại ĐL k shop
+0-9||#25461	cho e hoi may cua e goi video wa masenge thi ben ng kia noi thi e nghe thay con ben e noi thi ho ko nghe thay j het la sao a
+0-18||#25462	Xin lich nghi cua fpt shop a
+1-17||#25463	Fpt có bán ốp lưng vs kính cường lực ko ạ
+0-18||#25464	IMEI1: 861417037828484 IMEI2: 861417037828492 Imei đây ạ.
+0-5||#25465	Ad kiểm tra xem máy của em còn thời hạn bảo hành bao lâu thông qua imei được không ạ
+0-18||#25466	Hôm chủ nhật tuần trước mình mang máy xuống FPT để nhân viên kĩ thuật kiểm trả lỗi khi máy đang dùng bình thường, sau đó lại tự nhiên bị out. Được 2-3 ngày thì lỗi này lại đâu đóng đó. QTV cho em hỏi là lỗi gì ạ? Ngày mai 28 tết FPT Shop còn mở cửa không ạ để em còn mang máy đi xuống để kiểm tra?
+1-2||#25467	ở long hài-huyện long điền có shop fpt nhưng có bán MEIZU M3s ko
+1-2||#25468	Tân châu tây ninh còn hàng không ạ
+1-8||#25469	Hom nay còn hổ trợ trã góp ko ạ
+0-9||#25470	Cho e hỏi sao e gọi ng ta bắt máy ns e không nghe gì hết v.. Hãng meizu ms3
+1-17||#25471	Cho hỏi em mới mua máy M3s bên mình nhưng chẳng may rơi bị vỡ bên mình có sửa không ạ. Hay bên mình chỉ bán. Em không biết chỗ nào sửa được màn M3s
+0-1||#25472	cho mình hỏi làm sao để bật đèn led thông báo vậy
+1-2||#25473	Sp này còn ở xuân mai chương mỹ hà nội k ạ
+0-0||#25474	Máy này dán màn hình trước sau hết bao nhiêu tiền ạ?
+1-2||#25475	fpt trên đường lê văn việt quận 9 còn hàng không a?
+1-2||#25476	fpt trên đường võ văn ngân thủ đức còn hàng không vậy ad?
+1-2||#25477	FPT SHop Điện Biên còn hàng k ạ?
+0-18||#25478	QTV cho hỏi màu máy màu xám thì mặt trước màu đen phải không?
+1-17||#25479	Có ốp liwng chưa a
+0-9||#25480	sao máy của mình không đổ chuông khi có cuộc gọi đến vậy, mình đã kiểm tra cài đặt rồi
+0-18||#25481	Qtv cho e hoi cai may meizu m3s e moi mua ben shop no bi den hinh chj hien moi logo meizu la lm sao ak chj gium e voi
+1-17||#25482	Máy m3s có trang bị kính cường lực không add ơi?
+0-8||#25483	Khi mua tra gop minh co the tu quyet dinh tra truoc bao nhieu % khong
+0-6||#25484	Chương trình tặng mã giảm giá 3% áp dụng đến ngày mấy vậy ad
+0-0||#25485	Cho hỏi meizu m3s bị rớt bể kính, cảm ứng màn hình bình thường thì thay thế bao nhiêu? Cảm ơn
+0-14||#25486	Fpt đắk nông cho e hỏi e mua máy đi 4 ngày trả lại mua máy hãng khác thì bị trừ tiền bao nhiêu ạ
+1-2||#25487	Fpt shop o daknong con hang ad
+0-1||#25488	Meizu m3s khi mới mua là chưa có chplay hả qtv phải nhờ KTV cái vào máy ha
+1-2||#25489	Chắc chắn ở fpt đồng tháp còn 2 sản phẩm màu vàng chứ
+1-10||#25490	mizu m3s có ch play k ak,,xao e mua máy vè mà không thấy,,z có phải là máy chính hãng phân phối k?
+0-3||#25491	May nay va huawei y6 ii thi may nao.manh hon
+1-2||#25492	Cho e hỏi fpt vĩnh long còn hàng meizu m3s k ạ? Và đặt hàng onl của fpt phải chuyển khoảng phải k ạ? Tks ad
+1-2||#25493	Siêu thị hồ tùng mậu có hàng màu xám không ạ
+0-9||#25494	Cho e hỏi e có mua MEIZU M3s đổi trả ở fptshop dùng được 1 tuần thì thấy có vấn đề về camera, thỉnh thoảng khi vào camera thì nó lại báo ko thể sử dụng cả trước và sau luôn, vào ứng dụng nào chụp ảnh nào cũng vậy, giờ e phải làm sao.
+1-2||#25495	Ở kỳ anh, hà tĩnh còn hàng kg shop
+1-2||#25496	Ở đồng nai còn màu đen k
+0-18||#25497	Phân biệt giùm em 2 màu bạc
+0-18||#25498	Sạc mấy vậy
+1-2||#25499	Ở đồng tháp còn màu bạc phía trước màu trắng ko
+0-0||#25500	May moi 100% gia bnhieu vay 01
+1-2||#25501	Ben minh con mau vang kg vay?
+0-10||#25502	Mezu m3s sao k co ch play vay shop
+1-17||#25503	Có bán ốp lưng máy này không? QTV
+0-18||#25504	Minh o bao lam cao bang minh muon mua va giao hang tan noi,thi it nhat bao nhieu ngay moi nhan duoc hang a
+0-10||#25505	Meizu3s thời lượng pin dùng đc trong bao lau bạn
+0-18||#25506	Ở đồng nai nha
+1-2||#25507	Meizu 3s còn hàng k ad
+1-2||#25508	Ở lai vung đồng tháp còn hàng ko
+0-0||#25509	cho hỏi máy mình bị bể màn hình. thay bao nhieu tien ak
+1-2||#25510	FPT Bắc Cạn có M3S không vậy ad ?
+1-2||#25511	FPT bắc cạn có sản phẩm này không vậy ad ?
+1-17||#25512	Fut shop có bán ốp lưng sản phẩm này ko vậy???
+1-10||#25513	Meizu M3s có hỗ trợ chạm 2 lần tắt/mở màn hình không ad
+0-18||#25514	Mình xem trả gop của các sp khác có gÓi Âm lun là sao ợ
+0-18||#25515	Tra gop ko dc sao ad.bấm vào trả góp thì vào cái giao diện tìm sp xong lại trở về như cũ
+0-9||#25516	Ảnh hiển thị ở zalo sao mờ quá ạ? Hiển thị không được tốt
+1-2||#25517	Máy còn ở FPT T.P Cao Bằng không ạ?
+1-1||#25518	Kp long điềm. P long binh tan.bien hoa dong nai con hang khong
+1-17||#25519	bên mình có vỏ thay ad
+1-2||#25520	Thi tran gia ray huyen xuan loc con may mavang khong
+0-6||#25521	Chương trình khuyến mãi trên đến ngày mấy vậy ạ
+1-2||#25522	TP.Long Xuyen con may mau vang va xam khong a
+1-2||#25523	còn hàng tại vinh long ko ạ
+0-8||#25524	Cmnd cua minh da mua tra gop o dien may gio mua tra gop may nay duoc khong
+1-8||#25525	Co bang lai xe va cmnd tra gop 50% duoc khong
+1-8||#25526	Co the gop trc 50% khong
+1-8||#25527	Tra gop bang cmnd va bang lai xe dc khong phai gop sao
+1-10||#25528	Cho em hỏi là khi mua máy ở FPT Shop có cài đặt sẵn Google Play Store ko ạ hay là phải tự cài?
+1-2||#25529	Ở lagi bình thuận còn hàng ko
+0-8||#25530	cho em hỏi rằng bàn phím của mình k ghi được tiếng việt thế
+1-2||#25531	Ben ngu tu cau song bang cao bang con hang khong a
+0-4||#25532	Co ship cod tan noi khong a
+0-8||#25533	Cmnd voi ho khau gop 12 thang 1 gop bao nhieu
+0-10||#25534	Pin của Meizu M3s là loại pin li po hay pi lon vậy ad
+0-9||#25535	em xài coi youtube đc 15 phút máy rất nóng làm sao để khắc phục ạ
+
