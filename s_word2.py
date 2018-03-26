@@ -163,6 +163,7 @@ def fit1(X_train,y_train):
     uni_big = SVC(kernel='rbf', C=1000)
     uni_big.fit(X_train, y_train)
     joblib.dump(uni_big, 'model2/uni_big1.pkl')
+
 def test_file():
     uni_big = load_model('model2/uni_big1.pkl')
     if uni_big is None:
@@ -183,6 +184,29 @@ def test_file():
     print "confuse matrix: \n", confusion_matrix(y_test, y_pred,
                                                  labels=["0", "1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11",
                                                          "12", "14", "15", "16", "17", "18", "19", "20", "21","22","23","24","25","26","27"])
-
+def predict_ex(mes):
+    print mes
+    uni_big = load_model('model2/uni_big1.pkl')
+    if uni_big == None:
+        training()
+    uni_big = load_model('model2/uni_big1.pkl')
+    vectorizer = load_model('model2/vectorizer1.pkl')
+    try:
+        mes = unicode(mes, encoding='utf-8')
+    except:
+        mes = unicode(mes)
+    mes = unicodedata.normalize("NFC",mes.strip())
+    test_message = ViTokenizer.tokenize(mes).encode('utf8')
+    test_message = clean_doc(test_message)
+    # test_message = list_words(test_message)
+    clean_test_reviews = []
+    clean_test_reviews.append(test_message)
+    d2 = {"message": clean_test_reviews}
+    test2 = pd.DataFrame(d2)
+    test_text2 = test2["message"].values.astype('str')
+    test_data_features = vectorizer.transform(test_text2)
+    test_data_features = test_data_features.toarray()
+    s = uni_big.predict(test_data_features)[0]
+    return s
 if __name__ == '__main__':
     test_file()
