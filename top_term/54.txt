@@ -1,0 +1,274 @@
+24
+chào : 1
+^^ : 1
+chào_bạn : 1
+chao : 1
+hì : 1
+
+25
+8 : 3
+như_thế_nào : 2
+300k : 2
+tậu : 2
+muon : 1
+tks : 1
+2015 : 1
+phân_vân : 1
+the_nao : 1
+nokia8 : 1
+thời : 1
+trải_nghiệm : 1
+fpt_shop : 1
+chắc : 1
+đặc : 1
+quyết_định : 1
+cái : 1
+
+26
+4 : 1
+đồng_hồ : 1
+dt : 1
+dự_kiến : 1
+bao_gio : 1
+bộ : 1
+phần : 1
+
+27
+hcm : 2
+yen : 1
+lở : 1
+go : 1
+tam : 1
+dien_thoai : 1
+tai : 1
+biet : 1
+nghiem : 1
+cua : 1
+vap : 1
+sửa_chửa : 1
+man_hình : 1
+hung : 1
+lay_may : 1
+trung : 1
+oi : 1
+trai : 1
+
+20
+đặt_trước : 10
+đặt_cọc : 6
+trước : 4
+bây_giờ : 3
+đen : 3
+
+21
+trừ : 70
+pmh : 58
+phiếu : 31
+tru : 15
+vao : 14
+thẳng : 11
+trực_tiếp : 11
+000đ : 9
+áp_dụng : 7
+tien : 7
+200k : 7
+
+22
+chung : 9
+10 : 6
+nhỉ : 6
+
+23
+f3 : 11
+thu_mua : 8
+mua_lại : 7
+lai : 6
+plus : 6
+cũ : 5
+thu : 5
+nữa : 4
+hôm : 3
+
+1
+cách : 93
+trên : 56
+ứng_dụng : 50
+thế_nào : 45
+chỉ : 38
+
+0
+bao_nhieu : 42
+bao : 31
+nhiu : 29
+la : 27
+f1s : 25
+bn : 25
+có_giá : 22
+
+3
+tốt_hơn : 57
+cái_nào : 45
+nên : 38
+pro : 37
+hon : 32
+prime : 30
+j3 : 26
+va : 24
+cai : 23
+meizu : 22
+giữa : 22
+so_sánh : 22
+so_với : 21
+chip : 20
+vs : 20
+j7 : 19
+j2 : 19
+
+2
+hàng_không : 174
+màu : 168
+chua : 125
+màu_xanh : 107
+5 : 96
+hà_nội : 90
+
+5
+bao_hanh : 30
+vỡ : 22
+thời_gian : 20
+rơi : 18
+
+4
+giao_hàng : 9
+tận : 4
+giao : 3
+nơi : 3
+nhà : 3
+đặt_mua : 2
+bình_thuận : 1
+dịch_vụ : 1
+thành_phố : 1
+dk : 1
+niêm_yết : 1
+lê_lợi : 1
+bên_a : 1
+trc : 1
+p : 1
+
+7
+thanh_toán : 11
+bằng : 8
+thẻ : 5
+hay_là : 2
+atm : 2
+hình_thức : 2
+
+6
+khuyến_mãi : 180
+mai : 73
+giảm_giá : 70
+km : 60
+gi : 52
+tang : 51
+quà_tặng : 50
+kèm : 47
+khuyen : 47
+khuyến_mại : 47
+chương_trình : 43
+
+9
+lỗi : 60
+nóng : 42
+nghe : 40
+
+8
+trả_trước : 356
+góp : 229
+cmnd : 152
+gói : 119
+mỗi : 115
+10% : 111
+thang : 105
+
+11
+biết : 4
+thông_báo : 2
+lh : 2
+lien : 2
+emails : 2
+toi : 2
+he : 2
+thanks : 1
+hoặc : 1
+
+10
+liên_quân : 96
+hỗ_trợ : 95
+sim : 95
+tay : 88
+vân : 85
+chống : 70
+nước : 69
+ram : 55
+cảm_biến : 53
+android : 53
+mấy : 49
+4g : 49
+
+12
+đơn_hàng : 2
+người : 1
+4469247 : 1
+online_ntn : 1
+hủy : 1
+hiyr : 1
+phụ_trách : 1
+điện : 1
+xác_nhận : 1
+chân_thành : 1
+d : 1
+
+15
+vẫn : 21
+cả : 18
+ma : 17
+đi : 17
+hôm_nay : 16
+chờ : 16
+
+14
+doi : 91
+khác : 88
+bù : 85
+s7 : 82
+
+17
+ốp_lưng : 142
+cường_lực : 91
+miếng : 54
+ốp : 29
+hộp : 22
+dan : 19
+
+16
+rất : 37
+đẹp : 21
+chụp : 20
+xài : 19
+tầm : 18
+cấu_hình : 15
+ok : 15
+thích : 14
+cũng : 12
+tốt : 11
+nhiệt_tình : 10
+) : 10
+trâu : 10
+khá : 10
+như : 9
+ổn : 9
+đang : 9
+
+19
+nhe : 17
+van : 14
